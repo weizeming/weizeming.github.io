@@ -26,9 +26,10 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 
 # 📝 Publications 
 
-- [CFA: Class-wise Calibrated Fair Adversarial Training](https://arxiv.org/abs/2303.14460)
-
+## CFA: Class-wise Calibrated Fair Adversarial Training
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang
+
+[[pdf](https://arxiv.org/pdf/2303.14460)] [[arviv](https://arxiv.org/abs/2303.14460)]
 
 
 
