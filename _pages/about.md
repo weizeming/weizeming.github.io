@@ -26,10 +26,18 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 
 # 📝 Publications 
 
-## CFA: Class-wise Calibrated Fair Adversarial Training
+## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang
 
-[[pdf](https://arxiv.org/pdf/2303.14460)] [[arviv](https://arxiv.org/abs/2303.14460)]
+[[pdf](https://arxiv.org/pdf/2303.14460)] [[arviv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
+
+## Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages (ICFEM 2022)
+**Zeming Wei**, Xiyue Zhang, Meng Sun
+[[pdf](https://arxiv.org/pdf/2206.14621)] [[arviv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
+
+# 💡 Patents
+## An image classification method based on fair and robust neural networks /*(patent pending)*/
+Yisen Wang and **Zeming Wei**
 
 # 💼 Projects
 
