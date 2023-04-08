@@ -36,10 +36,11 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 [[pdf](https://arxiv.org/pdf/2206.14621)] [[arviv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
 # 💡 Patents
-## An image classification method based on fair and robust neural networks /*(patent pending)*/
+## An image classification method based on fair and robust neural networks *(patent pending)*
 Yisen Wang and **Zeming Wei**
 
 # 💼 Projects
+
 
 # 🎖 Honors and Awards
 - *2022.12* **1st** prize, CMC.
