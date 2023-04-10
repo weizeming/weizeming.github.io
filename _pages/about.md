@@ -22,7 +22,7 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 
 # 🔥 News
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
-- *2022.12*: &nbsp;🏆 Won **1st** prize in Group A, Chinese Mathematics Competitions for College Students (Beijing Division).
+- *2022.12*: &nbsp;🏆 Won **First prize** in Group A, Chinese Mathematics Competitions for College Students (Beijing Division).
 
 # 📝 Publications 
 
@@ -45,7 +45,7 @@ Yisen Wang and **Zeming Wei**
 
 
 # 🎖 Honors and Awards
-- **1st** prize in Group A, 14-th Chinese Mathematics Competitions for College Students (Beijing Division), *2022*
+- **First prize** in Group A, 14-th Chinese Mathematics Competitions for College Students (Beijing Division), *2022*
 - **Merit Student**, Peking University, *2022*
 - **Huatai Science and Technology Scholarship**, Peking University, *2022*
 - **Award for Contributon in Student Organizations**, Peking University, *2021*
