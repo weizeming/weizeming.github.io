@@ -21,8 +21,8 @@ I am a second-year undergraduate student in School of Mathematical Sciences, Pek
 I am interested in improve the trustworthiness of Machine Learning, specifically focus on adversarial robustness and explanability.
 
 # 🔥 News
-- *2023.02*: &nbsp;🎉 1 Paper accepted by CVPR 2023.
-- *2022.12*: &nbsp;🏆 Won **1st** prize in CMC.
+- *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
+- *2022.12*: &nbsp;🏆 Won **1st** prize in Group A, Chinese Mathematics Competitions for College Students (Beijing Division).
 
 # 📝 Publications 
 
@@ -33,21 +33,28 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 
 ## Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages (ICFEM 2022)
 **Zeming Wei**, Xiyue Zhang, Meng Sun
+
 [[pdf](https://arxiv.org/pdf/2206.14621)] [[arviv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
 # 💡 Patents
 ## An image classification method based on fair and robust neural networks *(patent pending)*
 Yisen Wang and **Zeming Wei**
 
-# 💼 Projects
+# 💻 Projects
+
 
 
 # 🎖 Honors and Awards
-- *2022.12* **1st** prize, CMC.
+- **1st** prize in Group A, 14-th Chinese Mathematics Competitions for College Students (Beijing Division), *2022*
+- **Merit Student**, Peking University, *2022*
+- **Huatai Science and Technology Scholarship**, Peking University, *2022*
+- **Award for Contributon in Student Organizations**, Peking University, *2021*
+- **Yang Fuqing & Wang Yangyuan Academician Scholarship**, Peking Univeristy, *2021*
 
 # 📖 Educations
-- *2021.06 - present*, School of Mathematical Sciences, Peking University.
-- *2020.09 - 2021.06*, College of Engineering, Peking University.
-- *2017.09 - 2020.06*, Beijing No.4 High School
+- *2021.06 - present*, Undergraduate Student, School of Mathematical Sciences, Peking University
+- *2020.09 - 2021.06*, Undergraduate Student, College of Engineering, Peking University
+- *2017.09 - 2020.06*, Senior High School Student, Beijing No.4 High School
 
-# 💻 Internships
+# 💼 Academic Service
+- Conference Reviewer: NeurIPS 2023
