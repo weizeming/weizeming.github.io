@@ -31,13 +31,14 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 - Theoretically and empirically investigate the preference of different classes for adversarial configurations in Adversarial Training (AT)
 - Propose a CFA framework which customizes specific training configurations for each class automatically
 - CFA improves both overall robustness and fairness, and can be easily incorporated into other AT variants
-
-[[pdf](https://arxiv.org/pdf/2303.14460)] [[arviv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
+- [[pdf](https://arxiv.org/pdf/2303.14460)] [[arviv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
 
 ## Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages (ICFEM 2022)
 **Zeming Wei**, Xiyue Zhang, Meng Sun
-
-[[pdf](https://arxiv.org/pdf/2206.14621)] [[arviv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
+- Identify the transition sparsity and the context dependency problem in WFA extraction from RNNs in natural language tasks
+- Propose an extraction approach which complement the missing rules and enhance the context-aware ability
+- Our extraction framework is scalable to natural language tasks and of better extration precision
+- [[pdf](https://arxiv.org/pdf/2206.14621)] [[arviv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
 # 💡 Patents
 ## An image classification method based on fair and robust neural networks *(patent pending)*
