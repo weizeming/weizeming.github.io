@@ -9,7 +9,7 @@ main:
   - title: "Publications"
     url: "/#-research-publications"
 
-- title: "Patents"
+  - title: "Patents"
     url: "/#-patents"
 
   - title: "Projects"
