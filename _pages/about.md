@@ -21,15 +21,17 @@ I am a second-year undergraduate student in School of Mathematical Sciences, Pek
 I am interested in improve the trustworthiness of Machine Learning, specifically focus on adversarial robustness and explanability.
 
 # 🔥 News
-- *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
-- *2022.12*: &nbsp;🏆 Won **First prize** in Group A, Chinese Mathematics Competitions for College Students (Beijing Division).
+- *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**
+- *2022.12*: &nbsp;🏆 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division)
 
 # 📝 Publications 
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang
-
-[[pdf](https://arxiv.org/pdf/2303.14460)] [[arviv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
+- Theoretically and empirically investigate the preference of different classes for adversarial configurations in Adversarial Training (AT)
+- Propose a CFA framework which customizes specific training configurations for each class automatically
+- CFA improves both overall robustness and fairness, and can be easily incorporated into other AT variants
+- [[pdf](https://arxiv.org/pdf/2303.14460)] [[arviv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
 
 ## Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages (ICFEM 2022)
 **Zeming Wei**, Xiyue Zhang, Meng Sun
@@ -42,10 +44,14 @@ Yisen Wang and **Zeming Wei**
 
 # 💻 Projects
 
-
+## Using Z3 for Formal Modeling and Verification of FNN Global Robustness
+- Course project for ''Techniques and Methods for Programming'' 
+- Propose a complete specification and implementation of FNN Global Robustness verification utilizing the SMT solver Z3
+- One paper accepted by SEKE 2023
+- [[code](https://github.com/weizeming/Z3_for_Verification_of_FNN_Global_Robustness)]
 
 # 🎖 Honors and Awards
-- **First prize** in Group A, 14-th Chinese Mathematics Competitions for College Students (Beijing Division), *2022*
+- **First prize**, Chinese Mathematics Competitions for College Students (Beijing Division), *2022*
 - **Merit Student**, Peking University, *2022*
 - **Huatai Science and Technology Scholarship**, Peking University, *2022*
 - **Award for Contributon in Student Organizations**, Peking University, *2021*
