@@ -24,7 +24,7 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**
 - *2022.12*: &nbsp;🏆 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division)
 
-# 📝 Research Publications 
+# 📝 Research Publications
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang
