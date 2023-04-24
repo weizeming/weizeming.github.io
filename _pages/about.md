@@ -50,7 +50,7 @@ Yisen Wang and **Zeming Wei**
 - Course project for ''Techniques and Methods for Programming'' 
 - Propose a complete specification and implementation of FNN Global Robustness verification utilizing the SMT solver Z3
 - One paper accepted by SEKE 2023
-- [[code](https://github.com/weizeming/Z3_for_Verification_of_FNN_Global_Robustness)]
+- [[pdf](https://arxiv.org/pdf/2304.10558.pdf)] [[arxiv](https://arxiv.org/abs/2304.10558.pdf)] [[code](https://github.com/weizeming/Z3_for_Verification_of_FNN_Global_Robustness)]
 
 # 🎖 Honors and Awards
 - **First prize**, Chinese Mathematics Competitions for College Students (Beijing Division), *2022*
