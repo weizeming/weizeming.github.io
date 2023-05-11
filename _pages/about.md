@@ -30,7 +30,7 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
-**Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang${\!}^\dag$
+**Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang$^\dagger$
 - Theoretically and empirically investigate the preference of different classes for adversarial configurations in Adversarial Training (AT)
 - Propose a CFA framework which customizes specific training configurations for each class automatically
 - CFA improves both overall robustness and fairness, and can be easily incorporated into other AT variants
