@@ -26,7 +26,7 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 - *2022.12*: &nbsp;🏆 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals
 
 # 📝 Research Publications
-(\*: Equal Contribution; ${\!}^\dag$: Corresponding Author)
+(\*: Equal Contribution; ${\!}^\dagger$: Corresponding Author)
 
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
@@ -37,14 +37,14 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 - [[pdf](https://arxiv.org/pdf/2303.14460)] [[arviv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
 
 ## Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages (ICFEM 2022)
-**Zeming Wei**, Xiyue Zhang, Meng Sun${\!}^\dag$
+**Zeming Wei**, Xiyue Zhang, Meng Sun${\!}^\dagger$
 - Identify the transition sparsity and the context dependency problem in WFA extraction from RNNs in natural language tasks
 - Propose an extraction approach which complement the missing rules and enhance the context-aware ability
 - Our extraction framework is scalable to natural language tasks and of better extration precision
 - [[pdf](https://arxiv.org/pdf/2206.14621)] [[arviv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
 ## On the Relation between Sharpness-Aware Minimization and Adversarial Robustness
-**Zeming Wei${\!}^\dag$\***, Jingyu Zhu\*, Yihao Zhang\*
+**Zeming Wei${\!}^\dagger$\***, Jingyu Zhu\*, Yihao Zhang\*
 - Propose a novel understanding of Sharpness-Aware Minimization (SAM) in the context of adversarial robustness
 - Prove that SAM can be viewed as specific feature perturbations which improve adversarial robustness
 - Experiment demonstrates that only utilizing SAM can achieve superior adversarial robustness compared to standard training, which is an unexpected benefit
