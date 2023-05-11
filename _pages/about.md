@@ -21,24 +21,34 @@ I am a second-year undergraduate student in School of Mathematical Sciences, Pek
 I am interested in improve the trustworthiness of Machine Learning, specifically focus on adversarial robustness and explanability.
 
 # 🔥 News
+- *2023.05*: &nbsp;🎙 I gave a talk on our CVPR paper at **Safe & Responsible AI workshop** (ICLR 2023 social event).
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**
 - *2022.12*: &nbsp;🏆 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals
 
 # 📝 Research Publications
+(\*: Equal Contribution; ${\!}^\dag$: Corresponding Author)
+
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
-**Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang
+**Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang${\!}^\dag$
 - Theoretically and empirically investigate the preference of different classes for adversarial configurations in Adversarial Training (AT)
 - Propose a CFA framework which customizes specific training configurations for each class automatically
 - CFA improves both overall robustness and fairness, and can be easily incorporated into other AT variants
 - [[pdf](https://arxiv.org/pdf/2303.14460)] [[arviv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
 
 ## Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages (ICFEM 2022)
-**Zeming Wei**, Xiyue Zhang, Meng Sun
+**Zeming Wei**, Xiyue Zhang, Meng Sun${\!}^\dag$
 - Identify the transition sparsity and the context dependency problem in WFA extraction from RNNs in natural language tasks
 - Propose an extraction approach which complement the missing rules and enhance the context-aware ability
 - Our extraction framework is scalable to natural language tasks and of better extration precision
 - [[pdf](https://arxiv.org/pdf/2206.14621)] [[arviv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
+
+## On the Relation between Sharpness-Aware Minimization and Adversarial Robustness
+**Zeming Wei${\!}^\dag$\***, Jingyu Zhu\*, Yihao Zhang\*
+- Propose a novel understanding of Sharpness-Aware Minimization (SAM) in the context of adversarial robustness
+- Prove that SAM can be viewed as specific feature perturbations which improve adversarial robustness
+- Experiment demonstrates that only utilizing SAM can achieve superior adversarial robustness compared to standard training, which is an unexpected benefit
+- [[pdf](https://arxiv.org/pdf/2305.05392v1.pdf)] [[arxiv](https://arxiv.org/abs/2305.05392v1)] [[code](https://github.com/weizeming/SAM_AT)]
 
 # 💡 Patents
 ## An image classification method based on fair and robust neural networks *(patent pending)*
