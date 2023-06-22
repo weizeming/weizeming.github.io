@@ -21,13 +21,16 @@ I am a second-year undergraduate student in School of Mathematical Sciences, Pek
 I am interested in improve the trustworthiness of Machine Learning, specifically focus on adversarial robustness and explanability.
 
 # 🔥 News
+- *2023.06*: &nbsp;🎉 1 Paper (as first author & corresponding author) accepted by **ICML 2023 AdvML-Frontiers Workshop**
+- *2023.06*: &nbsp;🇨🇦 I attended **CVPR 2023** at Vancouver and illustrated our poster
+- *2023.05*: &nbsp;🥈 Won **Second prize** in Chinese Mathematics Competitions for College Students **(National final)**
+- *2023.05*: &nbsp;💡 Our patent //An image classification method based on fair and robust neural networks// has passed the first examination and been published
 - *2023.05*: &nbsp;🎙 I gave a talk on our CVPR paper in **Safe & Responsible AI workshop** (ICLR 2023 social event) at Tsinghua University.
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**
-- *2022.12*: &nbsp;🏆 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals
+- *2022.12*: &nbsp;🏅️ Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals
 
 # 📝 Research Publications
 (\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
-
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang${}^\dagger$
@@ -43,12 +46,14 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 - Our extraction framework is scalable to natural language tasks and of better extration precision
 - [[pdf](https://arxiv.org/pdf/2206.14621)] [[arviv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
-## On the Relation between Sharpness-Aware Minimization and Adversarial Robustness
+
+
+## Sharpness-Aware Minimization Along can Improve Adversarial Robustness (ICML 2023 AdvML-Frontiers Workshop)
 **Zeming Wei${}^\dagger$\***, Jingyu Zhu\*, Yihao Zhang\*
-- Propose a novel understanding of Sharpness-Aware Minimization (SAM) in the context of adversarial robustness
-- Prove that SAM can be viewed as specific feature perturbations which improve adversarial robustness
-- Experiment demonstrates that only utilizing SAM can achieve superior adversarial robustness compared to standard training, which is an unexpected benefit
-- [[pdf](https://arxiv.org/pdf/2305.05392v1.pdf)] [[arxiv](https://arxiv.org/abs/2305.05392v1)] [[code](https://github.com/weizeming/SAM_AT)]
+- Theoretically show that using Sharpness-Aware Minimization (SAM) can improve adversarial robustness
+- Empirically illustrate that SAM can improve robustness with a friendly computational cost and no decrease in natural accuracy
+- Propose that SAM can be regarded as a lightweight substitute for AT under certain requirements
+- [[pdf]] [[arxiv]] [[code](https://github.com/weizeming/SAM_AT)]
 
 # 💡 Patents
 ## An image classification method based on fair and robust neural networks *(patent pending)*
@@ -64,6 +69,7 @@ Yisen Wang and **Zeming Wei**
 - [[pdf](https://arxiv.org/pdf/2304.10558.pdf)] [[arxiv](https://arxiv.org/abs/2304.10558.pdf)] [[code](https://github.com/weizeming/Z3_for_Verification_of_FNN_Global_Robustness)]
 
 # 🎖 Honors and Awards
+- **Second prize**, Chinese Mathematics Competitions for College Students (National Finals), *2023*
 - **First prize**, Chinese Mathematics Competitions for College Students (Beijing Division), *2022*
 - **Merit Student**, Peking University, *2022*
 - **Huatai Science and Technology Scholarship**, Peking University, *2022*
