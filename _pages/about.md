@@ -47,7 +47,7 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 - [[pdf](https://arxiv.org/pdf/2206.14621)] [[arviv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
 ## Sharpness-Aware Minimization Alone can Improve Adversarial Robustness (ICML 2023 AdvML-Frontiers Workshop)
-**Zeming Wei${}\*^\dagger$**, Jingyu Zhu\*, Yihao Zhang\*
+**Zeming Wei\*${}^\dagger$**, Jingyu Zhu\*, Yihao Zhang\*
 - Theoretically show that using Sharpness-Aware Minimization (SAM) can improve adversarial robustness
 - Empirically illustrate that SAM can improve robustness with a friendly computational cost and no decrease in natural accuracy
 - Propose that SAM can be regarded as a lightweight substitute for AT under certain requirements
