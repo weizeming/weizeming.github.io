@@ -29,7 +29,7 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**
 - *2022.12*: &nbsp;🏅️ Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals
 
-# 📝 Research Publications
+# 📝 Papers
 (\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
@@ -46,8 +46,6 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 - Our extraction framework is scalable to natural language tasks and of better extration precision
 - [[pdf](https://arxiv.org/pdf/2206.14621)] [[arviv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
-
-
 ## Sharpness-Aware Minimization Alone can Improve Adversarial Robustness (ICML 2023 AdvML-Frontiers Workshop)
 **Zeming Wei${}^\dagger$\***, Jingyu Zhu\*, Yihao Zhang\*
 - Theoretically show that using Sharpness-Aware Minimization (SAM) can improve adversarial robustness
@@ -55,18 +53,17 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 - Propose that SAM can be regarded as a lightweight substitute for AT under certain requirements
 - [[pdf]] [[arxiv]] [[code](https://github.com/weizeming/SAM_AT)]
 
+## Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (Preprint)
+**Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun${}^\dagger$
+- Extended version for ICFEM 2022 paper
+- Propose leveraging the extracted automata for explaining Recurrent Neural Networks with a transition-based word embedding
+- [[pdf](https://arxiv.org/pdf/2306.14040)] [[arviv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
+
+
 # 💡 Patents
 ## An image classification method based on fair and robust neural networks *(patent pending)*
 Yisen Wang and **Zeming Wei**
 - [[publish announcement](http://epub.cnipa.gov.cn/patent/CN116091838A)]
-
-# 💻 Projects
-
-## Using Z3 for Formal Modeling and Verification of FNN Global Robustness
-- Course project for ''Techniques and Methods for Programming'' 
-- Propose a complete specification and implementation of FNN Global Robustness verification utilizing the SMT solver Z3
-- One paper accepted by SEKE 2023
-- [[pdf](https://arxiv.org/pdf/2304.10558.pdf)] [[arxiv](https://arxiv.org/abs/2304.10558.pdf)] [[code](https://github.com/weizeming/Z3_for_Verification_of_FNN_Global_Robustness)]
 
 # 🎖 Honors and Awards
 - **Second prize**, Chinese Mathematics Competitions for College Students (National Finals), *2023*
@@ -83,3 +80,18 @@ Yisen Wang and **Zeming Wei**
 
 # 💼 Academic Service
 - Conference Reviewer: NeurIPS 2023
+
+# 🔗 Links
+(Alphabetical Order)
+### 👨‍🏫 Advisors 
+- [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html)
+- [Yisen Wang](https://yisenwang.github.io)
+
+### 🧑‍🎓 Co-authors
+- [Yifei Wang](https://yifeiwang.me)
+- [Xiyue Zhang](https://zhang-xiyue.github.io/)
+- [Yihao Zhang](https://zhang-yihao.github.io/),
+
+### 💟 Personal Reference
+- [Huanran Chen](https://huanranchen.github.io)
+
