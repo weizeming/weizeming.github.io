@@ -39,6 +39,14 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 - CFA improves both overall robustness and fairness, and can be easily incorporated into other AT variants
 - [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arviv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
 
+## Sharpness-Aware Minimization Alone can Improve Adversarial Robustness (ICML 2023 AdvML-Frontiers Workshop)
+**Zeming Wei\*${}^{\boldsymbol\dagger}$**, Jingyu Zhu\*, Yihao Zhang\*
+- Theoretically show that using Sharpness-Aware Minimization (SAM) can improve adversarial robustness
+- Empirically illustrate that SAM can improve robustness with a friendly computational cost and no decrease in natural accuracy
+- Propose that SAM can be regarded as a lightweight substitute for AT under certain requirements
+- [[pdf]] [[arxiv]] [[code](https://github.com/weizeming/SAM_AT)]
+
+
 ## Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages (ICFEM 2022)
 **Zeming Wei**, Xiyue Zhang, Meng Sun${}^\dagger$
 - Identify the transition sparsity and the context dependency problem in WFA extraction from RNNs in natural language tasks
@@ -46,12 +54,6 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 - Our extraction framework is scalable to natural language tasks and of better extration precision
 - [[pdf](https://arxiv.org/pdf/2206.14621)] [[arviv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
-## Sharpness-Aware Minimization Alone can Improve Adversarial Robustness (ICML 2023 AdvML-Frontiers Workshop)
-**Zeming Wei\*${}^{\boldsymbol\dagger}$**, Jingyu Zhu\*, Yihao Zhang\*
-- Theoretically show that using Sharpness-Aware Minimization (SAM) can improve adversarial robustness
-- Empirically illustrate that SAM can improve robustness with a friendly computational cost and no decrease in natural accuracy
-- Propose that SAM can be regarded as a lightweight substitute for AT under certain requirements
-- [[pdf]] [[arxiv]] [[code](https://github.com/weizeming/SAM_AT)]
 
 ## Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (Preprint)
 **Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun${}^\dagger$
@@ -83,12 +85,7 @@ Yisen Wang and **Zeming Wei**
 
 # 🔗 Links
 (Alphabetical Order)
-### 👨‍🏫 Advisors 
-[Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html)， [Yisen Wang](https://yisenwang.github.io)
-
-### 🧑‍🎓 Co-authors
-[Yifei Wang](https://yifeiwang.me)， [Xiyue Zhang](https://zhang-xiyue.github.io/)， [Yihao Zhang](https://zhang-yihao.github.io/)
-
-### 💟 Personal Reference
-[Huanran Chen](https://huanranchen.github.io)
+- 👨‍🏫 Advisors [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html)， [Yisen Wang](https://yisenwang.github.io)
+- 🧑‍🎓 Co-authors [Yifei Wang](https://yifeiwang.me)， [Xiyue Zhang](https://zhang-xiyue.github.io/)， [Yihao Zhang](https://zhang-yihao.github.io/)
+- 💟 Personal Reference [Huanran Chen](https://huanranchen.github.io)
 
