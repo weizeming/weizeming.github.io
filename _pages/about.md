@@ -68,7 +68,7 @@ Yisen Wang and **Zeming Wei**
 - [[publish announcement](http://epub.cnipa.gov.cn/patent/CN116091838A)]
 
 # 🎖 Honors and Awards
-- **Second prize**, Chinese Mathematics Competitions for College Students (National Finals), *2023*
+- **Second prize**, Chinese Mathematics Competitions for College Students (National Final), *2023*
 - **First prize**, Chinese Mathematics Competitions for College Students (Beijing Division), *2022*
 - **Merit Student**, Peking University, *2022*
 - **Huatai Science and Technology Scholarship**, Peking University, *2022*
