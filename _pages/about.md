@@ -19,7 +19,6 @@ redirect_from:
 
 I am a second-year undergraduate student in School of Mathematical Sciences, Peking University.
 I am interested in improve the trustworthiness of Machine Learning, specifically focus on adversarial robustness and explanability.
-Google scholar <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
 - *2023.06*: &nbsp;🎉 1 Paper (as first author & corresponding author) accepted by **ICML 2023 AdvML-Frontiers Workshop**
