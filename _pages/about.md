@@ -44,7 +44,7 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 - Theoretically show that using Sharpness-Aware Minimization (SAM) can improve adversarial robustness
 - Empirically illustrate that SAM can improve robustness with a friendly computational cost and no decrease in natural accuracy
 - Propose that SAM can be regarded as a lightweight substitute for AT under certain requirements
-- [[pdf]] [[arxiv]] [[code](https://github.com/weizeming/SAM_AT)]
+- [[pdf](https://arxiv.org/pdf/2305.05392)] [[arxiv](https://arxiv.org/abs/2305.05392)] [[code](https://github.com/weizeming/SAM_AT)]
 
 
 ## Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages (ICFEM 2022)
