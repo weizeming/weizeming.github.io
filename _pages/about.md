@@ -77,6 +77,7 @@ Yisen Wang and **Zeming Wei**
 - **Yang Fuqing & Wang Yangyuan Academician Scholarship**, Peking Univeristy, *2021*
 
 # 📖 Educations
+- *2023.08 - 2023.12*, Visiting Student, University of California, Berkeley
 - *2021.06 - present*, Undergraduate Student, School of Mathematical Sciences, Peking University
 - *2020.09 - 2021.06*, Undergraduate Student, College of Engineering, Peking University
 - *2017.09 - 2020.06*, Senior High School Student, Beijing No.4 High School
