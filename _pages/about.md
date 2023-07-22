@@ -21,6 +21,7 @@ I am a second-year undergraduate student in School of Mathematical Sciences, Pek
 I am interested in improve the trustworthiness of Machine Learning, specifically focus on adversarial robustness and explanability.
 
 # 🔥 News
+- *2023.07*: &nbsp;🏫 I will start a visiting student program at **UC Berkeley** in Fall 2023.
 - *2023.07*: &nbsp;🔍 I reviewed 7 papers for **NeurIPS 2023**.
 - *2023.06*: &nbsp;🎉 1 Paper (as first author & corresponding author) accepted by **ICML 2023 AdvML-Frontiers Workshop**
 - *2023.06*: &nbsp;🇨🇦 I attended **CVPR 2023** at Vancouver and illustrated our poster
@@ -28,7 +29,7 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 - *2023.05*: &nbsp;💡 Our patent *An image classification method based on fair and robust neural networks* has been published
 - *2023.05*: &nbsp;🎙 I gave a talk on our CVPR paper in **Safe & Responsible AI workshop** (ICLR 2023 social event) at Tsinghua University.
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**
-- *2022.12*: &nbsp;🏅️ Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals
+- *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals
 
 # 📝 Publications
 (\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
@@ -77,8 +78,8 @@ Yisen Wang and **Zeming Wei**
 - **Yang Fuqing & Wang Yangyuan Academician Scholarship**, Peking Univeristy, *2021*
 
 # 📖 Educations
-- *2023.08 - 2023.12*, Visiting Student, University of California, Berkeley
-- *2021.06 - present*, Undergraduate Student, School of Mathematical Sciences, Peking University
+- *2023.08 - 2023.12 (expected)*, Visiting Student, University of California Berkeley
+- *2021.06 - 2025.06 (expected)*, Undergraduate Student, School of Mathematical Sciences, Peking University
 - *2020.09 - 2021.06*, Undergraduate Student, College of Engineering, Peking University
 - *2017.09 - 2020.06*, Senior High School Student, Beijing No.4 High School
 
