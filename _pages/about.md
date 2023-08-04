@@ -21,10 +21,11 @@ I am a second-year undergraduate student in School of Mathematical Sciences, Pek
 I am interested in improve the trustworthiness of Machine Learning, specifically focus on adversarial robustness and explanability.
 
 # 🔥 News
+- *2023.07*: &nbsp;🏖 I attended **ICML 2023** at Honolulu and illustrated our workshop poster
 - *2023.07*: &nbsp;🏫 I will start a visiting student program at **UC Berkeley** in Fall 2023.
-- *2023.07*: &nbsp;🔍 I reviewed 7 papers for **NeurIPS 2023**.
+- *2023.07*: &nbsp;🔍 I reviewed 11 papers for **NeurIPS 2023** (9 regular + 2 ethics).
 - *2023.06*: &nbsp;🎉 1 Paper (as first author & corresponding author) accepted by **ICML 2023 AdvML-Frontiers Workshop**
-- *2023.06*: &nbsp;🇨🇦 I attended **CVPR 2023** at Vancouver and illustrated our poster
+- *2023.06*: &nbsp;🍁 I attended **CVPR 2023** at Vancouver and illustrated our poster
 - *2023.05*: &nbsp;🥈 Won **Second prize** in Chinese Mathematics Competitions for College Students **(National final)**
 - *2023.05*: &nbsp;💡 Our patent *An image classification method based on fair and robust neural networks* has been published
 - *2023.05*: &nbsp;🎙 I gave a talk on our CVPR paper in **Safe & Responsible AI workshop** (ICLR 2023 social event) at Tsinghua University.
