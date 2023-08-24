@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year undergraduate student in School of Mathematical Sciences, Peking University.
+I am a third-year undergraduate student in School of Mathematical Sciences, Peking University.
+Currently, I am a visiting student at UC Berkeley.
 I am interested in improve the trustworthiness of Machine Learning, specifically focus on adversarial robustness and explanability.
 
 # 🔥 News
+- *2023.08*: &nbsp;🏫 I started a visiting student program at **UC Berkeley** in Fall 2023.
 - *2023.07*: &nbsp;🏖 I attended **ICML 2023** at Honolulu and illustrated our workshop poster
-- *2023.07*: &nbsp;🏫 I will start a visiting student program at **UC Berkeley** in Fall 2023.
 - *2023.07*: &nbsp;🔍 I reviewed 11 papers for **NeurIPS 2023** (9 regular + 2 ethics).
 - *2023.06*: &nbsp;🎉 1 Paper (as first author & corresponding author) accepted by **ICML 2023 AdvML-Frontiers Workshop**
 - *2023.06*: &nbsp;🍁 I attended **CVPR 2023** at Vancouver and illustrated our poster
