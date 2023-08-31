@@ -17,21 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year undergraduate student in School of Mathematical Sciences, Peking University.
+I am a third-year undergraduate at School of Mathematical Sciences, Peking University.
 Currently, I am a visiting student at UC Berkeley.
-I am interested in improve the trustworthiness of Machine Learning, specifically focus on adversarial robustness and explanability.
+I am interested in improving the trustworthiness of Machine Learning, specifically focusing on adversarial robustness and explainability.
 
 # 🔥 News
+- *2023.09*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming**.
 - *2023.08*: &nbsp;🏫 I started a visiting student program at **UC Berkeley** in Fall 2023.
-- *2023.07*: &nbsp;🏖 I attended **ICML 2023** at Honolulu and illustrated our workshop poster
+- *2023.07*: &nbsp;🏖 I attended **ICML 2023** at Honolulu and illustrated our workshop poster.
 - *2023.07*: &nbsp;🔍 I reviewed 11 papers for **NeurIPS 2023** (9 regular + 2 ethics).
-- *2023.06*: &nbsp;🎉 1 Paper (as first author & corresponding author) accepted by **ICML 2023 AdvML-Frontiers Workshop**
-- *2023.06*: &nbsp;🍁 I attended **CVPR 2023** at Vancouver and illustrated our poster
-- *2023.05*: &nbsp;🥈 Won **Second prize** in Chinese Mathematics Competitions for College Students **(National final)**
-- *2023.05*: &nbsp;💡 Our patent *An image classification method based on fair and robust neural networks* has been published
+- *2023.06*: &nbsp;🎉 1 Paper (as first author & corresponding author) accepted by **ICML 2023 AdvML-Frontiers Workshop**.
+- *2023.06*: &nbsp;🍁 I attended **CVPR 2023** at Vancouver and illustrated our poster.
+- *2023.05*: &nbsp;🥈 Won **Second prize** in Chinese Mathematics Competitions for College Students **(National final)**.
+- *2023.05*: &nbsp;💡 Our patent *An image classification method based on fair and robust neural networks* has been published.
 - *2023.05*: &nbsp;🎙 I gave a talk on our CVPR paper in **Safe & Responsible AI workshop** (ICLR 2023 social event) at Tsinghua University.
-- *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**
-- *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals
+- *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
+- *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals.
 
 # 📝 Publications
 (\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
@@ -39,7 +40,7 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang${}^\dagger$
 - Theoretically and empirically investigate the preference of different classes for adversarial configurations in Adversarial Training (AT)
-- Propose a CFA framework which customizes specific training configurations for each class automatically
+- Propose a CFA framework that customizes specific training configurations for each class automatically
 - CFA improves both overall robustness and fairness, and can be easily incorporated into other AT variants
 - [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arviv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
 
@@ -54,12 +55,12 @@ I am interested in improve the trustworthiness of Machine Learning, specifically
 ## Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages (ICFEM 2022)
 **Zeming Wei**, Xiyue Zhang, Meng Sun${}^\dagger$
 - Identify the transition sparsity and the context dependency problem in WFA extraction from RNNs in natural language tasks
-- Propose an extraction approach which complement the missing rules and enhance the context-aware ability
-- Our extraction framework is scalable to natural language tasks and of better extration precision
+- Propose an extraction approach that complements the missing rules and enhances the context-aware ability
+- Our extraction framework is scalable to natural language tasks and of better extraction precision
 - [[pdf](https://arxiv.org/pdf/2206.14621)] [[arviv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
 
-## Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (Preprint)
+## Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (Journal of Logical and Algebraic Methods in Programming)
 **Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun${}^\dagger$
 - Extended version for ICFEM 2022 paper
 - Propose leveraging the extracted automata for explaining Recurrent Neural Networks with a transition-based word embedding
@@ -76,8 +77,8 @@ Yisen Wang and **Zeming Wei**
 - **First prize**, Chinese Mathematics Competitions for College Students (Beijing Division), *2022*
 - **Merit Student**, Peking University, *2022*
 - **Huatai Science and Technology Scholarship**, Peking University, *2022*
-- **Award for Contributon in Student Organizations**, Peking University, *2021*
-- **Yang Fuqing & Wang Yangyuan Academician Scholarship**, Peking Univeristy, *2021*
+- **Award for Contribution in Student Organizations**, Peking University, *2021*
+- **Yang Fuqing & Wang Yangyuan Academician Scholarship**, Peking University, *2021*
 
 # 📖 Educations
 - *2023.08 - 2023.12 (expected)*, Visiting Student, University of California Berkeley
