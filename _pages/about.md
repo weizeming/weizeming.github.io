@@ -72,7 +72,7 @@ I am interested in improving the trustworthiness of Machine Learning, specifical
 ## An image classification method based on fair and robust neural networks *(patent pending)*
 Yisen Wang and **Zeming Wei**
 - Publication ID: CN116091838A
-- [[publish announcement](http://epub.cnipa.gov.cn/patent/CN116091838A)]
+- [[Publication announcement](http://epub.cnipa.gov.cn/patent/CN116091838A)]
 
 # 🎖 Honors and Awards
 - **Second prize**, Chinese Mathematics Competitions for College Students (National Final), *2023*
