@@ -92,10 +92,10 @@ Yisen Wang and **Zeming Wei**
 # 💼 Academic Service
 - **Journal Revier**: TMLR
 - **Conference Reviewer**: NeurIPS 2023, ICLR 2024
-- **Workshop Reviewer**: XAIA 2023
+- **Workshop Reviewer**: XAIA (@NeurIPS 2023)
 
 # 🔗 Links
 (Alphabetical Order)
-- 👨‍🏫 Advisors: [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [Yisen Wang](https://yisenwang.github.io)
-- 🧑‍🎓 Co-authors: [Yifei Wang](https://yifeiwang.me), [Xiyue Zhang](https://zhang-xiyue.github.io/), [Yihao Zhang](https://zhang-yihao.github.io/)
+- 👨‍🏫 **Advisors**: [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [Yisen Wang](https://yisenwang.github.io)
+- 🧑‍🎓 **Co-authors**: [Yifei Wang](https://yifeiwang.me), [Xiyue Zhang](https://zhang-xiyue.github.io/), [Yihao Zhang](https://zhang-yihao.github.io/)
 
