@@ -90,7 +90,7 @@ Yisen Wang and **Zeming Wei**
 - *2017.09 - 2020.06*, Senior High School Student, Beijing No.4 High School
 
 # 💼 Academic Service
-- **Journal Revier**: TMLR
+- **Journal Reviewer**: TMLR
 - **Conference Reviewer**: NeurIPS 2023, ICLR 2024
 - **Workshop Reviewer**: XAIA (@NeurIPS 2023)
 
