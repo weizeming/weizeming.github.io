@@ -64,7 +64,8 @@ I am interested in improving the trustworthiness of Machine Learning, specifical
 ## Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (Journal of Logical and Algebraic Methods in Programming)
 **Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun${}^\dagger$
 - Extended version for ICFEM 2022 paper
-- Propose leveraging the extracted automata for explaining Recurrent Neural Networks with a transition-based word embedding
+- Propose explaining Recurrent Neural Networks by the extracted automata with a transition-based word embedding
+- Further propose two applications (pertaining and adversarial attack) of the embedding
 - [[pdf](https://arxiv.org/pdf/2306.14040)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
 
@@ -95,5 +96,4 @@ Yisen Wang and **Zeming Wei**
 (Alphabetical Order)
 - 👨‍🏫 Advisors: [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [Yisen Wang](https://yisenwang.github.io)
 - 🧑‍🎓 Co-authors: [Yifei Wang](https://yifeiwang.me), [Xiyue Zhang](https://zhang-xiyue.github.io/), [Yihao Zhang](https://zhang-yihao.github.io/)
-- 💟 Personal Reference: [Huanran Chen](https://huanranchen.github.io)
 
