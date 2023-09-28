@@ -22,6 +22,7 @@ Currently, I am a visiting student at UC Berkeley.
 I am interested in improving the trustworthiness of Machine Learning, specifically focusing on adversarial robustness and explainability.
 
 # 🔥 News
+- *2023.09*: &nbsp;🎖 I won the Award for Academic Innovation for academic year 2022-2023 (**only 1 awardee** among undergraduates in School of Mathematical Sciences, Peking University, **Top 0.1%**)
 - *2023.09*: &nbsp;🔍 I was nominated to serve as a reviewer for **ICLR 2024**.
 - *2023.09*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming**.
 - *2023.08*: &nbsp;🏫 I started a visiting student program at **UC Berkeley** in Fall 2023.
@@ -75,7 +76,7 @@ Yisen Wang and **Zeming Wei**
 - [[Publication announcement](http://epub.cnipa.gov.cn/patent/CN116091838A)]
 
 # 🎖 Honors and Awards
-- **Award for Academic Innovation (Top 1%)**, Peking University, *2023*
+- **Award for Academic Innovation (Top 0.1%)**, Peking University, *2023*
 - **Merit Student (Top 10%)**, Peking University, *2023*
 - **Second prize**, Chinese Mathematics Competitions for Undergraduates (National Final), *2023*
 - **First prize**, Chinese Mathematics Competitions for Undergraduates (Beijing Division), *2022*
