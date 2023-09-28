@@ -30,7 +30,6 @@ I am interested in improving the trustworthiness of Machine Learning, specifical
 - *2023.06*: &nbsp;🎉 1 Paper (as first author & corresponding author) accepted by **ICML 2023 AdvML-Frontiers Workshop**.
 - *2023.06*: &nbsp;🍁 I attended **CVPR 2023** at Vancouver and illustrated our poster.
 - *2023.05*: &nbsp;🥈 Won **Second prize** in Chinese Mathematics Competitions for College Students **(National final)**.
-- *2023.05*: &nbsp;💡 Our patent *An image classification method based on fair and robust neural networks* has been published.
 - *2023.05*: &nbsp;🎙 I gave a talk on our CVPR paper in **Safe & Responsible AI workshop** (ICLR 2023 social event) at Tsinghua University.
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals.
@@ -76,12 +75,12 @@ Yisen Wang and **Zeming Wei**
 - [[Publication announcement](http://epub.cnipa.gov.cn/patent/CN116091838A)]
 
 # 🎖 Honors and Awards
+- **Award for Academic Innovation (Top 1%)**, Peking University, *2023*
+- **Merit Student (Top 10%)**, Peking University, *2023*
 - **Second prize**, Chinese Mathematics Competitions for Undergraduates (National Final), *2023*
 - **First prize**, Chinese Mathematics Competitions for Undergraduates (Beijing Division), *2022*
-- **Merit Student**, Peking University, *2022*
-- **Huatai Science and Technology Scholarship**, Peking University, *2022*
+- **Merit Student (Top 10%)**, Peking University, *2022*
 - **Award for Contribution in Student Organizations**, Peking University, *2021*
-- **Yang Fuqing & Wang Yangyuan Academician Scholarship**, Peking University, *2021*
 
 # 📖 Educations
 - *2023.08 - 2023.12 (expected)*, Visiting Student, University of California Berkeley
