@@ -77,10 +77,13 @@ Yisen Wang and **Zeming Wei**
 # 🎖 Honors and Awards
 - **Award for Academic Innovation (Top 0.1%)**, Peking University, *2023*
 - **Merit Student (Top 10%)**, Peking University, *2023*
+- **University Scholarship**, Peking University, *2023*
 - **Second prize**, Chinese Mathematics Competitions for Undergraduates (National Final), *2023*
 - **First prize**, Chinese Mathematics Competitions for Undergraduates (Beijing Division), *2022*
 - **Merit Student (Top 10%)**, Peking University, *2022*
+- **University Scholarship**, Peking University, *2022*
 - **Award for Contribution in Student Organizations**, Peking University, *2021*
+- **University Scholarship**, Peking University, *2021*
 
 # 📖 Educations
 - *2023.08 - 2023.12 (expected)*, Visiting Student, University of California Berkeley
