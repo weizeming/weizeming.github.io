@@ -22,7 +22,8 @@ Currently, I am a visiting student at UC Berkeley.
 I am interested in improving the trustworthiness of Machine Learning, specifically focusing on adversarial robustness and explainability.
 
 # 🔥 News
-- *2023.09*: &nbsp;🎖 I won the **Award for Academic Innovation** in the academic year 2022-2023 (**only 1 awardee** among undergraduates in School of Mathematical Sciences, Peking University, **Top 0.1%**)
+- *2023.10*: &nbsp;✨ New print on **LLM Safety** is available at [arxiv](https://arxiv.org/abs/2310.04560).
+- *2023.09*: &nbsp;🎖 I won the **Award for Academic Innovation** in the academic year 2022-2023 (**only 1 awardee** among undergraduates in School of Mathematical Sciences, Peking University, **Top 0.1%**).
 - *2023.08*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming**.
 - *2023.08*: &nbsp;🏫 I started a visiting student program at **UC Berkeley** in Fall 2023.
 - *2023.07*: &nbsp;🏖 I attended **ICML 2023** at Honolulu and illustrated our workshop poster.
@@ -34,8 +35,15 @@ I am interested in improving the trustworthiness of Machine Learning, specifical
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals.
 
-# 📝 Publications
+# 📝 Selected Papers
 (\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
+
+## Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (Preprint)
+**Zeming Wei**, Yifei Wang, Yisen Wang${}^\dagger$
+- Uncover the vulnerability and robustness of aligned language models under only few in-context demonstrations without fine-tuning
+- Propose In-Context Attack (ICA) and In-Context Defense (ICD) to jailbreak and guard aligned language models
+- Shed light on the potential of in-context learning (ICL) to manipulate the alignment of LLMs
+- [[pdf]](https://arxiv.org/pdf/2310.04560) [[arxiv]](https://arxiv.org/abs/2310.04560)
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang${}^\dagger$
@@ -51,20 +59,11 @@ I am interested in improving the trustworthiness of Machine Learning, specifical
 - Propose that SAM can be regarded as a lightweight substitute for AT under certain requirements
 - [[pdf](https://arxiv.org/pdf/2305.05392)] [[arxiv](https://arxiv.org/abs/2305.05392)] [[code](https://github.com/weizeming/SAM_AT)]
 
-
-## Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages (ICFEM 2022)
-**Zeming Wei**, Xiyue Zhang, Meng Sun${}^\dagger$
-- Identify the transition sparsity and the context dependency problem in WFA extraction from RNNs in natural language tasks
-- Propose an extraction approach that complements the missing rules and enhances the context-aware ability
-- Our extraction framework is scalable to natural language tasks and of better extraction precision
-- [[pdf](https://arxiv.org/pdf/2206.14621)] [[arxiv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
-
-
 ## Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (Journal of Logical and Algebraic Methods in Programming)
 **Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun${}^\dagger$
-- Extended version for ICFEM 2022 paper
-- Propose explaining Recurrent Neural Networks by the extracted automata with a transition-based word embedding
-- Further propose two applications (pertaining and adversarial attack) of the embedding
+- Extending WFA extraction methods of RNNs from formal to natural language tasks by identifying transition sparsity and context dependency problems
+- Propose an RNN interpretation framework with a transition-based word embedding of the extracted automata  
+- Further propose two applications (pretraining and adversarial attack) on RNNs with the embedding
 - [[pdf](https://arxiv.org/pdf/2306.14040)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
 
@@ -93,7 +92,7 @@ Yisen Wang and **Zeming Wei**
 
 # 💼 Academic Service
 - **Journal Reviewer**: TMLR
-- **Conference Reviewer**: NeurIPS 2023, ICLR 2024
+- **Conference Reviewer**: NeurIPS 2023, ICLR 2024, AISTATS 2024
 - **Workshop Reviewer**: XAIA (@NeurIPS 2023)
 
 # 🔗 Links
