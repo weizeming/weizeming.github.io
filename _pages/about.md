@@ -22,7 +22,7 @@ Currently, I am a visiting student at UC Berkeley.
 I am interested in improving the trustworthiness of Machine Learning, specifically focusing on adversarial robustness and explainability.
 
 # 🔥 News
-- *2023.10*: &nbsp;✨ New print on **LLM Safety** is available at [arxiv](https://arxiv.org/abs/2310.04560).
+- *2023.10*: &nbsp;✨ New preprint on **LLM Safety** is available at [arxiv](https://arxiv.org/abs/2310.04560).
 - *2023.09*: &nbsp;🎖 I won the **Award for Academic Innovation** in the academic year 2022-2023 (**only 1 awardee** among undergraduates in School of Mathematical Sciences, Peking University, **Top 0.1%**).
 - *2023.08*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming**.
 - *2023.08*: &nbsp;🏫 I started a visiting student program at **UC Berkeley** in Fall 2023.
