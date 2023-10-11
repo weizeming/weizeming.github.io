@@ -22,7 +22,7 @@ Currently, I am a visiting student at UC Berkeley.
 I am interested in improving the trustworthiness of Machine Learning, specifically focusing on adversarial robustness and explainability.
 
 # 🔥 News
-- *2023.10*: &nbsp;✨ New [preprint](https://arxiv.org/abs/2310.04560) on **LLM Safety** is available at arxiv.
+- *2023.10*: &nbsp;✨ New [preprint](https://arxiv.org/abs/2310.06387) on **LLM Safety** is available at arxiv.
 - *2023.09*: &nbsp;🎖 I won the **Award for Academic Innovation** in the academic year 2022-2023 (**only 1 awardee** among undergraduates in School of Mathematical Sciences, Peking University, **Top 0.1%**).
 - *2023.08*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming**.
 - *2023.08*: &nbsp;🏫 I started a visiting student program at **UC Berkeley** in Fall 2023.
@@ -43,7 +43,7 @@ I am interested in improving the trustworthiness of Machine Learning, specifical
 - Uncover the vulnerability and robustness of aligned language models under only few in-context demonstrations without fine-tuning
 - Propose In-Context Attack (ICA) and In-Context Defense (ICD) to jailbreak and guard aligned language models
 - Shed light on the potential of in-context learning (ICL) to manipulate the alignment of LLMs
-- [[pdf](https://arxiv.org/pdf/2310.04560)] [[arxiv](https://arxiv.org/abs/2310.04560)]
+- [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)]
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang${}^\dagger$
