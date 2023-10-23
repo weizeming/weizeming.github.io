@@ -94,6 +94,7 @@ Yisen Wang and **Zeming Wei**
 - **Journal Reviewer**: TMLR
 - **Conference Reviewer**: NeurIPS 2023, ICLR 2024, AISTATS 2024
 - **Workshop Reviewer**: XAIA (@NeurIPS 2023)
+- **Fellow**, Berkeley AI Safety Initiative for Students (BASIS), UC Berkeley
 
 # 🔗 Links
 (Alphabetical Order)
