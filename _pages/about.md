@@ -99,5 +99,5 @@ Yisen Wang and **Zeming Wei**
 # 🔗 Links
 (Alphabetical Order)
 - 👨‍🏫 **Advisors**: [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [Yisen Wang](https://yisenwang.github.io)
-- 🧑‍🎓 **Co-authors**: [Huanran Chen](https://huanranchen.github.io), [Sizhe Chen](https://sizhe-chen.github.io/), [Yifei Wang](https://yifeiwang77.com), [Xiyue Zhang](https://zhang-xiyue.github.io/), [Yihao Zhang](https://zhang-yihao.github.io/)
+- 🧑‍🎓 **Co-authors**: [Huanran Chen](https://huanranchen.github.io), [Yifei Wang](https://yifeiwang77.com), [Xiyue Zhang](https://zhang-xiyue.github.io/), [Yihao Zhang](https://zhang-yihao.github.io/)
 
