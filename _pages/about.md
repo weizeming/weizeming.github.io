@@ -22,8 +22,10 @@ Currently, I am a visiting student at UC Berkeley.
 I am interested in improving the trustworthiness of Machine Learning, specifically focusing on adversarial robustness and explainability.
 
 # 🔥 News
+- *2023.11*: &nbsp;🎙 I gave a lightening talk on our LLM safety paper at Constellation, Berkeley.
+- *2023.10*: &nbsp;🔗 I serve as a fellow of Berkeley AI Safety Initiative for Students (BASIS).
 - *2023.10*: &nbsp;✨ New [preprint](https://arxiv.org/abs/2310.06387) on **LLM Safety** is available at arxiv.
-- *2023.09*: &nbsp;🎖 I won the **Award for Academic Innovation** in the academic year 2022-2023 (**only 1 awardee** among undergraduates in School of Mathematical Sciences, Peking University, **Top 0.1%**).
+- *2023.09*: &nbsp;🎖 I received the **Award for Academic Innovation** in the academic year 2022-2023 (**only 1 awardee** among undergraduates in School of Mathematical Sciences, Peking University, **Top 0.1%**).
 - *2023.08*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming**.
 - *2023.08*: &nbsp;🏫 I started a visiting student program at **UC Berkeley** in Fall 2023.
 - *2023.07*: &nbsp;🏖 I attended **ICML 2023** at Honolulu and illustrated our workshop poster.
@@ -43,7 +45,7 @@ I am interested in improving the trustworthiness of Machine Learning, specifical
 - Uncover the vulnerability and robustness of aligned language models under only few in-context demonstrations without fine-tuning
 - Propose In-Context Attack (ICA) and In-Context Defense (ICD) to jailbreak and guard aligned language models
 - Shed light on the potential of in-context learning (ICL) to manipulate the alignment of LLMs
-- [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)]
+- [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code]()]
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang${}^\dagger$
@@ -65,7 +67,6 @@ I am interested in improving the trustworthiness of Machine Learning, specifical
 - Propose an RNN interpretation framework with a transition-based word embedding of the extracted automata  
 - Further propose two applications (pretraining and adversarial attack) on RNNs with the embedding
 - [[pdf](https://arxiv.org/pdf/2306.14040)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
-
 
 # 💡 Patents
 ## An image classification method based on fair and robust neural networks *(patent pending)*
