@@ -45,7 +45,7 @@ I am interested in improving the trustworthiness of Machine Learning, specifical
 - Uncover the vulnerability and robustness of aligned language models under only few in-context demonstrations without fine-tuning
 - Propose In-Context Attack (ICA) and In-Context Defense (ICD) to jailbreak and guard aligned language models
 - Shed light on the potential of in-context learning (ICL) to manipulate the alignment of LLMs
-- [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code]()]
+- [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] [[website](https://adv-icl.github.io/)]
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang${}^\dagger$
