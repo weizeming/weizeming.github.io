@@ -22,7 +22,7 @@ Currently, I am a visiting student at UC Berkeley.
 I am interested in improving the trustworthiness of Machine Learning, specifically focusing on adversarial robustness and explainability.
 
 # 🔥 News
-- *2023.11*: &nbsp;🎙 I gave a lightening talk on our LLM safety paper at Constellation, Berkeley.
+- *2023.11*: &nbsp;🎙 I gave a lightning talk on our LLM safety paper at Constellation, Berkeley.
 - *2023.10*: &nbsp;🔗 I serve as a fellow of Berkeley AI Safety Initiative for Students (BASIS).
 - *2023.10*: &nbsp;✨ New [preprint](https://arxiv.org/abs/2310.06387) on **LLM Safety** is available at arxiv.
 - *2023.09*: &nbsp;🎖 I received the **Award for Academic Innovation** in the academic year 2022-2023 (**only 1 awardee** among undergraduates in School of Mathematical Sciences, Peking University, **Top 0.1%**).
@@ -86,13 +86,13 @@ Yisen Wang and **Zeming Wei**
 - **University Scholarship**, Peking University, *2021*
 
 # 📖 Educations
-- *2023.08 - 2023.12 (expected)*, Visiting Student, University of California Berkeley
+- *2023.08 - 2023.12*, Visiting Student, University of California Berkeley
 - *2021.06 - 2025.06 (expected)*, Undergraduate Student, School of Mathematical Sciences, Peking University
 - *2020.09 - 2021.06*, Undergraduate Student, College of Engineering, Peking University
 - *2017.09 - 2020.06*, Senior High School Student, Beijing No.4 High School
 
 # 💼 Academic Service
-- **Journal Reviewer**: TMLR
+- **Journal Reviewer**: TMLR, DMLR
 - **Conference Reviewer**: NeurIPS 2023, ICLR 2024, AISTATS 2024
 - **Workshop Reviewer**: XAIA (@NeurIPS 2023)
 - **Fellow**, Berkeley AI Safety Initiative for Students (BASIS), UC Berkeley
