@@ -98,5 +98,5 @@ Yisen Wang and **Zeming Wei**
 
 # 🔗 Links
 (Alphabetical Order)
-- 👨‍🏫 **Advisors**: [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [Yifei Wang](https://yifeiwang77.com) (MIT), [Yisen Wang](https://yisenwang.github.io)
+- 👨‍🏫 **Advisors**: [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Yifei Wang](https://yifeiwang77.com) (MIT), [Yisen Wang](https://yisenwang.github.io)
 - 🧑‍🎓 **Co-authors**: [Huanran Chen](https://huanranchen.github.io), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/), [Xiyue Zhang](https://zhang-xiyue.github.io/), [Yihao Zhang](https://zhang-yihao.github.io/)
