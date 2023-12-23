@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zeming Wei"
+title                    : "Zeming Wei (魏泽明)"
 description              : "Undergraduate student in School of Mathematical Sciences, Peking University"
 repository               : "weizeming/weizeming.github.io"
 google_scholar_stats_use_cdn : true
