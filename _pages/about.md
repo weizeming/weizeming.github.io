@@ -20,7 +20,7 @@ redirect_from:
 I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a third-year undergraduate at School of Mathematical Sciences, Peking University. I was also a visiting student at UC Berkeley in Fall, 2023. I am interested in improving the trustworthiness of Machine Learning, specifically focusing on adversarial robustness and explainability.
 
 # 🔥 News
-- *2023.12*: &nbsp;💯 I achieved a full GPA **(4.0/4.0)** during my studies at UC Berkeley (with 1 **A** and 2 **A+** grades).
+- *2023.12*: &nbsp;💯 I achieved a full GPA **(4.0/4.0)** during my study at UC Berkeley (with 1 **A** and 2 **A+** grades).
 - *2023.11*: &nbsp;🎙 I gave a lightning talk on our LLM safety paper at Constellation, Berkeley.
 - *2023.10*: &nbsp;🔗 I serve as a fellow of Berkeley AI Safety Initiative for Students (BASIS).
 - *2023.10*: &nbsp;✨ New [preprint](https://arxiv.org/abs/2310.06387) on **LLM Safety** is available at arxiv.
@@ -92,11 +92,11 @@ Yisen Wang and **Zeming Wei**
 
 # 💼 Academic Service
 - **Journal Reviewer**: TMLR, DMLR
-- **Conference Reviewer**: NeurIPS 2023, ICLR 2024, AISTATS 2024
+- **Conference Reviewer**: NeurIPS 2023, ICLR 2024, AISTATS 2024, ICML 2024
 - **Workshop Reviewer**: XAIA (@NeurIPS 2023)
 - **Fellow**, Berkeley AI Safety Initiative for Students (BASIS), UC Berkeley
 
 # 🔗 Links
 (Alphabetical Order)
-- 👨‍🏫 **Advisors**: [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [Yifei Wang](https://yifeiwang77.com) (MIT), [Yisen Wang](https://yisenwang.github.io)
-- 🧑‍🎓 **Co-authors**: [Huanran Chen](https://huanranchen.github.io), [Xiyue Zhang](https://zhang-xiyue.github.io/), [Yihao Zhang](https://zhang-yihao.github.io/)
+- 👨‍🏫 **Advisors**: [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [Yifei Wang](https://yifeiwang77.com) (MIT), [Yisen Wang](https://yisenwang.github.io)
+- 🧑‍🎓 **Co-authors**: [Huanran Chen](https://huanranchen.github.io), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/), [Xiyue Zhang](https://zhang-xiyue.github.io/), [Yihao Zhang](https://zhang-yihao.github.io/)
