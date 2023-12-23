@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year undergraduate at School of Mathematical Sciences, Peking University.
-Currently, I am a visiting student at UC Berkeley.
-I am interested in improving the trustworthiness of Machine Learning, specifically focusing on adversarial robustness and explainability.
+I am Zeming Wei (<font face=STKaiti>魏泽明</font>), a third-year undergraduate at School of Mathematical Sciences, Peking University. I was also a visiting student at UC Berkeley in Fall, 2023. I am interested in improving the trustworthiness of Machine Learning, specifically focusing on adversarial robustness and explainability.
 
 # 🔥 News
 - *2023.11*: &nbsp;🎙 I gave a lightning talk on our LLM safety paper at Constellation, Berkeley.
