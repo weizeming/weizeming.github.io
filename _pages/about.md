@@ -91,8 +91,8 @@ Yisen Wang and **Zeming Wei**
 - *2017.09 - 2020.06*, Senior High School Student, Beijing No.4 High School
 
 # 💼 Academic Service
-- **Journal Reviewer**: TMLR, DMLR
-- **Conference Reviewer**: NeurIPS 2023, ICLR 2024, AISTATS 2024, ICML 2024
+- **Journal Reviewer**: TMLR
+- **Conference Reviewer**: NeurIPS 2023, ICLR 2024, AISTATS 2024, ICML 2024, ECCV 2024
 - **Workshop Reviewer**: XAIA (@NeurIPS 2023)
 - **Fellow**, Berkeley AI Safety Initiative for Students (BASIS), UC Berkeley
 
