@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a third-year undergraduate at School of Mathematical Sciences, Peking University. I was also a visiting student at UC Berkeley in Fall, 2023. I am interested in improving the trustworthiness of Machine Learning, specifically focusing on adversarial robustness and explainability.
+I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a third-year undergraduate at School of Mathematical Sciences, Peking University. I was also a visiting student at UC Berkeley in Fall, 2023. I am interested in improving the trustworthiness of Machine Learning, specifically focusing on adversarial robustness and explainability.  <a href='https://scholar.google.com/citations?user=Kyn1zdQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
 - *2023.12*: &nbsp;💯 I achieved a **full GPA (4.0/4.0)** during my study at UC Berkeley (with 1 **A** and 2 **A+** grades).
