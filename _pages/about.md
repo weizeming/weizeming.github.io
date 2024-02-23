@@ -19,6 +19,9 @@ redirect_from:
 
 I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a third-year undergraduate at School of Mathematical Sciences, Peking University. I was also a visiting student at UC Berkeley in Fall, 2023. I am interested in improving the trustworthiness of Machine Learning, specifically focusing on adversarial robustness and explainability.  <a href='https://scholar.google.com/citations?user=Kyn1zdQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+### If you are interested in working with me, please send me an email.
+
+
 # 🔥 News
 - *2023.12*: &nbsp;💯 I achieved a **full GPA (4.0/4.0)** during my study at UC Berkeley (with 1 **A** and 2 **A+** grades).
 - *2023.11*: &nbsp;🎙 I gave a lightning talk on our LLM safety paper at Constellation, Berkeley.
@@ -51,15 +54,10 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a third-year undergraduate
 
 ## Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (Journal of Logical and Algebraic Methods in Programming)
 **Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun${}^\dagger$
-- Extending WFA extraction methods of RNNs from formal to natural language tasks by identifying transition sparsity and context dependency problems
-- Propose an RNN interpretation framework with a transition-based word embedding of the extracted automata  
-- Further propose two applications (pretraining and adversarial attack) on RNNs with the embedding
+- Extending WFA extraction of RNNs from formal to natural language tasks by identifying transition sparsity and context dependency problems, propose an RNN interpretation framework with a transition-based word embedding of the extracted automata, and further propose two applications (pretraining and adversarial attack) on RNNs with the embedding.
 - [[pdf](https://arxiv.org/pdf/2306.14040)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
 # 📝 Selected Corresponding-Author Papers
-
-### If you are interested in working with me, please send me an email.
-
 (\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
 
 ## Sharpness-Aware Minimization Alone can Improve Adversarial Robustness (ICML 2023 AdvML-Frontiers Workshop)
