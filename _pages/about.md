@@ -42,35 +42,34 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a third-year undergraduate
 # 📝 Selected First-Author Papers
 ## Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (Preprint)
 - **Zeming Wei**, Yifei Wang, Yisen Wang  
-- [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] [[website](https://adv-icl.github.io/)]
+- [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] [[website](https://adv-icl.github.io/)]  
 > Explores manipulating the safety of LLMs with only a few in-context demonstrations, introduces In-Context Attack (ICA) and In-Context Defense (ICD) for jailbreaking and safeguarding these models, and highlights the potential of in-context learning (ICL) to influence the alignment of LLMs.  
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
 - **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang
-- [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
+- [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]   
 > Delves into the theoretical and empirical analysis of class preferences in adversarial configurations within Adversarial Training (AT), introduces a CFA Framework that automatically tailors training configurations for each class, and demonstrates that CFA achieves state-of-the-art robust fairness while seamlessly integrating with other AT variants.
 
-
 ## Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (Journal of Logical and Algebraic Methods in Programming)
-**Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun
+- **Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun
+- [[pdf](https://arxiv.org/pdf/2306.14040)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 > Extending WFA extraction of RNNs from formal to natural language tasks by identifying transition sparsity and context dependency problems, propose an RNN interpretation framework with a transition-based word embedding of the extracted automata, and further propose two applications (pretraining and adversarial attack) on RNNs with the embedding.
 
-- [[pdf](https://arxiv.org/pdf/2306.14040)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]
 
 # 📝 Selected Corresponding-Author Papers
 (\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
 
 ## Sharpness-Aware Minimization Alone can Improve Adversarial Robustness (ICML 2023 AdvML-Frontiers Workshop)
-**Zeming Wei\*${}^{\boldsymbol\dagger}$**, Jingyu Zhu\*, Yihao Zhang\*
+- **Zeming Wei\*${}^{\boldsymbol\dagger}$**, Jingyu Zhu\*, Yihao Zhang\*
+- [[pdf](https://arxiv.org/pdf/2305.05392)] [[arxiv](https://arxiv.org/abs/2305.05392)] [[code](https://github.com/weizeming/SAM_AT)]  
 > Uncover the intriguing benefit of Sharpness-Aware Minimization (SAM) that SAM can improve adversarial robustness notably without sacrificing natural accuracy, provide empirical and theoretical insights into understanding this property, and propose that SAM can be regarded as a lightweight substitute for AT under certain requirements.
 
-- [[pdf](https://arxiv.org/pdf/2305.05392)] [[arxiv](https://arxiv.org/abs/2305.05392)] [[code](https://github.com/weizeming/SAM_AT)]
 
 ## On the Duality Between Sharpness-Aware Minimization and Adversarial Training
-Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**
+- Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**
+- [[pdf]()] [[arxiv]()] [[code](https://github.com/weizeming/SAM_AT)]  
 > TBA
 
-- [[pdf]()] [[arxiv]()] [[code](https://github.com/weizeming/SAM_AT)]
 
 
 # 💡 Patents
