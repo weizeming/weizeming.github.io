@@ -43,13 +43,13 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a third-year undergraduate
 ## Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (Preprint)
 - **Zeming Wei**, Yifei Wang, Yisen Wang  
 - [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] [[website](https://adv-icl.github.io/)]
-> Explores manipulating the safety of LLMs with only a few in-context demonstrations, introduces In-Context Attack (ICA) and In-Context Defense (ICD) for jailbreaking and safeguarding these models, and highlights the potential of in-context learning (ICL) to influence the alignment of LLMs.
+> Explores manipulating the safety of LLMs with only a few in-context demonstrations, introduces In-Context Attack (ICA) and In-Context Defense (ICD) for jailbreaking and safeguarding these models, and highlights the potential of in-context learning (ICL) to influence the alignment of LLMs.  
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
-**Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang
+- **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang
+- [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
 > Delves into the theoretical and empirical analysis of class preferences in adversarial configurations within Adversarial Training (AT), introduces a CFA Framework that automatically tailors training configurations for each class, and demonstrates that CFA achieves state-of-the-art robust fairness while seamlessly integrating with other AT variants.
 
-- [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
 
 ## Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (Journal of Logical and Algebraic Methods in Programming)
 **Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun
