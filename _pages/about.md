@@ -40,10 +40,12 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a third-year undergraduate
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals.
 
 # 📝 Selected First-Author Papers
+<div class='paper-box'>
 ### Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (Preprint)
 **Zeming Wei**, Yifei Wang, Yisen Wang  
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] [[website](https://adv-icl.github.io/)]  
 > Explores manipulating the safety of LLMs with only a few in-context demonstrations, introduces In-Context Attack (ICA) and In-Context Defense (ICD) for jailbreaking and safeguarding these models, and highlights the potential of in-context learning (ICL) to influence the alignment of LLMs.  
+</div>
 
 ## CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)
 - **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang
