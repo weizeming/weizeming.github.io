@@ -54,6 +54,12 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a third-year undergraduate
 - **Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun
 - [[pdf](https://arxiv.org/pdf/2306.14040)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 
+## Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages (ICFEM 2022)
+- **Zeming Wei**, Xiyue Zhang, Meng Sun
+- [[pdf](https://arxiv.org/pdf/2206.14621)] [[arxiv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
+
+
+
 
 # 📝 Corresponding-Author Papers
 (\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
