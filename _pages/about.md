@@ -39,7 +39,7 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a third-year undergraduate
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for College Students (Beijing Division), and qualified for the finals.
 
-# 📝 Selected First-Author Papers
+# 📝 First-Author Papers
 <div class='paper-box'>
   
 ### Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (Preprint)
@@ -62,7 +62,7 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a third-year undergraduate
 > Extending WFA extraction of RNNs from formal to natural language tasks by identifying transition sparsity and context dependency problems, propose an RNN interpretation framework with a transition-based word embedding of the extracted automata, and further propose two applications (pretraining and adversarial attack) on RNNs with the embedding.
 
 
-# 📝 Selected Corresponding-Author Papers
+# 📝 Corresponding-Author Papers
 (\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
 
 ## Sharpness-Aware Minimization Alone can Improve Adversarial Robustness (ICML 2023 AdvML-Frontiers Workshop)
