@@ -67,11 +67,16 @@ If you are interested in collaborating with me, please send me an email.
 - [[pdf](https://arxiv.org/pdf/2305.05392)] [[arxiv](https://arxiv.org/abs/2305.05392)] [[code](https://github.com/weizeming/SAM_AT)]  
 
 
-## On the Duality Between Sharpness-Aware Minimization and Adversarial Training
+## On the Duality Between Sharpness-Aware Minimization and Adversarial Training (Preprint)
 - Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**
 - [[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
 
+## A Closer Look at the Robustness of In-Context Learning with Noisy Labels (ICLR 2024 R2-FM Workshop)
+- Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jinsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei${}^{\boldsymbol\dagger}$**
+- TBA
 
+## MAP: Boosting Jailbreaking Attack with Momentum AutoPrompt (ICLR 2024 R2-FM Workshop)
+- TBA
 
 
 # 💡 Patents
