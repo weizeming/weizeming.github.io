@@ -75,8 +75,8 @@ If you are interested in collaborating with me, please send me an email.
 - Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei${}^{\boldsymbol\dagger}$**
 - TBA
 
-## Boosting Jailbreaking Attack with Momentum (ICLR 2024 R2-FM Workshop)
-- Yihao Zhang\*, **Zeming Wei\*${}^{\boldsymbol\dagger}$**,
+## Boosting Jailbreak Attack with Momentum (ICLR 2024 R2-FM Workshop)
+- Yihao Zhang\*, **Zeming Wei\*${}^{\boldsymbol\dagger}$**
 
 
 # 💡 Patents
