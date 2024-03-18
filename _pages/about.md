@@ -30,7 +30,7 @@ If you are interested in collaborating with me, please send me an email.
 - *2023.09*: &nbsp;🎖 I received the **Exceptional Award for Academic Innovation** in the academic year of 2022-2023 (**only 1 awardee** among undergraduates in School of Mathematical Sciences, Peking University, **Top 0.1%**).
 - *2023.08*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming**.
 - *2023.07*: &nbsp;🏖 I attended **ICML 2023** at Honolulu and illustrated our workshop poster.
-- *2023.06*: &nbsp;🎉 1 Paper (as first author & corresponding author) accepted by **ICML 2023 AdvML-Frontiers Workshop**.
+- *2023.06*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2023 AdvML-Frontiers Workshop**.
 - *2023.06*: &nbsp;🍁 I attended **CVPR 2023** at Vancouver and illustrated our poster.
 - *2023.05*: &nbsp;🥈 Won **Second prize** in Chinese Mathematics Competitions for Undergraduates **(National final)**.
 - *2023.05*: &nbsp;🎙 I gave a talk on our CVPR paper in **Safe & Responsible AI workshop** (ICLR 2023 social event) at Tsinghua University.
@@ -75,8 +75,8 @@ If you are interested in collaborating with me, please send me an email.
 - Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei${}^{\boldsymbol\dagger}$**
 - TBA
 
-## MAP: Boosting Jailbreaking Attack with Momentum AutoPrompt (ICLR 2024 R2-FM Workshop)
-- TBA
+## Boosting Jailbreak Attack with Momentum (ICLR 2024 R2-FM Workshop)
+- Yihao Zhang\*, **Zeming Wei\*${}^{\boldsymbol\dagger}$**,
 
 
 # 💡 Patents
