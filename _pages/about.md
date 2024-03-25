@@ -71,7 +71,7 @@ If you are interested in collaborating with me, please send me an email.
 - Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**
 - [[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
 
-## A Closer Look at the Robustness of In-Context Learning with Noisy Labels (ICLR 2024 R2-FM Workshop)
+## Exploring the Robustness of In-Context Learning with Noisy Labels (ICLR 2024 R2-FM Workshop)
 - Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei${}^{\boldsymbol\dagger}$**
 - TBA
 
