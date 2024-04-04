@@ -23,6 +23,7 @@ If you are interested in collaborating with me, please send me an email.
 
 
 # 🔥 News
+- *2024.04*: &nbsp;💫 I reached **100 citations** according to Google Scholar. Thanks all coauthors!
 - *2024.03*: &nbsp;🎉 2 Papers (as corresponding author) accepted by **ICLR 2024 R2-FM Workshop**.
 - *2023.12*: &nbsp;💯 I achieved a **full GPA (4.0/4.0)** during my study at UC Berkeley (with 1 **A** and 2 **A+** grades).
 - *2023.11*: &nbsp;🎙 I gave a lightning talk on our LLM safety paper at Constellation, Berkeley.
