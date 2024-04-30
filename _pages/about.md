@@ -23,7 +23,7 @@ If you are interested in collaborating with me, please send me an email.
 
 
 # 🔥 News
-- *2024.04*: &nbsp;💫 I reached **100 citations** according to Google Scholar. Thanks all coauthors!
+- *2024.04*: &nbsp;💫 I reached **100 citations** according to Google Scholar. Thanks all co-authors!
 - *2024.03*: &nbsp;🎉 2 Papers (as corresponding author) accepted by **ICLR 2024 R2-FM Workshop**.
 - *2023.12*: &nbsp;💯 I achieved a **full GPA (4.0/4.0)** during my study at UC Berkeley (with 1 **A** and 2 **A+** grades).
 - *2023.11*: &nbsp;🎙 I gave a lightning talk on our LLM safety paper at Constellation, Berkeley.
@@ -58,15 +58,8 @@ If you are interested in collaborating with me, please send me an email.
 - [[pdf](https://arxiv.org/pdf/2206.14621)] [[arxiv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 
 
-
-
 # 📝 Corresponding-Author Papers
 (\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
-
-## Sharpness-Aware Minimization Alone can Improve Adversarial Robustness (ICML 2023 AdvML-Frontiers Workshop)
-- **Zeming Wei\*${}^{\boldsymbol\dagger}$**, Jingyu Zhu\*, Yihao Zhang\*
-- [[pdf](https://arxiv.org/pdf/2305.05392)] [[arxiv](https://arxiv.org/abs/2305.05392)] [[code](https://github.com/weizeming/SAM_AT)]  
-
 
 ## On the Duality Between Sharpness-Aware Minimization and Adversarial Training (Preprint)
 - Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**
@@ -74,11 +67,15 @@ If you are interested in collaborating with me, please send me an email.
 
 ## Exploring the Robustness of In-Context Learning with Noisy Labels (ICLR 2024 R2-FM Workshop)
 - Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei${}^{\boldsymbol\dagger}$**
-- TBA
+- [[pdf](https://arxiv.org/pdf/2404.18191)] [[arxiv](https://arxiv.org/abs/2404.18191)] [[code](https://github.com/InezYu0928/in-context-learning)]  
 
 ## Boosting Jailbreak Attack with Momentum (ICLR 2024 R2-FM Workshop)
 - Yihao Zhang\*, **Zeming Wei\*${}^{\boldsymbol\dagger}$**
 - TBA
+
+## Sharpness-Aware Minimization Alone can Improve Adversarial Robustness (ICML 2023 AdvML-Frontiers Workshop)
+- **Zeming Wei\*${}^{\boldsymbol\dagger}$**, Jingyu Zhu\*, Yihao Zhang\*
+- [[pdf](https://arxiv.org/pdf/2305.05392)] [[arxiv](https://arxiv.org/abs/2305.05392)] [[code](https://github.com/weizeming/SAM_AT)]  
 
 
 # 💡 Patents
