@@ -15,6 +15,12 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<style>
+ul {
+  line-height: 1.5;
+}
+</style>
+
 <span class='anchor' id='about-me'></span>
 
 I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a third-year undergraduate at School of Mathematical Sciences, Peking University. I was also a visiting student at UC Berkeley in Fall, 2023. I am interested in improving the trustworthiness of Machine Learning, specifically focusing on mechanism interpretability, adversarial robustness, and generative AI safety.  <a href='https://scholar.google.com/citations?user=Kyn1zdQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -45,8 +51,6 @@ If you are interested in collaborating with me, please send me an email.
 **Zeming Wei**, Yifei Wang, Yisen Wang\\
 **_Preprint_**\\
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] [[website](https://adv-icl.github.io/)]
-
-&nbsp;
 
 - **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
 Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**\\
