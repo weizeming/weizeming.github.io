@@ -39,12 +39,20 @@ If you are interested in collaborating with me, please send me an email.
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for Undergraduates (Beijing Division), and qualified for the finals.
 
-## 📝 First-Author Papers
-  
+## 📝 Selected Papers
+### (\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
+
+- **On the Duality Between Sharpness-Aware Minimization and Adversarial Training (ICML 2024)**\\
+Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**\\
+[[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
+
+- **Exploring the Robustness of In-Context Learning with Noisy Labels (ICLR 2024 R2-FM Workshop)**\\
+Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei${}^{\boldsymbol\dagger}$**\\
+[[pdf](https://arxiv.org/pdf/2404.18191)] [[arxiv](https://arxiv.org/abs/2404.18191)] [[code](https://github.com/InezYu0928/in-context-learning)]  
+
 - **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (Preprint)**\\
 **Zeming Wei**, Yifei Wang, Yisen Wang\\
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] [[website](https://adv-icl.github.io/)]  
-
 
 - **CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)**\\
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang\\
@@ -54,30 +62,13 @@ If you are interested in collaborating with me, please send me an email.
 **Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun\\
 [[pdf](https://arxiv.org/pdf/2306.14040)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 
+- **Sharpness-Aware Minimization Alone can Improve Adversarial Robustness (ICML 2023 AdvML-Frontiers Workshop)**\\
+**Zeming Wei\*${}^{\boldsymbol\dagger}$**, Jingyu Zhu\*, Yihao Zhang\*\\
+[[pdf](https://arxiv.org/pdf/2305.05392)] [[arxiv](https://arxiv.org/abs/2305.05392)] [[code](https://github.com/weizeming/SAM_AT)]  
+
 - **Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages (ICFEM 2022)**\\
 **Zeming Wei**, Xiyue Zhang, Meng Sun\\
 [[pdf](https://arxiv.org/pdf/2206.14621)] [[arxiv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
-
-
-## 📝 Corresponding-Author Papers
-(\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
-
-## On the Duality Between Sharpness-Aware Minimization and Adversarial Training (ICML 2024)
-- Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**
-- [[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
-
-## Exploring the Robustness of In-Context Learning with Noisy Labels (ICLR 2024 R2-FM Workshop)
-- Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei${}^{\boldsymbol\dagger}$**
-- [[pdf](https://arxiv.org/pdf/2404.18191)] [[arxiv](https://arxiv.org/abs/2404.18191)] [[code](https://github.com/InezYu0928/in-context-learning)]  
-
-## Boosting Jailbreak Attack with Momentum (ICLR 2024 R2-FM Workshop)
-- Yihao Zhang\*, **Zeming Wei\*${}^{\boldsymbol\dagger}$**
-- TBA
-
-## Sharpness-Aware Minimization Alone can Improve Adversarial Robustness (ICML 2023 AdvML-Frontiers Workshop)
-- **Zeming Wei\*${}^{\boldsymbol\dagger}$**, Jingyu Zhu\*, Yihao Zhang\*
-- [[pdf](https://arxiv.org/pdf/2305.05392)] [[arxiv](https://arxiv.org/abs/2305.05392)] [[code](https://github.com/weizeming/SAM_AT)]  
-
 
 ## 💡 Patents
 - **An image classification method based on fair and robust neural networks (patent pending)**
