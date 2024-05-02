@@ -40,10 +40,11 @@ If you are interested in collaborating with me, please send me an email.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for Undergraduates (Beijing Division), and qualified for the finals.
 
 ## 📝 Selected Papers
-### (\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
+### (\*: Equal Contribution; ${}^{\boldsymbol\dagger}$: Corresponding Author)
 
-- **On the Duality Between Sharpness-Aware Minimization and Adversarial Training (ICML 2024)**\\
+- **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
 Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**\\
+ICML 2024\\
 [[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
 
 - **Exploring the Robustness of In-Context Learning with Noisy Labels (ICLR 2024 R2-FM Workshop)**\\
