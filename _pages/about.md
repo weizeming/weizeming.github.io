@@ -23,6 +23,7 @@ If you are interested in collaborating with me, please send me an email.
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2024**.
 - *2024.04*: &nbsp;💫 I reached **100 citations** according to Google Scholar. Thanks all co-authors!
 - *2024.03*: &nbsp;🎉 2 Papers (as corresponding author) accepted by **ICLR 2024 R2-FM Workshop**.
 - *2023.12*: &nbsp;💯 I achieved a **full GPA (4.0/4.0)** during my study at UC Berkeley (with 1 **A** and 2 **A+** grades).
@@ -61,7 +62,7 @@ If you are interested in collaborating with me, please send me an email.
 # 📝 Corresponding-Author Papers
 (\*: Equal Contribution; ${}^\dagger$: Corresponding Author)
 
-## On the Duality Between Sharpness-Aware Minimization and Adversarial Training (Preprint)
+## On the Duality Between Sharpness-Aware Minimization and Adversarial Training (ICML 2024)
 - Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**
 - [[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
 
