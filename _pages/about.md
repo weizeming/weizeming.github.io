@@ -41,34 +41,41 @@ If you are interested in collaborating with me, please send me an email.
 
 ## 📝 Selected Papers
 ### (\*: Equal Contribution; ${}^{\boldsymbol\dagger}$: Corresponding Author)
+- **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
+**Zeming Wei**, Yifei Wang, Yisen Wang\\
+**_Preprint_**\\
+[[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] [[website](https://adv-icl.github.io/)]
+
 
 - **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
 Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**\\
 **_ICML 2024_**\\
 [[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
 
-- **Exploring the Robustness of In-Context Learning with Noisy Labels (ICLR 2024 R2-FM Workshop)**\\
+- **Exploring the Robustness of In-Context Learning with Noisy Labels**\\
 Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei${}^{\boldsymbol\dagger}$**\\
+**_ICLR 2024 R2-FM Workshop_**\\
 [[pdf](https://arxiv.org/pdf/2404.18191)] [[arxiv](https://arxiv.org/abs/2404.18191)] [[code](https://github.com/InezYu0928/in-context-learning)]  
 
-- **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (Preprint)**\\
-**Zeming Wei**, Yifei Wang, Yisen Wang\\
-[[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] [[website](https://adv-icl.github.io/)]  
 
-- **CFA: Class-wise Calibrated Fair Adversarial Training (CVPR 2023)**\\
+- **CFA: Class-wise Calibrated Fair Adversarial Training**\\
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang\\
+**_CVPR 2023_**\\
 [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]   
 
-- **Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks (Journal of Logical and Algebraic Methods in Programming)**\\
+- **Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks**\\
 **Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun\\
+**_Journal of Logical and Algebraic Methods in Programming_**\\
 [[pdf](https://arxiv.org/pdf/2306.14040)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 
-- **Sharpness-Aware Minimization Alone can Improve Adversarial Robustness (ICML 2023 AdvML-Frontiers Workshop)**\\
+- **Sharpness-Aware Minimization Alone can Improve Adversarial Robustness**\\
 **Zeming Wei\*${}^{\boldsymbol\dagger}$**, Jingyu Zhu\*, Yihao Zhang\*\\
+**_ICML 2023 AdvML-Frontiers Workshop_**\\
 [[pdf](https://arxiv.org/pdf/2305.05392)] [[arxiv](https://arxiv.org/abs/2305.05392)] [[code](https://github.com/weizeming/SAM_AT)]  
 
-- **Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages (ICFEM 2022)**\\
+- **Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages**\\
 **Zeming Wei**, Xiyue Zhang, Meng Sun\\
+**_ICFEM 2022_**\\
 [[pdf](https://arxiv.org/pdf/2206.14621)] [[arxiv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 
 ## 💡 Patents
