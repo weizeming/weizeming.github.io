@@ -43,7 +43,7 @@ If you are interested in collaborating with me, please send me an email.
   
 - Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (Preprint)
 
-&emsp**Zeming Wei**, Yifei Wang, Yisen Wang  
+&emsp;**Zeming Wei**, Yifei Wang, Yisen Wang  
 
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] [[website](https://adv-icl.github.io/)]  
 
