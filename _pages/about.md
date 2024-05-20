@@ -47,7 +47,7 @@ If you are interested in collaborating with me, please send me an email.
 
 ## 📝 Selected Papers
 ### (\*: Equal Contribution; ${}^{\boldsymbol\dagger}$: Corresponding Author)
-- ![](https://img.shields.io/badge/Preprint-9cf) **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
+- **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
 **Zeming Wei**, Yifei Wang, Yisen Wang\\
 **_Preprint_**\\
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] [[website](https://adv-icl.github.io/)]
