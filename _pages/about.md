@@ -105,7 +105,7 @@ Publication ID: CN116091838A\\
 
 ## 💼 Academic Service
 - **Journal Reviewer**: TMLR
-- **Conference Reviewer**: NeurIPS 2023, ICLR 2024, AISTATS 2024, ICML 2024, ECCV 2024
+- **Conference Reviewer**: NeurIPS 2023, ICLR 2024, AISTATS 2024, ICML 2024, ECCV 2024, NeurIPS 2024
 - **Workshop Reviewer**: XAIA (@NeurIPS 2023)
 - **Fellow**, Berkeley AI Safety Initiative for Students (BASIS), UC Berkeley
 
