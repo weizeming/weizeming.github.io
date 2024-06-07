@@ -48,20 +48,22 @@ If you are interested in collaborating with me, please send me an email.
 ## 📝 Selected Papers
 ### (\*: Equal Contribution; ${}^{\boldsymbol\dagger}$: Corresponding Author)
 - **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
-**Zeming Wei**, Yifei Wang, Yisen Wang\\
+**Zeming Wei**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
 **_Preprint_**\\
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] [[website](https://adv-icl.github.io/)]
 
 - **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
-Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**\\
+Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${\!}^{\boldsymbol\dagger}$**\\
 **_ICML 2024_**\\
 [[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
 
 - **Exploring the Robustness of In-Context Learning with Noisy Labels**\\
-Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei${}^{\boldsymbol\dagger}$**\\
+Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei${\!}^{\boldsymbol\dagger}$**\\
 **_ICLR 2024 R2-FM Workshop_**\\
 [[pdf](https://arxiv.org/pdf/2404.18191)] [[arxiv](https://arxiv.org/abs/2404.18191)] [[code](https://github.com/InezYu0928/in-context-learning)]  
 
+- **Boosting Jailbreak Attack with Momentum**\\
+- Yihao Zhang\*, **Zeming Wei\*${\!}^{\boldsymbol\dagger}$**
 
 - **CFA: Class-wise Calibrated Fair Adversarial Training**\\
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang\\
