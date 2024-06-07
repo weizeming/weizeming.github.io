@@ -58,12 +58,14 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming W
 [[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
 
 - **Exploring the Robustness of In-Context Learning with Noisy Labels**\\
-Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei${\!}^{\boldsymbol\dagger}$**\\
+Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei${!}^{\boldsymbol\dagger}$**\\
 **_ICLR 2024 R2-FM Workshop_**\\
 [[pdf](https://arxiv.org/pdf/2404.18191)] [[arxiv](https://arxiv.org/abs/2404.18191)] [[code](https://github.com/InezYu0928/in-context-learning)]  
 
 - **Boosting Jailbreak Attack with Momentum**\\
-- Yihao Zhang\*, **Zeming Wei\*${\!}^{\boldsymbol\dagger}$**
+Yihao Zhang\*, **Zeming Wei\*${!}^{\boldsymbol\dagger}$**
+**_ICLR 2024 R2-FM Workshop_**\\
+[[pdf](https://arxiv.org/pdf/2405.01229)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
 
 - **CFA: Class-wise Calibrated Fair Adversarial Training**\\
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang\\
