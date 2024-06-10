@@ -88,7 +88,7 @@ Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zha
 [[pdf](https://arxiv.org/pdf/2206.14621)] [[arxiv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 
 ## 💡 Patents
-- **An image classification method based on fair and robust neural networks (patent pending)**
+- **An image classification method based on fair and robust neural networks (patent pending)**\\
 Yisen Wang and **Zeming Wei**\\
 Publication ID: CN116091838A\\
 [[Publication announcement](http://epub.cnipa.gov.cn/patent/CN116091838A)]
