@@ -40,7 +40,7 @@ If you are interested in collaborating with me, please send me an email.
 - *2023.07*: &nbsp;🏖 I attended **ICML 2023** at Honolulu and illustrated our workshop poster.
 - *2023.06*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2023 AdvML-Frontiers Workshop**.
 - *2023.06*: &nbsp;🍁 I attended **CVPR 2023** at Vancouver and illustrated our poster.
-- *2023.05*: &nbsp;🥈 Won **Second prize** in Chinese Mathematics Competitions for Undergraduates **(National final)**.
+- *2023.05*: &nbsp;🥈 Won **Second prize** in Chinese Mathematics Competitions for Undergraduates **(National final, Top 0.2%)**.
 - *2023.05*: &nbsp;🎙 I gave a talk on our CVPR paper in **Safe & Responsible AI workshop** (ICLR 2023 social event) at Tsinghua University.
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for Undergraduates (Beijing Division), and qualified for the finals.
@@ -97,7 +97,7 @@ Publication ID: CN116091838A\\
 - **ICML Financial Aid Award**, *2024*
 - **Exceptional Award for Academic Innovation (Top 0.1%)**, Peking University, *2023*
 - **Merit Student (Top 10%)**, Peking University, *2023*
-- **Second prize**, Chinese Mathematics Competitions for Undergraduates (National Final), *2023*
+- **Second prize**, Chinese Mathematics Competitions for Undergraduates (**National Final, Top 0.2%**), *2023*
 - **First prize**, Chinese Mathematics Competitions for Undergraduates (Beijing Division), *2022*
 - **Merit Student (Top 10%)**, Peking University, *2022*
 - **Award for Contribution in Student Organizations**, Peking University, *2021*
