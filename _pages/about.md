@@ -46,7 +46,7 @@ If you are interested in collaborating with me, please send me an email.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for Undergraduates (Beijing Division), and qualified for the finals.
 
 ## 📝 Selected Papers
-### (\*: Equal Contribution; ${}^{\boldsymbol\dagger}$: Corresponding Author)
+### (${}^{\boldsymbol\dagger}$: Corresponding Author; \*: Equal Contribution)
 - **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
 **Zeming Wei**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
 **_Preprint_**\\
