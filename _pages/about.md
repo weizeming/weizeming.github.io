@@ -29,6 +29,7 @@ If you are interested in collaborating with me, please send me an email.
 
 
 ## 🔥 News
+- *2024.07*: &nbsp;🎡 I attended **ICML 2024** at Vienna and illustrated our poster.
 - *2024.05*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2024**.
 - *2024.04*: &nbsp;💫 I reached **100 citations** according to Google Scholar. Thanks all co-authors!
 - *2024.03*: &nbsp;🎉 2 Papers (as corresponding author) accepted by **ICLR 2024 R2-FM Workshop**.
@@ -94,6 +95,7 @@ Publication ID: CN116091838A\\
 [[Publication announcement](http://epub.cnipa.gov.cn/patent/CN116091838A)]
 
 ## 🎖 Honors and Awards
+- **Spotlight Award**, 1st ICML Workshop on In-Context Learning (ICL @ ICML 2024), *2024*
 - **ICML Financial Aid Award**, *2024*
 - **Exceptional Award for Academic Innovation (Top 0.1%)**, Peking University, *2023*
 - **Merit Student (Top 10%)**, Peking University, *2023*
