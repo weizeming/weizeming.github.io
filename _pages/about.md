@@ -96,7 +96,7 @@ Publication ID: CN116091838A\\
 
 ## 🎖 Honors and Awards
 - **Spotlight Award**, 1st ICML Workshop on In-Context Learning (ICL @ ICML 2024), *2024*
-- **ICML Financial Aid Award**, *2024*
+- **Financial Aid Award**, ICML, *2024*
 - **Exceptional Award for Academic Innovation (Top 0.1%)**, Peking University, *2023*
 - **Merit Student (Top 10%)**, Peking University, *2023*
 - **Second prize**, Chinese Mathematics Competitions for Undergraduates (**National Final, Top 0.2%**), *2023*
@@ -111,14 +111,14 @@ Publication ID: CN116091838A\\
 - *2017.09 - 2020.06*, Senior High School Student, Beijing No.4 High School
 
 ## 💼 Academic Service
-- **Journal Reviewer**: TMLR
-- **Conference Reviewer**: NeurIPS 2023, ICLR 2024, AISTATS 2024, ICML 2024, ECCV 2024, NeurIPS 2024
+- **Conference Reviewer**: NeurIPS 2023, ICLR 2024, AISTATS 2024, ICML 2024, ECCV 2024, NeurIPS 2024, AAAI 2025
+- **Workshop Area Chair**: SeT-LLM (@ICLR 2024)
 - **Workshop Reviewer**: XAIA (@NeurIPS 2023), ICL (@ICML 2024)
+- **Journal Reviewer**: TMLR
 - **Ethics Reviewer**: NeurIPS 2023 Dataset & Benchmark Track, NeurIPS 2024
 - **Fellow**, Berkeley AI Safety Initiative for Students (BASIS), UC Berkeley
-- **Volunteer**, ICML 2024
 
 ## 🔗 Links
 (Alphabetical Order)
-- 👨‍🏫 **Advisors**: [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Yifei Wang](https://yifeiwang77.com) (MIT), [Yisen Wang](https://yisenwang.github.io)
-- 🧑‍🎓 **Co-authors**: [Huanran Chen](https://huanranchen.github.io), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/), [Xiyue Zhang](https://zhang-xiyue.github.io/), [Yihao Zhang](https://zhang-yihao.github.io/)
+- 👨‍🏫 **Advisors & Senior Co-authors**: [Stefanie Jegelka](https://people.csail.mit.edu/stefje/) (MIT), [Jun Sun](https://sunjun.site/) (SMU), [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Yifei Wang](https://yifeiwang77.com) (MIT), [Yisen Wang](https://yisenwang.github.io), [Xiyue Zhang](https://zhang-xiyue.github.io/) (Oxford)
+- 🧑‍🎓 **Co-authors**: [Huanran Chen](https://huanranchen.github.io), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/), [Yihao Zhang](https://zhang-yihao.github.io/)
