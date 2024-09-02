@@ -121,4 +121,4 @@ Publication ID: CN116091838A\\
 ## 🔗 Links
 (Alphabetical Order)
 - 👨‍🏫 **Advisors & Senior Co-authors**: [Stefanie Jegelka](https://people.csail.mit.edu/stefje/) (MIT), [Jun Sun](https://sunjun.site/) (SMU), [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB) , [Yisen Wang](https://yisenwang.github.io)
-- 🧑‍🎓 **Co-authors**: [Huanran Chen](https://huanranchen.github.io), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/) (UCB), Chawin Sitawarin(https://chawins.github.io/) (Meta), [Yifei Wang](https://yifeiwang77.com) (MIT), [Xiyue Zhang](https://zhang-xiyue.github.io/) (Oxford), [Yihao Zhang](https://zhang-yihao.github.io/)
+- 🧑‍🎓 **Co-authors**: [Huanran Chen](https://huanranchen.github.io), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/) (UCB), [Chawin Sitawarin](https://chawins.github.io/) (Meta), [Yifei Wang](https://yifeiwang77.com) (MIT), [Xiyue Zhang](https://zhang-xiyue.github.io/) (Oxford), [Yihao Zhang](https://zhang-yihao.github.io/)
