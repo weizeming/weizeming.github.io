@@ -23,7 +23,7 @@ ul {
 
 <span class='anchor' id='about-me'></span>
 
-I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a third-year undergraduate at School of Mathematical Sciences, Peking University. I was also a visiting student at UC Berkeley in Fall, 2023. I am interested in improving the trustworthiness of Machine Learning, specifically focusing on mechanism interpretability, adversarial robustness, and generative AI safety.  <a href='https://scholar.google.com/citations?user=Kyn1zdQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), an undergraduate at School of Mathematical Sciences, Peking University. I was also a visiting student at UC Berkeley in Fall, 2023. I am interested in improving the trustworthiness of Machine Learning, specifically focusing on mechanism interpretability, adversarial robustness, and generative AI safety.  <a href='https://scholar.google.com/citations?user=Kyn1zdQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 If you are interested in collaborating with me, please send me an email.
 
@@ -71,7 +71,7 @@ Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zha
 - **CFA: Class-wise Calibrated Fair Adversarial Training**\\
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang\\
 **_CVPR 2023_**\\
-[[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]   
+[[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]  
 
 - **Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks**\\
 **Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun\\
@@ -95,7 +95,7 @@ Publication ID: CN116091838A\\
 [[Publication announcement](http://epub.cnipa.gov.cn/patent/CN116091838A)]
 
 ## 🎖 Honors and Awards
-- **Spotlight Award**, 1st ICML Workshop on In-Context Learning (ICL @ ICML 2024), *2024*
+- **Spotlight Award (Best Paper)**, 1st ICML Workshop on In-Context Learning (ICL @ ICML 2024), *2024*
 - **Financial Aid Award**, ICML, *2024*
 - **Exceptional Award for Academic Innovation (Top 0.1%)**, Peking University, *2023*
 - **Merit Student (Top 10%)**, Peking University, *2023*
@@ -121,4 +121,4 @@ Publication ID: CN116091838A\\
 ## 🔗 Links
 (Alphabetical Order)
 - 👨‍🏫 **Advisors & Senior Co-authors**: [Stefanie Jegelka](https://people.csail.mit.edu/stefje/) (MIT), [Jun Sun](https://sunjun.site/) (SMU), [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB) , [Yisen Wang](https://yisenwang.github.io)
-- 🧑‍🎓 **Co-authors**: [Huanran Chen](https://huanranchen.github.io), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/) (UCB), [Yifei Wang](https://yifeiwang77.com) (MIT), [Xiyue Zhang](https://zhang-xiyue.github.io/) (Oxford), [Yihao Zhang](https://zhang-yihao.github.io/)
+- 🧑‍🎓 **Co-authors**: [Huanran Chen](https://huanranchen.github.io), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/) (UCB), Chawin Sitawarin(https://chawins.github.io/) (Meta), [Yifei Wang](https://yifeiwang77.com) (MIT), [Xiyue Zhang](https://zhang-xiyue.github.io/) (Oxford), [Yihao Zhang](https://zhang-yihao.github.io/)
