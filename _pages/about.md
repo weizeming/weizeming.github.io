@@ -111,7 +111,7 @@ Publication ID: CN116091838A\\
 - *2017.09 - 2020.06*, Senior High School Student, Beijing No.4 High School
 
 ## 💼 Academic Service
-- **Conference Reviewer**: NeurIPS 2023, ICLR 2024, AISTATS 2024, ICML 2024, ECCV 2024, NeurIPS 2024, AAAI 2025
+- **Conference Reviewer**: NeurIPS 2023, ICLR 2024, AISTATS 2024, ICML 2024, ECCV 2024, NeurIPS 2024, AAAI 2025, AISTATS 2025
 - **Workshop Area Chair**: SeT-LLM (@ICLR 2024)
 - **Workshop Reviewer**: XAIA (@NeurIPS 2023), ICL (@ICML 2024)
 - **Journal Reviewer**: TMLR
