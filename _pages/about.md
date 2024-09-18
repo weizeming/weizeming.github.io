@@ -111,9 +111,9 @@ Publication ID: CN116091838A\\
 - *2017.09 - 2020.06*, Senior High School Student, Beijing No.4 High School
 
 ## 💼 Academic Service
-- **Conference Reviewer**: NeurIPS 2023, ICLR 2024, AISTATS 2024, ICML 2024, ECCV 2024, NeurIPS 2024, AAAI 2025, AISTATS 2025
+- **Conference Reviewer**: NeurIPS (2023, 2024), ICLR (2024, 2025), ICML 2024, AISTATS (2024, 2025), ECCV 2024, AAAI 2025
 - **Workshop Area Chair**: SeT-LLM (@ICLR 2024)
-- **Workshop Reviewer**: XAIA (@NeurIPS 2023), ICL (@ICML 2024)
+- **Workshop Reviewer**: XAIA (@NeurIPS 2023), ICL (@ICML 2024), IAI (@NeurIPS 2024)
 - **Journal Reviewer**: TMLR
 - **Ethics Reviewer**: NeurIPS 2023 Dataset & Benchmark Track, NeurIPS 2024
 - **Fellow**, Berkeley AI Safety Initiative for Students (BASIS), UC Berkeley
