@@ -29,6 +29,7 @@ If you are interested in collaborating with me, please send me an email.
 
 
 ## 🔥 News
+- *2024.09*: &nbsp;🎉 3 Papers accepted by **NeurIPS 2024**.
 - *2024.07*: &nbsp;🎡 I attended **ICML 2024** at Vienna and illustrated our poster.
 - *2024.05*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2024**.
 - *2024.04*: &nbsp;💫 I reached **100 citations** according to Google Scholar. Thanks all co-authors!
@@ -51,7 +52,7 @@ If you are interested in collaborating with me, please send me an email.
 - **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
 **Zeming Wei**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
 **_Preprint_**\\
-[[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] [[website](https://adv-icl.github.io/)]
+[[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] 
 
 - **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
 Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**\\
@@ -95,6 +96,7 @@ Publication ID: CN116091838A\\
 [[Publication announcement](http://epub.cnipa.gov.cn/patent/CN116091838A)]
 
 ## 🎖 Honors and Awards
+- **Merit Student (Top 10%)**, Peking University, *2024*
 - **Spotlight Award (Best Paper)**, 1st ICML Workshop on In-Context Learning (ICL @ ICML 2024), *2024*
 - **Financial Aid Award**, ICML, *2024*
 - **Exceptional Award for Academic Innovation (Top 0.1%)**, Peking University, *2023*
