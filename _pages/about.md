@@ -29,6 +29,7 @@ If you are interested in collaborating with me, please send me an email.
 
 
 ## 🔥 News
+- *2024.09*: &nbsp;🎉 1 Paper (as first author) accepted by **SETTA 2024**.
 - *2024.09*: &nbsp;🎉 3 Papers accepted by **NeurIPS 2024**.
 - *2024.07*: &nbsp;🎡 I attended **ICML 2024** at Vienna and illustrated our poster.
 - *2024.05*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2024**.
@@ -54,6 +55,11 @@ If you are interested in collaborating with me, please send me an email.
 **_Preprint_**\\
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] 
 
+- **MILE: A Mutation Testing Framework of In-Context Learning Systems**\\
+**Zeming Wei**, Xiyue Zhang, Meng Sun\\
+**_SETTA 2024_**\\
+[[pdf](https://arxiv.org/pdf/2409.04831.pdf)] [[arxiv](https://arxiv.org/abs/2409.04831)] [[code](https://github.com/weizeming/MILE)]  
+  
 - **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
 Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**\\
 **_ICML 2024_**\\
@@ -67,17 +73,17 @@ Yihao Zhang\*, **Zeming Wei\*${}^{\boldsymbol\dagger}$**\\
 - **Exploring the Robustness of In-Context Learning with Noisy Labels**\\
 Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei${}^{\boldsymbol\dagger}$**\\
 **_ICLR 2024 R2-FM Workshop_**\\
-[[pdf](https://arxiv.org/pdf/2404.18191)] [[arxiv](https://arxiv.org/abs/2404.18191)] [[code](https://github.com/InezYu0928/in-context-learning)]  
+[[pdf](https://arxiv.org/pdf/2404.18191)] [[arxiv](https://arxiv.org/abs/2404.18191)] [[code](https://github.com/InezYu0928/in-context-learning)]
+  
+- **Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks**\\
+**Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun\\
+**_Journal of Logical and Algebraic Methods in Programming_**\\
+[[pdf](https://arxiv.org/pdf/2306.14040)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 
 - **CFA: Class-wise Calibrated Fair Adversarial Training**\\
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang\\
 **_CVPR 2023_**\\
 [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]  
-
-- **Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks**\\
-**Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun\\
-**_Journal of Logical and Algebraic Methods in Programming_**\\
-[[pdf](https://arxiv.org/pdf/2306.14040)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 
 - **Sharpness-Aware Minimization Alone can Improve Adversarial Robustness**\\
 **Zeming Wei\*${}^{\boldsymbol\dagger}$**, Jingyu Zhu\*, Yihao Zhang\*\\
@@ -96,7 +102,6 @@ Publication ID: CN116091838A\\
 [[Publication announcement](http://epub.cnipa.gov.cn/patent/CN116091838A)]
 
 ## 🎖 Honors and Awards
-- **Merit Student (Top 10%)**, Peking University, *2024*
 - **Spotlight Award (Best Paper)**, 1st ICML Workshop on In-Context Learning (ICL @ ICML 2024), *2024*
 - **Financial Aid Award**, ICML, *2024*
 - **Exceptional Award for Academic Innovation (Top 0.1%)**, Peking University, *2023*
