@@ -56,7 +56,7 @@ If you are interested in collaborating with me, please send me an email.
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] 
 
 - **MILE: A Mutation Testing Framework of In-Context Learning Systems**\\
-**Zeming Wei**, Xiyue Zhang, Meng Sun\\
+**Zeming Wei**, Yihao Zhang, Meng Sun\\
 **_SETTA 2024_**\\
 [[pdf](https://arxiv.org/pdf/2409.04831.pdf)] [[arxiv](https://arxiv.org/abs/2409.04831)] [[code](https://github.com/weizeming/MILE)]  
   
