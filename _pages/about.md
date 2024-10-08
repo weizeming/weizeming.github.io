@@ -103,7 +103,7 @@ Publication ID: CN116091838A\\
 [[Publication announcement](http://epub.cnipa.gov.cn/patent/CN116091838A)]
 
 ## 🎖 Honors and Awards
-- **May 4th Scholarship (Top 0.1%)**, Peking University, *2024*
+- **May 4th Scholarship (Top 0.1%)**, **the highest honor scholarship** of Peking University, *2024*
 - **Merit Student (Top 10%)**, Peking University, *2024*
 - **Spotlight Award (Best Paper)**, 1st ICML Workshop on In-Context Learning, *2024*
 - **Exceptional Award for Academic Innovation (Top 0.1%)**, Peking University, *2023*
