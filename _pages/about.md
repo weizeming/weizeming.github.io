@@ -29,6 +29,7 @@ If you are interested in collaborating with me, please send me an email.
 
 
 ## 🔥 News
+- *2024.10*: &nbsp;🎖 I received the **May 4th Scholarship**, which is **the highest honor scholarship** of Peking University (only 1 awardee among undergraduates in School of Mathematical Sciences, **Top 0.1%**).
 - *2024.09*: &nbsp;🎉 1 Paper (as first author) accepted by **SETTA 2024**.
 - *2024.09*: &nbsp;🎉 3 Papers accepted by **NeurIPS 2024**.
 - *2024.07*: &nbsp;🎡 I attended **ICML 2024** at Vienna and illustrated our poster.
@@ -38,7 +39,7 @@ If you are interested in collaborating with me, please send me an email.
 - *2023.12*: &nbsp;💯 I achieved a **full GPA (4.0/4.0)** during my study at UC Berkeley (with 1 **A** and 2 **A+** grades).
 - *2023.11*: &nbsp;🎙 I gave a lightning talk on our LLM safety paper at Constellation, Berkeley.
 - *2023.10*: &nbsp;🔗 I serve as a fellow of Berkeley AI Safety Initiative for Students (BASIS).
-- *2023.09*: &nbsp;🎖 I received the **Exceptional Award for Academic Innovation** of Peking University (**only 1 awardee** among undergraduates in School of Mathematical Sciences, **Top 0.1%**).
+- *2023.09*: &nbsp;🎖 I received the **Exceptional Award for Academic Innovation** of Peking University (only 1 awardee among undergraduates in School of Mathematical Sciences, **Top 0.1%**).
 - *2023.08*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming**.
 - *2023.07*: &nbsp;🏖 I attended **ICML 2023** at Honolulu and illustrated our workshop poster.
 - *2023.06*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2023 AdvML-Frontiers Workshop**.
@@ -102,8 +103,9 @@ Publication ID: CN116091838A\\
 [[Publication announcement](http://epub.cnipa.gov.cn/patent/CN116091838A)]
 
 ## 🎖 Honors and Awards
-- **Spotlight Award (Best Paper)**, 1st ICML Workshop on In-Context Learning (ICL @ ICML 2024), *2024*
-- **Financial Aid Award**, ICML, *2024*
+- **May 4th Scholarship（Top 0.1%）**, Peking University, *2024*
+- **Merit Student (Top 10%)**, Peking University, *2024*
+- **Spotlight Award (Best Paper)**, 1st ICML Workshop on In-Context Learning, *2024*
 - **Exceptional Award for Academic Innovation (Top 0.1%)**, Peking University, *2023*
 - **Merit Student (Top 10%)**, Peking University, *2023*
 - **Second prize**, Chinese Mathematics Competitions for Undergraduates (**National Final, Top 0.2%**), *2023*
