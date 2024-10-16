@@ -29,7 +29,7 @@ If you are interested in collaborating with me, please send me an email.
 
 
 ## 🔥 News
-- *2024.10*: &nbsp;✨ My research proposal (as **project leader**) titled *Adversarial Safety Testing and Defense of AI Foundation Models* has been approved by the undergraduate research program of Beijing Natural Science Foundation.
+- *2024.10*: &nbsp;✨ My research proposal (as **project leader**) has been approved by the undergraduate research program of Beijing Natural Science Foundation.
 - *2024.10*: &nbsp;🎖 I received the **May 4th Scholarship**, which is **the highest honor scholarship** of Peking University (only 1 awardee among undergraduates in School of Mathematical Sciences, **Top 0.1%**).
 - *2024.09*: &nbsp;🎉 1 Paper (as first author) accepted by **SETTA 2024**.
 - *2024.09*: &nbsp;🎉 3 Papers accepted by **NeurIPS 2024**.
