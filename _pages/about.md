@@ -29,25 +29,24 @@ If you are interested in collaborating with me, please send me an email.
 
 
 ## 🔥 News
+- *2024.10*: &nbsp;✨ My research proposal (as **project leader**) titled *Adversarial Safety Testing and Defense of AI Foundation Models* has been approved by the undergraduate research program of Beijing Natural Science Foundation.
 - *2024.10*: &nbsp;🎖 I received the **May 4th Scholarship**, which is **the highest honor scholarship** of Peking University (only 1 awardee among undergraduates in School of Mathematical Sciences, **Top 0.1%**).
 - *2024.09*: &nbsp;🎉 1 Paper (as first author) accepted by **SETTA 2024**.
 - *2024.09*: &nbsp;🎉 3 Papers accepted by **NeurIPS 2024**.
 - *2024.07*: &nbsp;🎡 I attended **ICML 2024** at Vienna and illustrated our poster.
 - *2024.05*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2024**.
-- *2024.04*: &nbsp;💫 I reached **100 citations** according to Google Scholar. Thanks all co-authors!
 - *2024.03*: &nbsp;🎉 2 Papers (as corresponding author) accepted by **ICLR 2024 R2-FM Workshop**.
 - *2023.12*: &nbsp;💯 I achieved a **full GPA (4.0/4.0)** during my study at UC Berkeley (with 1 **A** and 2 **A+** grades).
-- *2023.11*: &nbsp;🎙 I gave a lightning talk on our LLM safety paper at Constellation, Berkeley.
 - *2023.10*: &nbsp;🔗 I serve as a fellow of Berkeley AI Safety Initiative for Students (BASIS).
 - *2023.09*: &nbsp;🎖 I received the **Exceptional Award for Academic Innovation** of Peking University (only 1 awardee among undergraduates in School of Mathematical Sciences, **Top 0.1%**).
 - *2023.08*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming**.
 - *2023.07*: &nbsp;🏖 I attended **ICML 2023** at Honolulu and illustrated our workshop poster.
 - *2023.06*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2023 AdvML-Frontiers Workshop**.
 - *2023.06*: &nbsp;🍁 I attended **CVPR 2023** at Vancouver and illustrated our poster.
-- *2023.05*: &nbsp;🥈 Won **Second prize** in Chinese Mathematics Competitions for Undergraduates **(National final, Top 0.2%)**.
+- *2023.05*: &nbsp;🥈 I won **Second prize** in Chinese Mathematics Competitions for Undergraduates **(National final, Top 0.2%)**.
 - *2023.05*: &nbsp;🎙 I gave a talk on our CVPR paper in **Safe & Responsible AI workshop** (ICLR 2023 social event) at Tsinghua University.
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
-- *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for Undergraduates (Beijing Division), and qualified for the finals.
+- *2022.12*: &nbsp;🥇 I won **First prize** in Chinese Mathematics Competitions for Undergraduates (Beijing Division), and qualified for the finals.
 
 ## 📝 Selected Papers
 ### (${}^{\boldsymbol\dagger}$: Corresponding Author; \*: Equal Contribution)
@@ -96,12 +95,11 @@ Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zha
 **_ICFEM 2022_**\\
 [[pdf](https://arxiv.org/pdf/2206.14621)] [[arxiv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 
-## 💡 Patents
-- **An image classification method based on fair and robust neural networks (patent pending)**\\
-Yisen Wang and **Zeming Wei**\\
-Publication ID: CN116091838A\\
-[[Publication announcement](http://epub.cnipa.gov.cn/patent/CN116091838A)]
-
+## 💻 Projects
+- **Adversarial Safety Testing and Defense of AI Foundation Models**\\
+**Project Leader**, Undergraduate research program of Beijing Natural Science Foundation\\
+*2024.10 - 2026.09*
+  
 ## 🎖 Honors and Awards
 - **May 4th Scholarship (Top 0.1%)**, **the highest honor scholarship** of Peking University, *2024*
 - **Merit Student (Top 10%)**, Peking University, *2024*
