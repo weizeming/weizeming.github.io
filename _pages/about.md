@@ -30,7 +30,7 @@ If you are interested in collaborating with me, please send me an email.
 
 ## 🔥 News
 - *2024.11*: &nbsp;🎖 I received the **May 4th Scholarship**, which is **the highest honor scholarship** of Peking University (only 1 awardee among undergraduates in School of Mathematical Sciences, **Top 0.1%**).
-- *2024.10*: &nbsp;✨ My research grant proposal (as **Principal Investigator**) is approved by Beijing Natural Science Foundation.
+- *2024.10*: &nbsp;✨ My research grant proposal (as **principal investigator**) is approved by Beijing Natural Science Foundation.
 - *2024.09*: &nbsp;🎉 1 Paper (as first author) accepted by **SETTA 2024**.
 - *2024.09*: &nbsp;🎉 3 Papers accepted by **NeurIPS 2024**.
 - *2024.07*: &nbsp;🎡 I attended **ICML 2024** at Vienna and illustrated our poster.
@@ -97,7 +97,7 @@ Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zha
 
 ## 💻 Projects
 - **Adversarial Safety Testing and Defense of AI Foundation Models**\\
-**Principal Investigator**, Beijing Natural Science Foundation, Grant No. QY24035\\
+**Principal Investigator**, Beijing Natural Science Foundation (Grant No. QY24035)\\
 *2024.10 - 2026.09*
   
 ## 🎖 Honors and Awards
