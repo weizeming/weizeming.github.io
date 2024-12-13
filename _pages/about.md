@@ -29,7 +29,7 @@ If you are interested in collaborating with me, please send me an email.
 
 
 ## 🔥 News
-- *2024.11*: &nbsp;🎖 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide)** By School of Computer Science, Peking Uiversity.
+- *2024.12*: &nbsp;🎖 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide)** By School of Computer Science, Peking Uiversity.
 - *2024.11*: &nbsp;🎖 I received the **May 4th Scholarship**, which is **the highest honor scholarship** of Peking University (only 1 awardee among undergraduates in School of Mathematical Sciences, **Top 0.1%**).
 - *2024.10*: &nbsp;✨ My research grant proposal (as **principal investigator**) is approved by Beijing Natural Science Foundation.
 - *2024.09*: &nbsp;🎉 1 Paper (as first author) accepted by **SETTA 2024**.
@@ -102,7 +102,7 @@ Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zha
 *2024.10 - 2026.09*
   
 ## 🎖 Honors and Awards
-- **Academic Rising Star Award (Top 5 undergraduates university-wide)**, School of Computer Science, Peking Uiversity, 2024
+- **Academic Rising Star Award (Top 5 undergraduates university-wide)**, School of Computer Science, Peking University, *2024*
 - **May 4th Scholarship (Top 0.1%)**, **the highest honor scholarship** of Peking University, *2024*
 - **Merit Student (Top 10%)**, Peking University, *2024*
 - **Spotlight Award (Best Paper)**, 1st ICML Workshop on In-Context Learning, *2024*
