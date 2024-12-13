@@ -29,7 +29,7 @@ If you are interested in collaborating with me, please send me an email.
 
 
 ## 🔥 News
-- *2024.12*: &nbsp;🎖 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide)** by School of Computer Science, Peking Uiversity.
+- *2024.12*: &nbsp;🎖 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide)** by School of Computer Science, Peking University.
 - *2024.11*: &nbsp;🎖 I received the **May 4th Scholarship**, which is **the highest honor scholarship** of Peking University (only 1 awardee among undergraduates in School of Mathematical Sciences, **Top 0.1%**).
 - *2024.10*: &nbsp;✨ My research grant proposal (as **principal investigator**) is approved by Beijing Natural Science Foundation.
 - *2024.09*: &nbsp;🎉 1 Paper (as first author) accepted by **SETTA 2024**.
