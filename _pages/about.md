@@ -29,6 +29,7 @@ If you are interested in collaborating with me, please send me an email.
 
 
 ## 🔥 News
+- *2024.11*: &nbsp;🎖 I received the **Academic Rising Star Award (Top 5 university-wide)** By School of Computer Science, Peking Uiversity.
 - *2024.11*: &nbsp;🎖 I received the **May 4th Scholarship**, which is **the highest honor scholarship** of Peking University (only 1 awardee among undergraduates in School of Mathematical Sciences, **Top 0.1%**).
 - *2024.10*: &nbsp;✨ My research grant proposal (as **principal investigator**) is approved by Beijing Natural Science Foundation.
 - *2024.09*: &nbsp;🎉 1 Paper (as first author) accepted by **SETTA 2024**.
@@ -118,7 +119,7 @@ Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zha
 - *2017.09 - 2020.06*, Senior High School Student, Beijing No.4 High School
 
 ## 💼 Academic Service
-- **Conference Reviewer**: NeurIPS (2023, 2024), ICLR (2024, 2025), ICML 2024, AISTATS (2024, 2025), ECCV 2024, AAAI 2025, CVPR 2025
+- **Conference Reviewer**: NeurIPS (2023, 2024), ICLR (2024, 2025), ICML (2024, 2025), AISTATS (2024, 2025), ECCV 2024, AAAI 2025, CVPR 2025
 - **Workshop Area Chair**: SeT-LLM (@ICLR 2024)
 - **Workshop Reviewer**: XAIA (@NeurIPS 2023), ICL (@ICML 2024), IAI (@NeurIPS 2024)
 - **Journal Reviewer**: TIFS, TMLR
