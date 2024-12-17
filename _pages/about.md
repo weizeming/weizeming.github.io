@@ -25,7 +25,7 @@ ul {
 
 I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), an undergraduate at School of Mathematical Sciences, Peking University. I was also a visiting student at UC Berkeley in Fall, 2023. My research focuses on the trustworthiness of AI, specifically focusing on mechanism interpretability, adversarial robustness, and generative safety.  <a href='https://scholar.google.com/citations?user=Kyn1zdQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-If you are interested in collaborating with me or just chatting, feel free to email me.
+If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
 
 ## 🔥 News
