@@ -23,9 +23,9 @@ ul {
 
 <span class='anchor' id='about-me'></span>
 
-I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), an undergraduate at School of Mathematical Sciences, Peking University. I was also a visiting student at UC Berkeley in Fall, 2023. I am interested in improving the trustworthiness of Machine Learning, specifically focusing on mechanism interpretability, adversarial robustness, and generative AI safety.  <a href='https://scholar.google.com/citations?user=Kyn1zdQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), an undergraduate at School of Mathematical Sciences, Peking University. I was also a visiting student at UC Berkeley in Fall, 2023. My research focuses on the trustworthiness of AI, specifically focusing on mechanism interpretability, adversarial robustness, and generative safety.  <a href='https://scholar.google.com/citations?user=Kyn1zdQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-If you are interested in collaborating with me, please send me an email.
+If you are interested in collaborating with me or just chatting, feel free to email me.
 
 
 ## 🔥 News
@@ -71,11 +71,6 @@ Yihao Zhang\*, **Zeming Wei\*${}^{\boldsymbol\dagger}$**\\
 **_ICLR 2024 R2-FM Workshop_**\\
 [[pdf](https://arxiv.org/pdf/2405.01229)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
 
-- **Exploring the Robustness of In-Context Learning with Noisy Labels**\\
-Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei${}^{\boldsymbol\dagger}$**\\
-**_ICLR 2024 R2-FM Workshop_**\\
-[[pdf](https://arxiv.org/pdf/2404.18191)] [[arxiv](https://arxiv.org/abs/2404.18191)] [[code](https://github.com/InezYu0928/in-context-learning)]
-  
 - **Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks**\\
 **Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun\\
 **_Journal of Logical and Algebraic Methods in Programming_**\\
@@ -85,11 +80,6 @@ Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zha
 **Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang\\
 **_CVPR 2023_**\\
 [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]  
-
-- **Sharpness-Aware Minimization Alone can Improve Adversarial Robustness**\\
-**Zeming Wei\*${}^{\boldsymbol\dagger}$**, Jingyu Zhu\*, Yihao Zhang\*\\
-**_ICML 2023 AdvML-Frontiers Workshop_**\\
-[[pdf](https://arxiv.org/pdf/2305.05392)] [[arxiv](https://arxiv.org/abs/2305.05392)] [[code](https://github.com/weizeming/SAM_AT)]  
 
 - **Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages**\\
 **Zeming Wei**, Xiyue Zhang, Meng Sun\\
@@ -129,5 +119,5 @@ Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zha
 
 ## 🔗 Links
 (Alphabetical Order)
-- 👨‍🏫 **Advisors & Senior Co-authors**: [Stefanie Jegelka](https://people.csail.mit.edu/stefje/) (MIT), [Jun Sun](https://sunjun.site/), [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Yifei Wang](https://yifeiwang77.com), [Xiyue Zhang](https://zhang-xiyue.github.io/)
+- 👨‍🏫 **Advisors & Senior Co-authors**: [Stefanie Jegelka](https://people.csail.mit.edu/stefje/) (MIT), [Jun Sun](https://sunjun.site/), [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Yifei Wang](https://yifeiwang77.com) (MIT), [Yisen Wang](https://yisenwang.github.io/), [Xiyue Zhang](https://zhang-xiyue.github.io/)
 - 🧑‍🎓 **Co-authors**: [Huanran Chen](https://huanranchen.github.io), [Hangzhou He](https://riverback.github.io/), [Yichuan Mo](https://scholar.google.com/citations?user=xvSYG1gAAAAJ&hl=en), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/) (UCB), [Chawin Sitawarin](https://chawins.github.io/) (Meta), [Yihao Zhang](https://zhang-yihao.github.io/), [Jingyu Zhu](https://scholar.google.com/citations?user=BA0BaS4AAAAJ&hl=en)
