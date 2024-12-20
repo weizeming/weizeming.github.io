@@ -50,7 +50,7 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 ## 📝 Selected Papers
 ### (${}^{\boldsymbol\dagger}$: Corresponding Author; \*: Equal Contribution)
 - **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
-**Zeming Wei**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
+<u>**Zeming Wei**</u>, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
 **_Preprint_**\\
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] 
   
