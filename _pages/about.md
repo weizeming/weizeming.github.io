@@ -55,37 +55,37 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] 
   
 - **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
-Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**\\
+Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**\\
 **_ICML 2024_**\\
 [[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
 
 - **Boosting Jailbreak Attack with Momentum**\\
-Yihao Zhang\*, **Zeming Wei\*${}^{\boldsymbol\dagger}$**\\
+Yihao Zhang\*, **<u>Zeming Wei\*${}^{\boldsymbol\dagger}$</u>**\\
 **_ICASSP_ 2025**\\
 [[pdf](https://arxiv.org/pdf/2405.01229)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
 
 - **Exploring the Robustness of In-Context Learning with Noisy Labels**\\
-Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei\*${}^{\boldsymbol\dagger}$**\\
+Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **<u>Zeming Wei\*${}^{\boldsymbol\dagger}$</u>**\\
 **_ICASSP_ 2025**\\
 [[pdf](https://arxiv.org/pdf/2404.18191)] [[arxiv](https://arxiv.org/abs/2404.18191)] [[code](https://github.com/InezYu0928/in-context-learning)]
 
 - **MILE: A Mutation Testing Framework of In-Context Learning Systems**\\
-**Zeming Wei**, Yihao Zhang, Meng Sun\\
+**<u>Zeming Wei</u>**, Yihao Zhang, Meng Sun\\
 **_SETTA 2024_**\\
 [[pdf](https://arxiv.org/pdf/2409.04831.pdf)] [[arxiv](https://arxiv.org/abs/2409.04831)] [[code](https://github.com/weizeming/MILE)]  
 
 - **Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks**\\
-**Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun\\
+**<u>Zeming Wei</u>**, Xiyue Zhang, Yihao Zhang, Meng Sun\\
 **_Journal of Logical and Algebraic Methods in Programming_**\\
 [[pdf](https://arxiv.org/pdf/2306.14040)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 
 - **CFA: Class-wise Calibrated Fair Adversarial Training**\\
-**Zeming Wei**, Yifei Wang, Yiwen Guo, Yisen Wang\\
+**<u>Zeming Wei</u>**, Yifei Wang, Yiwen Guo, Yisen Wang\\
 **_CVPR 2023_**\\
 [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]  
 
 - **Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages**\\
-**Zeming Wei**, Xiyue Zhang, Meng Sun\\
+**<u>Zeming Wei</u>**, Xiyue Zhang, Meng Sun\\
 **_ICFEM 2022_**\\
 [[pdf](https://arxiv.org/pdf/2206.14621)] [[arxiv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 
