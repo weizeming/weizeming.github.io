@@ -29,6 +29,7 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 
 
 ## 🔥 News
+- *2024.12*: &nbsp;🎉 2 Papers (as corresponding author) accepted by **ICASSP 2025**.
 - *2024.12*: &nbsp;🎖 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide)** by School of Computer Science, Peking University.
 - *2024.11*: &nbsp;🎖 I received the **May 4th Scholarship**, which is **the highest honor scholarship** of Peking University (only 1 awardee among undergraduates in School of Mathematical Sciences, **Top 0.1%**).
 - *2024.10*: &nbsp;✨ My research grant proposal (as **principal investigator**) is approved by Beijing Natural Science Foundation.
@@ -36,13 +37,10 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 - *2024.09*: &nbsp;🎉 3 Papers accepted by **NeurIPS 2024**.
 - *2024.07*: &nbsp;🎡 I attended **ICML 2024** at Vienna and illustrated our poster.
 - *2024.05*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2024**.
-- *2024.03*: &nbsp;🎉 2 Papers (as corresponding author) accepted by **ICLR 2024 R2-FM Workshop**.
 - *2023.12*: &nbsp;💯 I achieved a **full GPA (4.0/4.0)** during my study at UC Berkeley (with 1 **A** and 2 **A+** grades).
 - *2023.10*: &nbsp;🔗 I serve as a fellow of Berkeley AI Safety Initiative for Students (BASIS).
 - *2023.09*: &nbsp;🎖 I received the **Exceptional Award for Academic Innovation** of Peking University (only 1 awardee among undergraduates in School of Mathematical Sciences, **Top 0.1%**).
 - *2023.08*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming**.
-- *2023.07*: &nbsp;🏖 I attended **ICML 2023** at Honolulu and illustrated our workshop poster.
-- *2023.06*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2023 AdvML-Frontiers Workshop**.
 - *2023.06*: &nbsp;🍁 I attended **CVPR 2023** at Vancouver and illustrated our poster.
 - *2023.05*: &nbsp;🥈 I won **Second prize** in Chinese Mathematics Competitions for Undergraduates **(National final, Top 0.2%)**.
 - *2023.05*: &nbsp;🎙 I gave a talk on our CVPR paper in **Safe & Responsible AI workshop** (ICLR 2023 social event) at Tsinghua University.
@@ -56,6 +54,16 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 **_Preprint_**\\
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] 
 
+- **Boosting Jailbreak Attack with Momentum**\\
+Yihao Zhang\*, **Zeming Wei\*${}^{\boldsymbol\dagger}$**\\
+**_ICASSP 2025**\\
+[[pdf](https://arxiv.org/pdf/2405.01229)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
+
+- **Exploring the Robustness of In-Context Learning with Noisy Labels**\\
+Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei\*${}^{\boldsymbol\dagger}$**\\
+**_ICASSP 2025**\\
+[[pdf](https://arxiv.org/pdf/2404.18191)] [[arxiv](https://arxiv.org/abs/2404.18191)] [[code](https://github.com/InezYu0928/in-context-learning)]
+
 - **MILE: A Mutation Testing Framework of In-Context Learning Systems**\\
 **Zeming Wei**, Yihao Zhang, Meng Sun\\
 **_SETTA 2024_**\\
@@ -65,11 +73,6 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**\\
 **_ICML 2024_**\\
 [[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
-
-- **Boosting Jailbreak Attack with Momentum**\\
-Yihao Zhang\*, **Zeming Wei\*${}^{\boldsymbol\dagger}$**\\
-**_ICLR 2024 R2-FM Workshop_**\\
-[[pdf](https://arxiv.org/pdf/2405.01229)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
 
 - **Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks**\\
 **Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun\\
