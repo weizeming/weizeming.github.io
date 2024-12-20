@@ -53,26 +53,26 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 **Zeming Wei**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
 **_Preprint_**\\
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] 
+  
+- **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
+Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**\\
+**_ICML 2024_**\\
+[[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
 
 - **Boosting Jailbreak Attack with Momentum**\\
 Yihao Zhang\*, **Zeming Wei\*${}^{\boldsymbol\dagger}$**\\
-**_ICASSP 2025**\\
+**_ICASSP_ 2025**\\
 [[pdf](https://arxiv.org/pdf/2405.01229)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
 
 - **Exploring the Robustness of In-Context Learning with Noisy Labels**\\
 Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **Zeming Wei\*${}^{\boldsymbol\dagger}$**\\
-**_ICASSP 2025**\\
+**_ICASSP_ 2025**\\
 [[pdf](https://arxiv.org/pdf/2404.18191)] [[arxiv](https://arxiv.org/abs/2404.18191)] [[code](https://github.com/InezYu0928/in-context-learning)]
 
 - **MILE: A Mutation Testing Framework of In-Context Learning Systems**\\
 **Zeming Wei**, Yihao Zhang, Meng Sun\\
 **_SETTA 2024_**\\
 [[pdf](https://arxiv.org/pdf/2409.04831.pdf)] [[arxiv](https://arxiv.org/abs/2409.04831)] [[code](https://github.com/weizeming/MILE)]  
-  
-- **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
-Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **Zeming Wei${}^{\boldsymbol\dagger}$**\\
-**_ICML 2024_**\\
-[[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
 
 - **Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks**\\
 **Zeming Wei**, Xiyue Zhang, Yihao Zhang, Meng Sun\\
