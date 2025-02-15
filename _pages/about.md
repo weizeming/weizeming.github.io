@@ -31,7 +31,7 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 ## 🔥 News
 - *2024.12*: &nbsp;🎉 2 Papers (as corresponding author) accepted by **ICASSP 2025**.
 - *2024.12*: &nbsp;🎖 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide)** by School of Computer Science, Peking University. [[blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA)]
-- *2024.11*: &nbsp;🎖 I received the **May 4th Scholarship**, which is **the highest honor scholarship** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
+- *2024.11*: &nbsp;🎖 I received the **May 4th Scholarship <font face=STKaiti, color=94070A>五四奖学金</font>**, which is **the highest honor scholarship** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
 - *2024.10*: &nbsp;✨ My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**.
 - *2024.09*: &nbsp;🎉 1 Paper (as first author) accepted by **SETTA 2024**.
 - *2024.09*: &nbsp;🎉 3 Papers accepted by **NeurIPS 2024**.
@@ -95,8 +95,8 @@ Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zha
 *2024.10 - 2026.09*
   
 ## 🎖 Honors and Awards
+- **May 4th Scholarship (<font face=STKaiti, color=94070A>五四奖学金</font>, Top 0.1%)**, **the highest honor scholarship** of Peking University, *2024*
 - **Academic Rising Star Award (Top 5 undergraduates university-wide)** [[blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA)], School of Computer Science, Peking University, *2024*
-- **May 4th Scholarship (Top 0.1%)**, **the highest honor scholarship** of Peking University, *2024*
 - **Merit Student (Top 10%)**, Peking University, *2024*
 - **Spotlight Award (Best Paper)**, 1st ICML Workshop on In-Context Learning, *2024*
 - **Exceptional Award for Academic Innovation (Top 0.1%)**, Peking University, *2023*
