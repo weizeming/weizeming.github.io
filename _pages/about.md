@@ -95,7 +95,7 @@ Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zha
 *2024.10 - 2026.09*
   
 ## 🎖 Honors and Awards
-- **May 4th Scholarship (<font face=STKaiti, color=94070A>五四奖学金</font>, Top 0.1%)**, **the highest honor scholarship** of Peking University, *2024*
+- **May 4th Scholarship** (<b><font face=STKaiti, color=94070A>五四奖学金</font></b>, **Top 0.1%**), **the highest honor scholarship** of Peking University, *2024*
 - **Academic Rising Star Award (Top 5 undergraduates university-wide)** [[blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA)], School of Computer Science, Peking University, *2024*
 - **Merit Student (Top 10%)**, Peking University, *2024*
 - **Spotlight Award (Best Paper)**, 1st ICML Workshop on In-Context Learning, *2024*
