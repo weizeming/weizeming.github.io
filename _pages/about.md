@@ -29,7 +29,7 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 
 
 ## 🔥 News
-- *2024.12*: &nbsp;🎉 2 Papers (as corresponding author) accepted by **ICASSP 2025**.
+- *2024.12*: &nbsp;🎉 2 Papers (as corresponding author; 1 as **Oral**) accepted by **ICASSP 2025**.
 - *2024.12*: &nbsp;🎖 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide, [blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA))** by School of Computer Science, Peking University. 
 - *2024.11*: &nbsp;🎖 I received the **May 4th Scholarship** (**<font color="#94070A">五四奖学金</font>**), which is **the highest honor scholarship** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
 - *2024.10*: &nbsp;✨ My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**.
@@ -61,7 +61,7 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 
 - **Boosting Jailbreak Attack with Momentum**\\
 Yihao Zhang\*, **<u>Zeming Wei*${}^{\boldsymbol\dagger}$</u>**\\
-**_ICASSP_ 2025**\\
+**_ICASSP_ 2025 (Oral)**\\
 [[pdf](https://arxiv.org/pdf/2405.01229)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
 
 - **Exploring the Robustness of In-Context Learning with Noisy Labels**\\
