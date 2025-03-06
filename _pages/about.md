@@ -72,12 +72,12 @@ Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zha
 - **MILE: A Mutation Testing Framework of In-Context Learning Systems**\\
 **<u>Zeming Wei</u>**, Yihao Zhang, Meng Sun\\
 **_SETTA 2024_**\\
-[[pdf](https://arxiv.org/pdf/2409.04831.pdf)] [[arxiv](https://arxiv.org/abs/2409.04831)] [[code](https://github.com/weizeming/MILE)]  
+[[pdf](https://link.springer.com/chapter/10.1007/978-981-96-0602-3_18)] [[arxiv](https://arxiv.org/abs/2409.04831)] [[code](https://github.com/weizeming/MILE)]  
 
 - **Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks**\\
 **<u>Zeming Wei</u>**, Xiyue Zhang, Yihao Zhang, Meng Sun\\
 **_Journal of Logical and Algebraic Methods in Programming_**\\
-[[pdf](https://arxiv.org/pdf/2306.14040)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
+[[pdf](https://linkinghub.elsevier.com/retrieve/pii/S2352220823000615)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 
 - **CFA: Class-wise Calibrated Fair Adversarial Training**\\
 **<u>Zeming Wei</u>**, Yifei Wang, Yiwen Guo, Yisen Wang\\
@@ -87,7 +87,7 @@ Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zha
 - **Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages**\\
 **<u>Zeming Wei</u>**, Xiyue Zhang, Meng Sun\\
 **_ICFEM 2022_**\\
-[[pdf](https://arxiv.org/pdf/2206.14621)] [[arxiv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
+[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-17244-1_22)] [[arxiv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 
 ## 💻 Projects
 - **Adversarial Safety Testing and Defense of AI Foundation Models**\\
