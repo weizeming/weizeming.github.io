@@ -51,7 +51,7 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 ### (${}^{\boldsymbol\dagger}$: Corresponding Author; \*: Equal Contribution)
 - **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
 **<u>Zeming Wei</u>**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
-**_Preprint_**\\
+**_Preprint_ (Cited 200+ times)**\\
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] 
   
 - **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
