@@ -99,6 +99,7 @@ Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zha
 - **Academic Rising Star Award (Top 5 undergraduates university-wide)** [[blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA)], School of Computer Science, Peking University, *2024*
 - **Merit Student (Top 10%)**, Peking University, *2024*
 - **Spotlight Award (Best Paper)**, 1st ICML Workshop on In-Context Learning, *2024*
+- **ICML Travel Award**, *2024*
 - **Exceptional Award for Academic Innovation (Top 0.1%)**, Peking University, *2023*
 - **Merit Student (Top 10%)**, Peking University, *2023*
 - **Second prize**, Chinese Mathematics Competitions for Undergraduates (**National Final, Top 0.2%**), *2023*
