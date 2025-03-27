@@ -29,9 +29,10 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 
 
 ## 🔥 News
+- *2025.03*: &nbsp;🎖 I'm selected for the **Somersault Cloud Talent Program** (**筋斗云人才计划**) by ByteDance (internship-specific).
 - *2024.12*: &nbsp;🎉 2 Papers (as corresponding author; 1 as **Oral**) accepted by **ICASSP 2025**.
-- *2024.12*: &nbsp;🎖 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide, [blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA))** by School of Computer Science, Peking University. 
-- *2024.11*: &nbsp;🎖 I received the **May 4th Scholarship** (**<font color="#94070A">五四奖学金</font>**), which is **the highest honor scholarship** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
+- *2024.12*: &nbsp;🏅 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide, [blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA))** by School of Computer Science, Peking University. 
+- *2024.11*: &nbsp;🏅 I received the **May 4th Scholarship** (**<font color="#94070A">五四奖学金</font>**), which is **the highest honor scholarship** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
 - *2024.10*: &nbsp;✨ My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**.
 - *2024.09*: &nbsp;🎉 1 Paper (as first author) accepted by **SETTA 2024**.
 - *2024.09*: &nbsp;🎉 3 Papers accepted by **NeurIPS 2024**.
@@ -39,7 +40,7 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 - *2024.05*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2024**.
 - *2023.12*: &nbsp;💯 I achieved a **full GPA (4.0/4.0)** during my study at UC Berkeley (with 1 **A** and 2 **A+** grades).
 - *2023.10*: &nbsp;🔗 I serve as a fellow of Berkeley AI Safety Initiative for Students (BASIS).
-- *2023.09*: &nbsp;🎖 I received the **Exceptional Award for Academic Innovation** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
+- *2023.09*: &nbsp;🏅 I received the **Exceptional Award for Academic Innovation** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
 - *2023.08*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming**.
 - *2023.06*: &nbsp;🍁 I attended **CVPR 2023** at Vancouver and illustrated our poster.
 - *2023.05*: &nbsp;🥈 Won **Second prize** in Chinese Mathematics Competitions for Undergraduates **(National final, Top 0.2%)**.
@@ -93,8 +94,16 @@ Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zha
 - **Adversarial Safety Testing and Defense of AI Foundation Models**\\
 **Principal Investigator**, Beijing Natural Science Foundation (Grant No. QY24035)\\
 *2024.10 - 2026.09*
-  
-## 🎖 Honors and Awards
+
+
+
+## 🎖️ Talent Programs
+- **Somersault Cloud Talent Program** (**筋斗云人才计划**), internship-specific, ByteDance
+- **Elite Ph.D. Program in Mathematics**, Peking University
+- **Elite Ph.D. Program in Applied Mathematics**, Center for Machine Learning Research, Peking University
+
+
+## 🏅 Honors and Awards
 - **May 4th Scholarship** (<b><font color="#94070A">五四奖学金</font></b>, **Top 0.1%**), **the highest honor scholarship** of Peking University, *2024*
 - **Academic Rising Star Award (Top 5 undergraduates university-wide)** [[blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA)], School of Computer Science, Peking University, *2024*
 - **Merit Student (Top 10%)**, Peking University, *2024*
