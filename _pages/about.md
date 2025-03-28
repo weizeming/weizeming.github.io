@@ -29,7 +29,7 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 
 
 ## 🔥 News
-- *2025.03*: &nbsp;🎖 I'm selected for the **Somersault Cloud Talent Program** (**筋斗云人才计划**) by ByteDance (internship-specific).
+- *2025.03*: &nbsp;🎖 I'm selected for the **Somersault Cloud Talent Program** (**筋斗云人才计划**) by ByteDance (internship track).
 - *2024.12*: &nbsp;🎉 2 Papers (as corresponding author; 1 as **Oral**) accepted by **ICASSP 2025**.
 - *2024.12*: &nbsp;🏅 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide, [blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA))** by School of Computer Science, Peking University. 
 - *2024.11*: &nbsp;🏅 I received the **May 4th Scholarship** (**<font color="#94070A">五四奖学金</font>**), which is **the highest honor scholarship** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
@@ -98,7 +98,7 @@ Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zha
 
 
 ## 🎖️ Talent Programs
-- **Somersault Cloud Talent Program** (**筋斗云人才计划**), internship-specific, ByteDance
+- **Somersault Cloud Talent Program** (**筋斗云人才计划**), internship track, ByteDance
 - **Elite Ph.D. Program in Mathematics**, Peking University
 - **Elite Ph.D. Program in Applied Mathematics**, Center for Machine Learning Research, Peking University
 
