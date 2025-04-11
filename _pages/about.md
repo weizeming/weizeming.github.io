@@ -27,8 +27,8 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), an undergraduate at School
 
 If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
-
 ## 🔥 News
+- *2025.03*: &nbsp;🔍 I serve as an **Area Chair** for **NeurIPS 2025**.
 - *2025.03*: &nbsp;🎖 I'm selected for the **Somersault Cloud Talent Program** (**筋斗云人才计划**) by ByteDance (internship track).
 - *2024.12*: &nbsp;🎉 2 Papers (as corresponding author; 1 as **Oral**) accepted by **ICASSP 2025**.
 - *2024.12*: &nbsp;🏅 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide, [blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA))** by School of Computer Science, Peking University. 
@@ -44,7 +44,6 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 - *2023.08*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming**.
 - *2023.06*: &nbsp;🍁 I attended **CVPR 2023** at Vancouver and illustrated our poster.
 - *2023.05*: &nbsp;🥈 Won **Second prize** in Chinese Mathematics Competitions for Undergraduates **(National final, Top 0.2%)**.
-- *2023.05*: &nbsp;🎙 I gave a talk on our CVPR paper in **Safe & Responsible AI workshop** (ICLR 2023 social event) at Tsinghua University.
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for Undergraduates (Beijing Division), and qualified for the finals.
 
