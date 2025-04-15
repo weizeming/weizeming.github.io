@@ -28,6 +28,7 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), an undergraduate at School
 If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
 ## 🔥 News
+- *2025.04*: &nbsp;🌟 Our new [preprint](http://dx.doi.org/10.13140/RG.2.2.13421.29923) on discussing **risks in LLM-based agents** is available online.
 - *2025.04*: &nbsp;🔍 I serve as an **Area Chair** for **NeurIPS 2025**.
 - *2025.03*: &nbsp;🎖 I'm selected for the **Somersault Cloud Talent Program** (**筋斗云人才计划**) by ByteDance (internship track).
 - *2024.12*: &nbsp;🎉 2 Papers (as corresponding author; 1 as **Oral**) accepted by **ICASSP 2025**.
@@ -52,22 +53,22 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 - **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
 **<u>Zeming Wei</u>**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
 **_Preprint_ (Cited 200+ times)**\\
-[[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)] [[code](https://github.com/PKU-ML/adv-icl)] 
-  
-- **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
-Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**\\
-**_ICML 2024_**\\
-[[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
+[[pdf](https://arxiv.org/pdf/2310.06387)]
+
+- **Position: Agent-Specific Trustworthiness Risk as a Research Priority**\\
+**<u>Zeming Wei</u>**, Tianlin Li, Xiaojun Jia, Yang Liu, Meng Sun\\
+**_Preprint_**\\
+[[pdf](http://dx.doi.org/10.13140/RG.2.2.13421.29923)]
 
 - **Boosting Jailbreak Attack with Momentum**\\
 Yihao Zhang\*, **<u>Zeming Wei*${}^{\boldsymbol\dagger}$</u>**\\
 **_ICASSP_ 2025 (Oral)**\\
 [[pdf](https://ieeexplore.ieee.org/document/10888812)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
 
-- **Exploring the Robustness of In-Context Learning with Noisy Labels**\\
-Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zhang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**\\
-**_ICASSP_ 2025**\\
-[[pdf](https://ieeexplore.ieee.org/document/10889281)] [[arxiv](https://arxiv.org/abs/2404.18191)] [[code](https://github.com/InezYu0928/in-context-learning)]
+- **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
+Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**\\
+**_ICML 2024_**\\
+[[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
 
 - **MILE: A Mutation Testing Framework of In-Context Learning Systems**\\
 **<u>Zeming Wei</u>**, Yihao Zhang, Meng Sun\\
@@ -102,6 +103,8 @@ Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jingsong Sun, Guanzhang Yue, Yihao Zha
 
 
 ## 🏅 Honors and Awards
+- **Excellent Graduate of Beijing Municipal (Top 5%)**, Beijing Municipal Education Commission, *2025*
+- **Excellent Graduate of Peking University**, Peking University, *2025*
 - **May 4th Scholarship** (<b><font color="#94070A">五四奖学金</font></b>, **Top 0.1%**), **the highest honor scholarship** of Peking University, *2024*
 - **Academic Rising Star Award (Top 5 undergraduates university-wide)** [[blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA)], School of Computer Science, Peking University, *2024*
 - **Merit Student (Top 10%)**, Peking University, *2024*
