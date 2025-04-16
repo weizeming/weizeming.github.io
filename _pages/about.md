@@ -28,7 +28,7 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), an undergraduate at School
 If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
 ## 🔥 News
-- *2025.04*: &nbsp;🌟 Our new [preprint](http://dx.doi.org/10.13140/RG.2.2.13421.29923) on discussing **risks in LLM-based agents** is available online.
+- *2025.04*: &nbsp;🌟 Our new [preprint](https://weizeming.github.io/assets/papers/Position_Agent_Risk.pdf) on discussing **risks in LLM-based agents** is available online.
 - *2025.04*: &nbsp;🔍 I serve as an **Area Chair** for **NeurIPS 2025**.
 - *2025.03*: &nbsp;🎖 I'm selected for the **Somersault Cloud Talent Program** (**筋斗云人才计划**) by ByteDance (internship track).
 - *2024.12*: &nbsp;🎉 2 Papers (as corresponding author; 1 as **Oral**) accepted by **ICASSP 2025**.
