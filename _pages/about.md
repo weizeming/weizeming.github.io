@@ -49,7 +49,7 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for Undergraduates (Beijing Division), and qualified for the finals.
 
-## Selected Preprints
+## 📝 Selected Preprints
 
 - **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
 **<u>Zeming Wei</u>**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
