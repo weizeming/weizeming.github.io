@@ -28,6 +28,7 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), an undergraduate at School
 If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
 ## 🔥 News
+- *2025.05*: &nbsp;🎉 1 Paper (as first author) accepted by **ICML 2025**.
 - *2025.04*: &nbsp;🌟 Our new [preprint](https://openreview.net/pdf?id=xQI7dOlpmj) on discussing **Risks in LLM-based Agents** is available online.
 - *2025.04*: &nbsp;🔍 I serve as an **Area Chair** for **NeurIPS 2025**.
 - *2025.03*: &nbsp;🎖 I'm selected for the **Somersault Cloud Talent Program** (**筋斗云人才计划**) by ByteDance (internship track).
@@ -60,6 +61,11 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 **_Preprint_**\\
 [[pdf](https://openreview.net/pdf?id=xQI7dOlpmj)]
 
+- **Identifying and Understanding Cross-Class Features in Adversarial Training**\\
+- **<u>Zeming Wei</u>**, Yiwen Guo, Yisen Wang\\
+- **_ICML 2025_**\\
+- [pdf] [arxiv] [code]
+
 - **Boosting Jailbreak Attack with Momentum**\\
 Yihao Zhang\*, **<u>Zeming Wei*${}^{\boldsymbol\dagger}$</u>**\\
 **_ICASSP_ 2025 (Oral)**\\
@@ -84,11 +90,6 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 **<u>Zeming Wei</u>**, Yifei Wang, Yiwen Guo, Yisen Wang\\
 **_CVPR 2023_**\\
 [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]  
-
-- **Extracting Weighted Finite Automata from Recurrent Neural Networks for Natural Languages**\\
-**<u>Zeming Wei</u>**, Xiyue Zhang, Meng Sun\\
-**_ICFEM 2022_**\\
-[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-17244-1_22)] [[arxiv](https://arxiv.org/abs/2206.14621)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 
 ## 💻 Projects
 - **Adversarial Safety Testing and Defense of AI Foundation Models**\\
