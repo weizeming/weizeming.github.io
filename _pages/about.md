@@ -62,9 +62,9 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 [[pdf](https://openreview.net/pdf?id=xQI7dOlpmj)]
 
 - **Identifying and Understanding Cross-Class Features in Adversarial Training**\\
-- **<u>Zeming Wei</u>**, Yiwen Guo, Yisen Wang\\
-- **_ICML 2025_**\\
-- [pdf] [arxiv] [code]
+**<u>Zeming Wei</u>**, Yiwen Guo, Yisen Wang\\
+**_ICML 2025_**\\
+[pdf] [arxiv] [code]
 
 - **Boosting Jailbreak Attack with Momentum**\\
 Yihao Zhang\*, **<u>Zeming Wei*${}^{\boldsymbol\dagger}$</u>**\\
