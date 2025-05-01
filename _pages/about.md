@@ -62,6 +62,7 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 [[pdf](https://openreview.net/pdf?id=xQI7dOlpmj)]
 
 ## 📝 Selected Publications
+### (${}^{\boldsymbol\dagger}$: Corresponding Author; \*: Equal Contribution)
 
 - **Identifying and Understanding Cross-Class Features in Adversarial Training**\\
 **<u>Zeming Wei</u>**, Yiwen Guo, Yisen Wang\\
