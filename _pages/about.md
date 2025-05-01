@@ -49,8 +49,8 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for Undergraduates (Beijing Division), and qualified for the finals.
 
-## 📝 Selected Papers
-### (${}^{\boldsymbol\dagger}$: Corresponding Author; \*: Equal Contribution)
+## Selected Preprints
+
 - **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
 **<u>Zeming Wei</u>**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
 **_Preprint_ (Cited 200+ times)**\\
@@ -60,6 +60,8 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 **<u>Zeming Wei</u>**, Tianlin Li, Xiaojun Jia, Yang Liu, Meng Sun\\
 **_Preprint_**\\
 [[pdf](https://openreview.net/pdf?id=xQI7dOlpmj)]
+
+## 📝 Selected Publications
 
 - **Identifying and Understanding Cross-Class Features in Adversarial Training**\\
 **<u>Zeming Wei</u>**, Yiwen Guo, Yisen Wang\\
@@ -75,11 +77,6 @@ Yihao Zhang\*, **<u>Zeming Wei*${}^{\boldsymbol\dagger}$</u>**\\
 Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**\\
 **_ICML 2024_**\\
 [[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
-
-- **MILE: A Mutation Testing Framework of In-Context Learning Systems**\\
-**<u>Zeming Wei</u>**, Yihao Zhang, Meng Sun\\
-**_SETTA 2024_**\\
-[[pdf](https://link.springer.com/chapter/10.1007/978-981-96-0602-3_18)] [[arxiv](https://arxiv.org/abs/2409.04831)] [[code](https://github.com/weizeming/MILE)]  
 
 - **Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks**\\
 **<u>Zeming Wei</u>**, Xiyue Zhang, Yihao Zhang, Meng Sun\\
