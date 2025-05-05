@@ -30,7 +30,6 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 ## 🔥 News
 - *2025.05*: &nbsp;🎉 1 Paper (as first author) accepted by **ICML 2025**.
 - *2025.04*: &nbsp;🌟 Our new [preprint](https://openreview.net/pdf?id=xQI7dOlpmj) on discussing **Risks in LLM-based Agents** is available online.
-- *2025.04*: &nbsp;🔍 I serve as an **Area Chair** for **NeurIPS 2025**.
 - *2025.03*: &nbsp;🎖 I'm selected for the **Somersault Cloud Talent Program** (**筋斗云人才计划**) by ByteDance (internship track).
 - *2024.12*: &nbsp;🎉 2 Papers (as corresponding author; 1 as **Oral**) accepted by **ICASSP 2025**.
 - *2024.12*: &nbsp;🏅 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide, [blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA))** by School of Computer Science, Peking University. 
@@ -123,10 +122,9 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 - *2017.09 - 2020.06*, Senior High School Student, Beijing No.4 High School
 
 ## 💼 Academic Service
-- **Area Chair**: NeurIPS 2025
-- **Reviewer (Conference)**: NeurIPS (2023, 2024), ICLR (2024, 2025), ICML (2024, 2025), AISTATS (2024, 2025), ECCV 2024, CVPR 2025, AAAI 2025
-- **Reviewer (Workshop)**: XAIA (@NeurIPS 2023), ICL (@ICML 2024), IAI (@NeurIPS 2024)
+- **Reviewer (Conference)**: NeurIPS, ICLR, ICML, AISTATS, ECCV, CVPR, AAAI
 - **Reviewer (Journal)**: TIFS, TMLR
+- **Reviewer (Workshop)**: XAIA (@NeurIPS 2023), ICL (@ICML 2024), IAI (@NeurIPS 2024)
 - **Fellow**, Berkeley AI Safety Initiative for Students (BASIS), UC Berkeley
 
 ## 🔗 Links
