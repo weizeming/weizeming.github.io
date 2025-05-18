@@ -33,7 +33,7 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 - *2025.03*: &nbsp;🎖 I'm selected for the **Somersault Cloud Talent Program** (**筋斗云人才计划**) by ByteDance (internship track).
 - *2024.12*: &nbsp;🎉 2 Papers (as corresponding author; 1 as **Oral**) accepted by **ICASSP 2025**.
 - *2024.12*: &nbsp;🏅 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide, [blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA))** by School of Computer Science, Peking University. 
-- *2024.11*: &nbsp;🏅 I received the **May 4th Scholarship** (**<font color="#94070A">五四奖学金</font>**), which is **the highest honor scholarship** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
+- *2024.11*: &nbsp;🏅 I received the **May 4th Scholarship (<font color="#94070A">五四奖学金</font>, [blog](https://mp.weixin.qq.com/s/wmguSvRKHZkeFbszSwM1gw))**, which is **the highest honor scholarship** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
 - *2024.10*: &nbsp;✨ My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**.
 - *2024.09*: &nbsp;🎉 1 Paper (as first author) accepted by **SETTA 2024**.
 - *2024.09*: &nbsp;🎉 3 Papers accepted by **NeurIPS 2024**.
@@ -129,5 +129,5 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 
 ## 🔗 Links
 (Alphabetical Order)
-- 👨‍🏫 **Advisors & Senior Co-authors**: [Stefanie Jegelka](https://people.csail.mit.edu/stefje/) (MIT), [Jun Sun](https://sunjun.site/), [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Yifei Wang](https://yifeiwang77.com) (MIT), [Yisen Wang](https://yisenwang.github.io/), [Xiyue Zhang](https://zhang-xiyue.github.io/)
-- 🧑‍🎓 **Co-authors**: [Huanran Chen](https://huanranchen.github.io), [Hangzhou He](https://riverback.github.io/), [Yichuan Mo](https://scholar.google.com/citations?user=xvSYG1gAAAAJ&hl=en), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/) (UCB), [Chawin Sitawarin](https://chawins.github.io/) (Meta), [Yihao Zhang](https://zhang-yihao.github.io/), [Jingyu Zhu](https://scholar.google.com/citations?user=BA0BaS4AAAAJ&hl=en)
+- 👨‍🏫 **Advisors & Senior Co-authors**: [Stefanie Jegelka](https://people.csail.mit.edu/stefje/) (MIT), [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (NTU), [Jun Sun](https://sunjun.site/), [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/indexen.html), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Yifei Wang](https://yifeiwang77.com) (MIT), [Yisen Wang](https://yisenwang.github.io/), [Xiyue Zhang](https://zhang-xiyue.github.io/)
+- 🧑‍🎓 **Co-authors**: [Huanran Chen](https://huanranchen.github.io), [Hangzhou He](https://riverback.github.io/), [Yichuan Mo](https://scholar.google.com/citations?user=xvSYG1gAAAAJ&hl=en), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/) (UCB), [Chawin Sitawarin](https://chawins.github.io/) (Google), [Yihao Zhang](https://zhang-yihao.github.io/), [Jingyu Zhu](https://scholar.google.com/citations?user=BA0BaS4AAAAJ&hl=en)
