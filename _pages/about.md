@@ -35,7 +35,6 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 - *2024.12*: &nbsp;🏅 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide, [blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA))** by School of Computer Science, Peking University. 
 - *2024.11*: &nbsp;🏅 I received the **May 4th Scholarship (<font color="#94070A">五四奖学金</font>, [blog](https://mp.weixin.qq.com/s/wmguSvRKHZkeFbszSwM1gw))**, which is **the highest honor scholarship** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
 - *2024.10*: &nbsp;✨ My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**.
-- *2024.09*: &nbsp;🎉 1 Paper (as first author) accepted by **SETTA 2024**.
 - *2024.09*: &nbsp;🎉 3 Papers accepted by **NeurIPS 2024**.
 - *2024.07*: &nbsp;🎡 I attended **ICML 2024** at Vienna and illustrated our poster.
 - *2024.05*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2024**.
@@ -49,6 +48,7 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for Undergraduates (Beijing Division), and qualified for the finals.
 
 ## 📝 Selected Preprints
+### (${}^{\boldsymbol\dagger}$: Corresponding Author; \*: Equal Contribution)
 
 - **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
 **<u>Zeming Wei</u>**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
@@ -59,6 +59,20 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 **<u>Zeming Wei</u>**, Tianlin Li, Xiaojun Jia, Yang Liu, Meng Sun\\
 **_Preprint_**\\
 [[pdf](https://openreview.net/pdf?id=xQI7dOlpmj)]
+
+
+- **Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval**\\
+- Taiye Chen\*, **<u>Zeming Wei*</u>**, Ang Li, Yisen Wang\\
+- **_Preprint_**\\
+[[pdf](https://arxiv.org/pdf/2505.15753)]
+
+
+- **Mitigating Fine-tuning Risks in LLMs via Safety-Aware Probing Optimization**\\
+- Chengcan Wu\*, Zhixin Zhang\*, **<u>Zeming Wei*</u>**, Yihao Zhang, Meng Sun\\
+- **_Preprint_**\\
+[[pdf](https://arxiv.org/pdf/2505.16737)]
+
+
 
 ## 📝 Selected Publications
 ### (${}^{\boldsymbol\dagger}$: Corresponding Author; \*: Equal Contribution)
