@@ -62,14 +62,14 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 
 
 - **Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval**\\
-- Taiye Chen\*, **<u>Zeming Wei*</u>**, Ang Li, Yisen Wang\\
-- **_Preprint_**\\
+Taiye Chen\*, **<u>Zeming Wei*</u>**, Ang Li, Yisen Wang\\
+**_Preprint_**\\
 [[pdf](https://arxiv.org/pdf/2505.15753)]
 
 
 - **Mitigating Fine-tuning Risks in LLMs via Safety-Aware Probing Optimization**\\
-- Chengcan Wu\*, Zhixin Zhang\*, **<u>Zeming Wei*</u>**, Yihao Zhang, Meng Sun\\
-- **_Preprint_**\\
+Chengcan Wu\*, Zhixin Zhang\*, **<u>Zeming Wei*</u>**, Yihao Zhang, Meng Sun\\
+**_Preprint_**\\
 [[pdf](https://arxiv.org/pdf/2505.16737)]
 
 
