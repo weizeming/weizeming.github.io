@@ -28,6 +28,7 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), an undergraduate at School
 If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
 ## 🔥 News
+- *2025.06*: &nbsp;🌟 3 new preprints exploring new paradigms in LLM safe alignment are available online, including safety [abstraction](https://arxiv.org/pdf/2506.01770), [retrieval](https://arxiv.org/pdf/2505.15753), and [fine-tuning](https://arxiv.org/pdf/2505.16737).
 - *2025.05*: &nbsp;🎉 1 Paper (as first author) accepted by **ICML 2025**.
 - *2025.04*: &nbsp;🌟 Our new [preprint](https://openreview.net/pdf?id=xQI7dOlpmj) on discussing **Risks in LLM-based Agents** is available online.
 - *2025.03*: &nbsp;🎖 I'm selected for the **Somersault Cloud Talent Program** (**筋斗云人才计划**) by ByteDance (internship track).
@@ -61,7 +62,7 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 [[pdf](https://openreview.net/pdf?id=xQI7dOlpmj)]
 
 - **ReGA: Representation-Guided Abstraction for Model-based Safeguarding of LLMs**\\
-**<u>Zeming Wei*</u>**, Chengcan Wu, Meng Sun\\
+**<u>Zeming Wei</u>**, Chengcan Wu, Meng Sun\\
 **_Preprint_**\\
 [[pdf](https://arxiv.org/pdf/2506.01770)]
 
