@@ -60,6 +60,10 @@ If you are interested in collaborating (or just chatting) with me, feel free to 
 **_Preprint_**\\
 [[pdf](https://openreview.net/pdf?id=xQI7dOlpmj)]
 
+- **ReGA: Representation-Guided Abstraction for Model-based Safeguarding of LLMs**\\
+**<u>Zeming Wei*</u>**, Chengcan Wu, Meng Sun\\
+**_Preprint_**\\
+[[pdf](https://arxiv.org/pdf/2506.01770)]
 
 - **Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval**\\
 Taiye Chen\*, **<u>Zeming Wei*</u>**, Ang Li, Yisen Wang\\
