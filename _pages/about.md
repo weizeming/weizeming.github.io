@@ -85,7 +85,7 @@ Chengcan Wu\*, Zhixin Zhang\*, **<u>Zeming Wei*</u>**, Yihao Zhang, Meng Sun\\
 - **Identifying and Understanding Cross-Class Features in Adversarial Training**\\
 **<u>Zeming Wei</u>**, Yiwen Guo, Yisen Wang\\
 **_ICML 2025_**\\
-[pdf] [arxiv] [code]
+[[pdf](https://openreview.net/pdf?id=FvBYG5jA7k)] [[arxiv](https://arxiv.org/abs/2506.05032)] [[code](https://github.com/PKU-ML/Cross-Class-Features-AT)]
 
 - **Boosting Jailbreak Attack with Momentum**\\
 Yihao Zhang\*, **<u>Zeming Wei*${}^{\boldsymbol\dagger}$</u>**\\
