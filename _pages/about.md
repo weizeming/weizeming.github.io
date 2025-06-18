@@ -28,6 +28,7 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), an undergraduate at School
 If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
 ## 🔥 News
+- *2025.06*: &nbsp;🏅 I received the **Outstanding Bachelor Dissertation Award** by Peking University (**Top 3%**, [pdf](https://openreview.net/pdf?id=p3ZN6CFx9l)).
 - *2025.06*: &nbsp;🌟 3 new preprints exploring fresh paradigms in LLM safe alignment are available online, including safety [modeling](https://arxiv.org/pdf/2506.01770), [retrieval](https://arxiv.org/pdf/2505.15753), and [fine-tuning](https://arxiv.org/pdf/2505.16737).
 - *2025.05*: &nbsp;🎉 1 Paper (as first author) accepted by **ICML 2025**.
 - *2025.04*: &nbsp;🌟 Our new [preprint](https://openreview.net/pdf?id=xQI7dOlpmj) on discussing **Risks in LLM-based Agents** is available online.
@@ -107,7 +108,7 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 **_CVPR 2023_**\\
 [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]  
 
-## 💻 Projects
+## 💻 Grants
 - **Adversarial Safety Testing and Defense of AI Foundation Models**\\
 **Principal Investigator**, Beijing Natural Science Foundation (Grant No. QY24035)\\
 *2024.10 - 2026.09*
@@ -120,6 +121,7 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 
 
 ## 🏅 Honors and Awards
+- **Outstanding Bachelor Dissertation Award (Top 3%)**, Peking University, *2025*
 - **Excellent Graduate of Beijing Municipal (Top 5%)**, Beijing Municipal Education Commission, *2025*
 - **Excellent Graduate of Peking University**, Peking University, *2025*
 - **May 4th Scholarship** (<b><font color="#94070A">五四奖学金</font></b>, **Top 0.1%**) [[blog](https://mp.weixin.qq.com/s/wmguSvRKHZkeFbszSwM1gw)], **the highest honor scholarship** of Peking University, *2024*
