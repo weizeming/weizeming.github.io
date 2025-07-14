@@ -55,7 +55,7 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 
 - **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
 **<u>Zeming Wei</u>**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
-**_Preprint_ (Cited 200+ times)**\\
+**_Preprint_ (Cited 300+ times)**\\
 [[pdf](https://arxiv.org/pdf/2310.06387)]
 
 - **Position: Agent-Specific Trustworthiness Risk as a Research Priority**\\
