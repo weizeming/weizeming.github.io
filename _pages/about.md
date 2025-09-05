@@ -68,10 +68,10 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 **_Preprint_**\\
 [[pdf](https://arxiv.org/pdf/2506.01770)]
 
-- **Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval**\\
-Taiye Chen\*, **<u>Zeming Wei*</u>**, Ang Li, Yisen Wang\\
+- **False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize**\\
+Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Muhao Chen\\
 **_Preprint_**\\
-[[pdf](https://arxiv.org/pdf/2505.15753)]
+[[pdf](https://arxiv.org/pdf/2509.03888)]
 
 
 - **Mitigating Fine-tuning Risks in LLMs via Safety-Aware Probing Optimization**\\
