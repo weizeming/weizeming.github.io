@@ -30,9 +30,7 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 ## 🔥 News
 - *2025.06*: &nbsp;🎊 I got my Bachelor of Science degree from Peking University and will start my Ph.D. studies in September 2025. Thank you to all my advisors and collaborators!
 - *2025.06*: &nbsp;🏅 I received the **Outstanding Bachelor Dissertation Award** by Peking University (**Top 3%**, [pdf](https://openreview.net/pdf?id=p3ZN6CFx9l)).
-- *2025.06*: &nbsp;🌟 3 new preprints exploring fresh paradigms in LLM safe alignment are available online, including safety [modeling](https://arxiv.org/pdf/2506.01770), [retrieval](https://arxiv.org/pdf/2505.15753), and [fine-tuning](https://arxiv.org/pdf/2505.16737).
 - *2025.05*: &nbsp;🎉 1 Paper (as first author) accepted by **ICML 2025**.
-- *2025.04*: &nbsp;🌟 Our new [preprint](https://openreview.net/pdf?id=xQI7dOlpmj) on discussing **Risks in LLM-based Agents** is available online.
 - *2025.03*: &nbsp;🎖 I'm selected for the **Somersault Cloud Talent Program** (**筋斗云人才计划**) by ByteDance (internship track).
 - *2024.12*: &nbsp;🎉 2 Papers (as corresponding author; 1 as **Oral**) accepted by **ICASSP 2025**.
 - *2024.12*: &nbsp;🏅 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide, [blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA))** by School of Computer Science, Peking University. 
@@ -70,7 +68,7 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 
 - **False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize**\\
 Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Muhao Chen\\
-**_Preprint_**\\
+**_Preprint_ (Spotlight at NeurIPS 2025 MechInterp Workshop)**\\
 [[pdf](https://arxiv.org/pdf/2509.03888)]
 
 
