@@ -28,11 +28,12 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a first-year Ph.D. student
 My research focuses on the trustworthiness of AI, specifically on mechanism interpretability, adversarial robustness, and generative model safety. If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
 ## 🔥 News
+- *2025.10*: &nbsp;🎖 I joined **Shanghai AI Lab** as a research intern at the Center for Safe & Trustworthy AI.
 - *2025.10*: &nbsp;🏅 I received the **Top Reviewer Award** of NeurIPS 2025.
 - *2025.06*: &nbsp;🎊 I got my Bachelor of Science degree from Peking University and will start my Ph.D. studies in September 2025. Thank you to all my advisors and collaborators!
 - *2025.06*: &nbsp;🏅 I received the **Outstanding Bachelor Dissertation Award** by Peking University (**Top 3%**, [pdf](https://openreview.net/pdf?id=p3ZN6CFx9l)).
 - *2025.05*: &nbsp;🎉 1 Paper (as first author) accepted by **ICML 2025**.
-- *2025.05*: &nbsp;🎖 I joined ByteDance as a research intern with **Somersault Cloud Talent Program** (**筋斗云人才计划**).
+- *2025.05*: &nbsp;🎖 I joined **ByteDance** as a research intern with **Somersault Cloud Talent Program** (**筋斗云人才计划**).
 - *2024.12*: &nbsp;🎉 2 Papers (as corresponding author; 1 as **Oral**) accepted by **ICASSP 2025**.
 - *2024.12*: &nbsp;🏅 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide, [blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA))** by School of Computer Science, Peking University. 
 - *2024.11*: &nbsp;🏅 I received the **May 4th Scholarship (<font color="#94070A">五四奖学金</font>, [blog](https://mp.weixin.qq.com/s/wmguSvRKHZkeFbszSwM1gw))**, which is **the highest honor scholarship** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
