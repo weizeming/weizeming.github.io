@@ -70,15 +70,13 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 
 - **False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize**\\
 Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Muhao Chen\\
-**_Preprint_ (Spotlight at NeurIPS 2025 MechInterp Workshop)**\\
+**_Preprint_ (NeurIPS 2025 MechInterp Workshop <font color="red">Spotlight</font>)**\\
 [[pdf](https://arxiv.org/pdf/2509.03888)]
 
-
-- **Mitigating Fine-tuning Risks in LLMs via Safety-Aware Probing Optimization**\\
-Chengcan Wu\*, Zhixin Zhang\*, **<u>Zeming Wei*</u>**, Yihao Zhang, Meng Sun\\
-**_Preprint_**\\
-[[pdf](https://arxiv.org/pdf/2505.16737)]
-
+- **Dynamic Orthogonal Continual Fine-tuning for Mitigating Catastrophic Forgettings**\\
+Zhixin Zhang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**, Meng Sun${}^{\dagger}$\\
+**_Preprint_ (AAAI 2025 DeployableAI Workshop <font color="red">Oral</font>)**\\
+[[pdf](https://arxiv.org/pdf/2509.23893)]
 
 
 ## 📝 Selected Publications
@@ -91,7 +89,7 @@ Chengcan Wu\*, Zhixin Zhang\*, **<u>Zeming Wei*</u>**, Yihao Zhang, Meng Sun\\
 
 - **Boosting Jailbreak Attack with Momentum**\\
 Yihao Zhang\*, **<u>Zeming Wei*${}^{\boldsymbol\dagger}$</u>**\\
-**_ICASSP_ 2025 (Oral)**\\
+**_ICASSP_ 2025 (<font color="red">Oral</font>)**\\
 [[pdf](https://ieeexplore.ieee.org/document/10888812)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
 
 - **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
@@ -122,6 +120,7 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 
 
 ## 🏅 Honors and Awards
+- **Best Paper Award**, ICFEM, *2025*
 - **Top Reviewer Award**, NeurIPS, *2025*
 - **Outstanding Bachelor Dissertation Award (Top 3%)**, Peking University, *2025*
 - **Excellent Graduate of Beijing Municipal (Top 5%)**, Beijing Municipal Education Commission, *2025*
@@ -129,7 +128,7 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 - **May 4th Scholarship** (<b><font color="#94070A">五四奖学金</font></b>, **Top 0.1%**) [[blog](https://mp.weixin.qq.com/s/wmguSvRKHZkeFbszSwM1gw)], **the highest honor scholarship** of Peking University, *2024*
 - **Academic Rising Star Award (Top 5 undergraduates university-wide)** [[blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA)], School of Computer Science, Peking University, *2024*
 - **Merit Student (Top 10%)**, Peking University, *2024*
-- **Spotlight Award (Best Paper)**, 1st ICML Workshop on In-Context Learning, *2024*
+- **Best Paper Award**, 1st ICML Workshop on In-Context Learning, *2024*
 - **ICML Travel Award**, *2024*
 - **Exceptional Award for Academic Innovation (Top 0.1%)**, Peking University, *2023*
 - **Merit Student (Top 10%)**, Peking University, *2023*
