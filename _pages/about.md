@@ -71,7 +71,7 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 - **False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize**\\
 Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Muhao Chen\\
 **_Preprint_ (NeurIPS 2025 MechInterp Workshop <font color="red">Spotlight</font>)**\\
-[[pdf](https://arxiv.org/pdf/2509.03888)]
+[[pdf](https://arxiv.org/pdf/2509.03888v1)]
 
 - **Dynamic Orthogonal Continual Fine-tuning for Mitigating Catastrophic Forgettings**\\
 Zhixin Zhang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**, Meng Sun${}^{\dagger}$\\
@@ -137,6 +137,7 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 - **Merit Student (Top 10%)**, Peking University, *2022*
 - **Award for Contribution in Student Organizations**, Peking University, *2021*
 
+
 ## 📖 Educations
 - *2025.09 - present*, Ph.D. Student, School of Mathematical Sciences, Peking University
 - *2023.08 - 2023.12*, Visiting Student, University of California Berkeley
@@ -149,8 +150,9 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 - **Reviewer (Workshop)**: XAIA (@NeurIPS 2023), ICL (@ICML 2024), IAI (@NeurIPS 2024)
 - **Fellow**, Berkeley AI Safety Initiative for Students (BASIS), UC Berkeley
 
+
 ## 🔗 Links
 (Alphabetical Order)
 - **Ph.D. Supervisor**: [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html)
-- **Advisors & Senior Co-authors**: [Stefanie Jegelka](https://people.csail.mit.edu/stefje/) (MIT), [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (NTU), [Jun Sun](https://sunjun.site/) (SMU), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Yisen Wang](https://yisenwang.github.io/)
+- **Advisors & Senior Co-authors**: [Yinpeng Dong](https://dongyp13.github.io/) (THU), [Stefanie Jegelka](https://people.csail.mit.edu/stefje/) (MIT), [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (NTU), [Jun Sun](https://sunjun.site/) (SMU), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Yisen Wang](https://yisenwang.github.io/)
 - **Co-authors**: [Huanran Chen](https://huanranchen.github.io) (THU), [Hangzhou He](https://riverback.github.io/), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/) (UCB), [Chawin Sitawarin](https://chawins.github.io/) (Google), [Cheng Wang](https://wangcheng0116.github.io/) (NUS), [Yifei Wang](https://yifeiwang77.com) (MIT), [Xiyue Zhang](https://zhang-xiyue.github.io/) (Oxford)
