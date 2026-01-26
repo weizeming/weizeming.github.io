@@ -28,6 +28,7 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a first-year Ph.D. student
 My research focuses on the trustworthiness of AI, specifically on mechanism interpretability, adversarial robustness, and generative model safety. If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
 ## 🔥 News
+- *2026.01*: &nbsp;🎉 1 Paper (as first author) accepted by **Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 - *2025.10*: &nbsp;🎖 I joined **Shanghai AI Lab** as a research intern at the Center for Safe & Trustworthy AI.
 - *2025.10*: &nbsp;🏅 I received the **Top Reviewer Award** of NeurIPS 2025.
 - *2025.06*: &nbsp;🎊 I got my Bachelor of Science degree from Peking University and will start my Ph.D. studies in September 2025. Thank you to all my advisors and collaborators!
@@ -44,7 +45,7 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 - *2023.12*: &nbsp;💯 I achieved a **full GPA (4.0/4.0)** during my study at UC Berkeley (with 1 **A** and 2 **A+** grades).
 - *2023.10*: &nbsp;🔗 I serve as a fellow of Berkeley AI Safety Initiative for Students (BASIS).
 - *2023.09*: &nbsp;🏅 I received the **Exceptional Award for Academic Innovation** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
-- *2023.08*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming**.
+- *2023.08*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming (JLAMP)**.
 - *2023.06*: &nbsp;🍁 I attended **CVPR 2023** at Vancouver and illustrated our poster.
 - *2023.05*: &nbsp;🥈 Won **Second prize** in Chinese Mathematics Competitions for Undergraduates **(National final, Top 0.2%)**.
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
@@ -52,11 +53,6 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 
 ## 📝 Selected Preprints
 ### (${}^{\boldsymbol\dagger}$: Corresponding Author; \*: Equal Contribution)
-
-- **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
-**<u>Zeming Wei</u>**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
-**_Preprint_ (Cited 300+ times)**\\
-[[pdf](https://arxiv.org/pdf/2310.06387)]
 
 - **Position: Agent-Specific Trustworthiness Risk as a Research Priority**\\
 **<u>Zeming Wei</u>**, Tianlin Li, Xiaojun Jia, Yang Liu, Meng Sun\\
@@ -81,6 +77,11 @@ Zhixin Zhang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**, Meng Sun${}^{\dagg
 
 ## 📝 Selected Publications
 ### (${}^{\boldsymbol\dagger}$: Corresponding Author; \*: Equal Contribution)
+
+- **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
+**<u>Zeming Wei</u>**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
+**_Transactions on Pattern Analysis and Machine Intelligence_ (<font color="red">Cited 400+ times</font>)**\\
+[[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)]
 
 - **Identifying and Understanding Cross-Class Features in Adversarial Training**\\
 **<u>Zeming Wei</u>**, Yiwen Guo, Yisen Wang\\
