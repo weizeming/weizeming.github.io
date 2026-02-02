@@ -29,6 +29,7 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 
 ## 🔥 News
 - *2026.01*: &nbsp;🎉 1 Paper (as first author) accepted by **Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
+- *2026.01*: &nbsp;🎉 2 Papers accepted by ICLR 2026.
 - *2025.10*: &nbsp;🎖 I joined **Shanghai AI Lab** as a research intern at the Center for Safe & Trustworthy AI.
 - *2025.10*: &nbsp;🏅 I received the **Top Reviewer Award** of NeurIPS 2025.
 - *2025.06*: &nbsp;🎊 I got my Bachelor of Science degree from Peking University and will start my Ph.D. studies in September 2025. Thank you to all my advisors and collaborators!
