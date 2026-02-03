@@ -55,6 +55,16 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 ## 📝 Selected Preprints
 ### (${}^{\boldsymbol\dagger}$: Corresponding Author; \*: Equal Contribution)
 
+- **RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning**\\
+**<u>Zeming Wei</u>**, Qiaosheng Zhang, Xia Hu, Xingcheng Xu\\
+**_Preprint_**\\
+[pdf]
+
+- **RACA: Representation-Aware Coverage Criteria for LLM Safety Testing**\\
+**<u>Zeming Wei</u>**, Zhixin Zhang, Chengcan Wu, Yihao Zhang, Xiaokun Luan, Meng Sun\\
+**_Preprint_**\\
+[[pdf](https://arxiv.org/pdf/2602.02280)]
+
 - **Position: Agent-Specific Trustworthiness Risk as a Research Priority**\\
 **<u>Zeming Wei</u>**, Tianlin Li, Xiaojun Jia, Yang Liu, Meng Sun\\
 **_Preprint_**\\
@@ -156,5 +166,5 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 ## 🔗 Links
 (Alphabetical Order)
 - **Ph.D. Supervisor**: [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html)
-- **Advisors & Senior Co-authors**: [Yinpeng Dong](https://dongyp13.github.io/) (THU), [Stefanie Jegelka](https://people.csail.mit.edu/stefje/) (MIT), [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (NTU), [Jun Sun](https://sunjun.site/) (SMU), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Yisen Wang](https://yisenwang.github.io/), [Xiyue Zhang](https://zhang-xiyue.github.io/) (Bristol)
-- **Co-authors**: [Huanran Chen](https://huanranchen.github.io) (THU), [Hangzhou He](https://riverback.github.io/), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/) (UCB), [Chawin Sitawarin](https://chawins.github.io/) (Google), [Cheng Wang](https://wangcheng0116.github.io/) (NUS), [Yifei Wang](https://yifeiwang77.com) (MIT), [Haodong Wen](https://hhhhhh-925.github.io/) (THU)
+- **Advisors & Senior Co-authors**: [Yinpeng Dong](https://dongyp13.github.io/) (THU), [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (NTU), [Jun Sun](https://sunjun.site/) (SMU), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Yisen Wang](https://yisenwang.github.io/), [Xiyue Zhang](https://zhang-xiyue.github.io/) (Bristol)
+- **Co-authors**: [Huanran Chen](https://huanranchen.github.io) (THU), [Hangzhou He](https://riverback.github.io/), [Xiaokun Luan](https://luan-xiaokun.github.io/), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/) (UCB), [Chawin Sitawarin](https://chawins.github.io/) (Google), [Cheng Wang](https://wangcheng0116.github.io/) (NUS), [Yifei Wang](https://yifeiwang77.com) (MIT), [Haodong Wen](https://hhhhhh-925.github.io/) (THU), [Jiaxuan Zou](https://jiaxuanzou0714.github.io/) (SJTU)
