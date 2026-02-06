@@ -62,7 +62,7 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 
 - **RACA: Representation-Aware Coverage Criteria for LLM Safety Testing**\\
 **<u>Zeming Wei</u>**, Zhixin Zhang, Chengcan Wu, Yihao Zhang, Xiaokun Luan, Meng Sun\\
-**_Preprint_**\\ 
+**_Preprint_** \\
 [[pdf](https://arxiv.org/pdf/2602.02280)]
 
 - **Position: Agent-Specific Trustworthiness Risk as a Research Priority**\\
@@ -72,7 +72,7 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 
 - **ReGA: Representation-Guided Abstraction for Model-based Safeguarding of LLMs**\\
 **<u>Zeming Wei</u>**, Chengcan Wu, Meng Sun\\
-**_Preprint_**\\
+**_Preprint_** \\
 [[pdf](https://arxiv.org/pdf/2506.01770)]
 
 - **False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize**\\
