@@ -23,7 +23,7 @@ ul {
 
 <span class='anchor' id='about-me'></span>
 
-I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a first-year Ph.D. student at School of Mathematical Sciences, proudly supervised by Professor [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html). I obtained my Bachelor degree from Peking University in 2025 and visited UC Berkeley in Fall 2023, where I was also fortunate to be advised by Prof. [Yisen Wang](https://yisenwang.github.io/), Prof. [Jun Sun](https://sunjun.site/), Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/), and  Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw/). I am/was a research intern at Shanghai AI Lab and ByteDance.
+I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a first-year Ph.D. student at School of Mathematical Sciences, proudly supervised by Professor [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html). I obtained my Bachelor degree from Peking University in 2025 and visited UC Berkeley in Fall 2023, where I was also fortunate to be advised by Prof. [Yisen Wang](https://yisenwang.github.io/), Prof. [Jun Sun](https://sunjun.site/), Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/), and  Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw/). I was a research intern at Shanghai AI Lab and ByteDance.
 
 My research focuses on the trustworthiness of AI, specifically on mechanism interpretability, adversarial robustness, and generative model safety. If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
@@ -159,7 +159,6 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 ## 💼 Academic Service
 - **Reviewer (Conference)**: NeurIPS, ICLR, ICML, AISTATS, ECCV, CVPR, AAAI
 - **Reviewer (Journal)**: TIFS, TMLR
-- **Reviewer (Workshop)**: XAIA (@NeurIPS 2023), ICL (@ICML 2024), IAI (@NeurIPS 2024)
 - **Fellow**, Berkeley AI Safety Initiative for Students (BASIS), UC Berkeley
 
 
@@ -167,4 +166,4 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 (Alphabetical Order)
 - **Ph.D. Supervisor**: [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html)
 - **Advisors & Senior Co-authors**: [Yinpeng Dong](https://dongyp13.github.io/) (THU), [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (NTU), [Jun Sun](https://sunjun.site/) (SMU), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Yisen Wang](https://yisenwang.github.io/), [Xiyue Zhang](https://zhang-xiyue.github.io/) (Bristol)
-- **Co-authors**: [Huanran Chen](https://huanranchen.github.io) (THU), [Hangzhou He](https://riverback.github.io/), [Xiaokun Luan](https://luan-xiaokun.github.io/), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/) (UCB), [Chawin Sitawarin](https://chawins.github.io/) (Google), [Cheng Wang](https://wangcheng0116.github.io/) (NUS), [Yifei Wang](https://yifeiwang77.com) (MIT), [Haodong Wen](https://hhhhhh-925.github.io/) (THU), [Jiaxuan Zou](https://jiaxuanzou0714.github.io/) (SJTU)
+- **Co-authors**: [Huanran Chen](https://huanranchen.github.io) (THU), [Hangzhou He](https://riverback.github.io/), [Xiaokun Luan](https://luan-xiaokun.github.io/), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/) (UCB), [Chawin Sitawarin](https://chawins.github.io/) (Google), [Cheng Wang](https://wangcheng0116.github.io/) (NUS), [Yifei Wang](https://yifeiwang77.com) (MIT), [Haodong Wen](https://hhhhhh-925.github.io/) (THU), [Jiaxuan Zou](https://jiaxuanzou0714.github.io/) (XJTU)
