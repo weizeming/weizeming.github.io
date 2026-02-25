@@ -23,19 +23,18 @@ ul {
 
 <span class='anchor' id='about-me'></span>
 
-I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a first-year Ph.D. student at School of Mathematical Sciences, proudly supervised by Professor [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html). I obtained my Bachelor degree from Peking University in 2025 and visited UC Berkeley in Fall 2023, where I was also fortunate to be advised by Prof. [Yisen Wang](https://yisenwang.github.io/), Prof. [Jun Sun](https://sunjun.site/), Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/), and  Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw/). I was a research intern at Shanghai AI Lab and ByteDance.
+I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a first-year Ph.D. student at School of Mathematical Sciences, proudly supervised by Professor [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html). I obtained my Bachelor degree from Peking University in 2025 and visited UC Berkeley in Fall 2023, where I was also fortunate to be advised by Prof. [Yisen Wang](https://yisenwang.github.io/), Prof. [Jun Sun](https://sunjun.site/), Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/), and  Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw/). I am/was a research intern at DAS Security, Shanghai AI Lab, and ByteDance.
 
 My research focuses on the trustworthiness of AI, specifically on mechanism interpretability, adversarial robustness, and generative model safety. If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
 ## 🔥 News
+- *2026.02*: &nbsp;🌟 Our [TrinityGuard](https://github.com/AI45Lab/TrinityGuard) -- a unified framework for safeguarding multi-agent systems is available online.
 - *2026.01*: &nbsp;🎉 1 Paper (as first author) accepted by **Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 - *2026.01*: &nbsp;🎉 2 Papers accepted by ICLR 2026.
-- *2025.10*: &nbsp;🎖 I joined **Shanghai AI Lab** as a research intern at the Center for Safe & Trustworthy AI.
 - *2025.10*: &nbsp;🏅 I received the **Top Reviewer Award** of NeurIPS 2025.
 - *2025.06*: &nbsp;🎊 I got my Bachelor of Science degree from Peking University and will start my Ph.D. studies in September 2025. Thank you to all my advisors and collaborators!
 - *2025.06*: &nbsp;🏅 I received the **Outstanding Bachelor Dissertation Award** by Peking University (**Top 3%**, [pdf](https://openreview.net/pdf?id=p3ZN6CFx9l)).
 - *2025.05*: &nbsp;🎉 1 Paper (as first author) accepted by **ICML 2025**.
-- *2025.05*: &nbsp;🎖 I joined **ByteDance** as a research intern with **Somersault Cloud Talent Program** (**筋斗云人才计划**).
 - *2024.12*: &nbsp;🎉 2 Papers (as corresponding author; 1 as **Oral**) accepted by **ICASSP 2025**.
 - *2024.12*: &nbsp;🏅 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide, [blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA))** by School of Computer Science, Peking University. 
 - *2024.11*: &nbsp;🏅 I received the **May 4th Scholarship (<font color="#94070A">五四奖学金</font>, [blog](https://mp.weixin.qq.com/s/wmguSvRKHZkeFbszSwM1gw))**, which is **the highest honor scholarship** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
@@ -166,4 +165,4 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 (Alphabetical Order)
 - **Ph.D. Supervisor**: [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html)
 - **Advisors & Senior Co-authors**: [Yinpeng Dong](https://dongyp13.github.io/) (THU), [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (NTU), [Jun Sun](https://sunjun.site/) (SMU), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Yisen Wang](https://yisenwang.github.io/), [Xiyue Zhang](https://zhang-xiyue.github.io/) (Bristol)
-- **Co-authors**: [Huanran Chen](https://huanranchen.github.io) (THU), [Hangzhou He](https://riverback.github.io/), [Xiaokun Luan](https://luan-xiaokun.github.io/), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/) (UCB), [Chawin Sitawarin](https://chawins.github.io/) (Google), [Cheng Wang](https://wangcheng0116.github.io/) (NUS), [Yifei Wang](https://yifeiwang77.com) (MIT), [Haodong Wen](https://hhhhhh-925.github.io/) (THU), [Jiaxuan Zou](https://jiaxuanzou0714.github.io/) (XJTU)
+- **Co-authors**: [Huanran Chen](https://huanranchen.github.io) (THU), [Sizhe Chen](https://sizhe-chen.github.io/) (UCB), [Hangzhou He](https://riverback.github.io/), [Xiaokun Luan](https://luan-xiaokun.github.io/), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/) (UCB), [Chawin Sitawarin](https://chawins.github.io/) (Google), [Cheng Wang](https://wangcheng0116.github.io/) (NUS), [Yifei Wang](https://yifeiwang77.com) (MIT), [Haodong Wen](https://hhhhhh-925.github.io/) (THU), [Jiaxuan Zou](https://jiaxuanzou0714.github.io/) (XJTU)
