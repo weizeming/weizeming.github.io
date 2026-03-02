@@ -56,7 +56,7 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 
 - **RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning**\\
 **<u>Zeming Wei</u>**, Qiaosheng Zhang, Xia Hu, Xingcheng Xu\\
-**_Preprint_**\\
+**_Preprint_** (ICLR 2026 Trustworthy AI Workshop)\\
 [[pdf](https://arxiv.org/pdf/2602.04224)]
 
 - **RACA: Representation-Aware Coverage Criteria for LLM Safety Testing**\\
