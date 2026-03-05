@@ -28,6 +28,7 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a first-year Ph.D. student
 My research focuses on the trustworthiness of AI, specifically on mechanism interpretability, adversarial robustness, and generative model safety. If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
 ## 🔥 News
+- *2026.03*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Systems Architecture (JSA)**.
 - *2026.02*: &nbsp;🌟 Our [TrinityGuard](https://github.com/AI45Lab/TrinityGuard) -- a unified framework for safeguarding multi-agent systems is available online.
 - *2026.01*: &nbsp;🎉 1 Paper (as first author) accepted by **Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 - *2026.01*: &nbsp;🎉 2 Papers accepted by ICLR 2026.
@@ -51,47 +52,23 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for Undergraduates (Beijing Division), and qualified for the finals.
 
-## 📝 Selected Preprints
-### (${}^{\boldsymbol\dagger}$: Corresponding Author; \*: Equal Contribution)
-
-- **RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning**\\
-**<u>Zeming Wei</u>**, Qiaosheng Zhang, Xia Hu, Xingcheng Xu\\
-**_Preprint_** (ICLR 2026 Trustworthy AI Workshop)\\
-[[pdf](https://arxiv.org/pdf/2602.04224)]
-
-- **RACA: Representation-Aware Coverage Criteria for LLM Safety Testing**\\
-**<u>Zeming Wei</u>**, Zhixin Zhang, Chengcan Wu, Yihao Zhang, Xiaokun Luan, Meng Sun\\
-**_Preprint_** \\
-[[pdf](https://arxiv.org/pdf/2602.02280)]
-
-- **Position: Agent-Specific Trustworthiness Risk as a Research Priority**\\
-**<u>Zeming Wei</u>**, Tianlin Li, Xiaojun Jia, Yang Liu, Meng Sun\\
-**_Preprint_** (ICML 2025 R2FM Workshop)\\
-[[pdf](https://openreview.net/pdf?id=xQI7dOlpmj)]
-
-- **ReGA: Representation-Guided Abstraction for Model-based Safeguarding of LLMs**\\
-**<u>Zeming Wei</u>**, Chengcan Wu, Meng Sun\\
-**_Preprint_** \\
-[[pdf](https://arxiv.org/pdf/2506.01770)]
-
-- **False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize**\\
-Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Muhao Chen\\
-**_Preprint_ (NeurIPS 2025 MechInterp Workshop <font color="red">Spotlight</font>)**\\
-[[pdf](https://arxiv.org/pdf/2509.03888v1)]
-
-- **Dynamic Orthogonal Continual Fine-tuning for Mitigating Catastrophic Forgettings**\\
-Zhixin Zhang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**, Meng Sun${}^{\dagger}$\\
-**_Preprint_ (AAAI 2025 DeployableAI Workshop <font color="red">Oral</font>)**\\
-[[pdf](https://arxiv.org/pdf/2509.23893)]
-
-
-## 📝 Selected Publications
+## 📝 Selected Papers
 ### (${}^{\boldsymbol\dagger}$: Corresponding Author; \*: Equal Contribution)
 
 - **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
 **<u>Zeming Wei</u>**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
 **_Transactions on Pattern Analysis and Machine Intelligence_ (<font color="red">Cited 400+ times</font>)**\\
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)]
+
+- **On Mutation Testing of In-context Learning Systems**\\
+**<u>Zeming Wei</u>**, Guanzhang Yue, Yihao Zhang, Meng Sun\\
+**_Journal of Systems Architecture_**\\
+[[pdf](https://doi.org/10.1016/j.sysarc.2026.103760)]
+
+- **RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning**\\
+**<u>Zeming Wei</u>**, Qiaosheng Zhang, Xia Hu, Xingcheng Xu\\
+**_Preprint_** (ICLR 2026 Trustworthy AI Workshop)\\
+[[pdf](https://arxiv.org/pdf/2602.04224)]
 
 - **Identifying and Understanding Cross-Class Features in Adversarial Training**\\
 **<u>Zeming Wei</u>**, Yiwen Guo, Yisen Wang\\
@@ -102,6 +79,16 @@ Zhixin Zhang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**, Meng Sun${}^{\dagg
 Yihao Zhang\*, **<u>Zeming Wei*${}^{\boldsymbol\dagger}$</u>**\\
 **_ICASSP_ 2025 (<font color="red">Oral</font>)**\\
 [[pdf](https://ieeexplore.ieee.org/document/10888812)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
+
+- **False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize**\\
+Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Muhao Chen\\
+**_Preprint_** (NeurIPS 2025 MechInterp Workshop **<font color="red">Spotlight</font>**)\\
+[[pdf](https://arxiv.org/pdf/2509.03888v1)]
+
+- **Position: Agent-Specific Trustworthiness Risk as a Research Priority**\\
+**<u>Zeming Wei</u>**, Tianlin Li, Xiaojun Jia, Yang Liu, Meng Sun\\
+**_Preprint_** (ICML 2025 R2FM Workshop)\\
+[[pdf](https://openreview.net/pdf?id=xQI7dOlpmj)]
 
 - **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
 Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**\\
