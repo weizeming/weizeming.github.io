@@ -31,7 +31,7 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 - *2026.03*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Systems Architecture (JSA)**.
 - *2026.02*: &nbsp;🌟 Our [TrinityGuard](https://github.com/AI45Lab/TrinityGuard) -- a unified framework for safeguarding multi-agent systems is available online.
 - *2026.01*: &nbsp;🎉 1 Paper (as first author) accepted by **Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
-- *2026.01*: &nbsp;🎉 2 Papers accepted by ICLR 2026.
+- *2026.01*: &nbsp;🎉 2 Papers accepted by **ICLR 2026**.
 - *2025.10*: &nbsp;🏅 I received the **Top Reviewer Award** of NeurIPS 2025.
 - *2025.06*: &nbsp;🎊 I got my Bachelor of Science degree from Peking University and will start my Ph.D. studies in September 2025. Thank you to all my advisors and collaborators!
 - *2025.06*: &nbsp;🏅 I received the **Outstanding Bachelor Dissertation Award** by Peking University (**Top 3%**, [pdf](https://openreview.net/pdf?id=p3ZN6CFx9l)).
@@ -67,7 +67,7 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 
 - **RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning**\\
 **<u>Zeming Wei</u>**, Qiaosheng Zhang, Xia Hu, Xingcheng Xu\\
-**_Preprint_** (ICLR 2026 Trustworthy AI Workshop)\\
+**_ICLR 2026 Trustworthy AI Workshop_**\\
 [[pdf](https://arxiv.org/pdf/2602.04224)]
 
 - **Identifying and Understanding Cross-Class Features in Adversarial Training**\\
@@ -77,33 +77,33 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 
 - **Boosting Jailbreak Attack with Momentum**\\
 Yihao Zhang\*, **<u>Zeming Wei*${}^{\boldsymbol\dagger}$</u>**\\
-**_ICASSP_ 2025 (<font color="red">Oral</font>)**\\
+**_ICASSP 2025_ (<font color="red">Oral</font>)**\\
 [[pdf](https://ieeexplore.ieee.org/document/10888812)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
 
 - **False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize**\\
 Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Muhao Chen\\
-**_Preprint_** (NeurIPS 2025 MechInterp Workshop **<font color="red">Spotlight</font>**)\\
+**_NeurIPS 2025 MechInterp Workshop_ (<font color="red">Spotlight</font>)**\\
 [[pdf](https://arxiv.org/pdf/2509.03888v1)]
 
 - **Position: Agent-Specific Trustworthiness Risk as a Research Priority**\\
 **<u>Zeming Wei</u>**, Tianlin Li, Xiaojun Jia, Yang Liu, Meng Sun\\
-**_Preprint_** (ICML 2025 R2FM Workshop)\\
+**_ICML 2025 R2FM Workshop_**\\
 [[pdf](https://openreview.net/pdf?id=xQI7dOlpmj)]
 
 - **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
 Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**\\
 **_ICML 2024_**\\
 [[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
+- **CFA: Class-wise Calibrated Fair Adversarial Training**\\
+**<u>Zeming Wei</u>**, Yifei Wang, Yiwen Guo, Yisen Wang\\
+**_CVPR 2023_**\\
+[[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
 
 - **Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks**\\
 **<u>Zeming Wei</u>**, Xiyue Zhang, Yihao Zhang, Meng Sun\\
 **_Journal of Logical and Algebraic Methods in Programming_**\\
 [[pdf](https://linkinghub.elsevier.com/retrieve/pii/S2352220823000615)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 
-- **CFA: Class-wise Calibrated Fair Adversarial Training**\\
-**<u>Zeming Wei</u>**, Yifei Wang, Yiwen Guo, Yisen Wang\\
-**_CVPR 2023_**\\
-[[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]  
 
 ## 💻 Grants
 - **Adversarial Safety Testing and Defense of AI Foundation Models**\\
