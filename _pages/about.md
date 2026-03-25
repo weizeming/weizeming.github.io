@@ -28,6 +28,7 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a first-year Ph.D. student
 My research focuses on the trustworthiness of AI, specifically on mechanism interpretability, adversarial robustness, and generative model safety. If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
 ## 🔥 News
+- *2026.03*: &nbsp;🎉 1 Paper (as first author) accepted by **FSE 2026**.
 - *2026.03*: &nbsp;✨ I am invited to serve as an **Area Chair** for **NeurIPS 2026**.
 - *2026.03*: &nbsp;🌟 Our [ClawWorm](https://clawworm.github.io/) -- a fully autonomous, self-replicating attack targeting OpenClaw's LLM agent ecosystem is available online.
 - *2026.03*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Systems Architecture (JSA)**.
@@ -62,6 +63,11 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 **_Transactions on Pattern Analysis and Machine Intelligence_ (<font color="red">Cited 400+ times</font>)**\\
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)]
 
+- **Rega: Representation-Guided Abstraction for Model-based Safeguarding of LLMs**\\
+**<u>Zeming Wei</u>**, Chengcan Wu, Meng Sun\\
+**_FSE 2026_**\\
+[[pdf](https://arxiv.org/pdf/2506.01770)]
+
 - **On Mutation Testing of In-context Learning Systems**\\
 **<u>Zeming Wei</u>**, Guanzhang Yue, Yihao Zhang, Meng Sun\\
 **_Journal of Systems Architecture_**\\
@@ -87,15 +93,11 @@ Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Muhao Chen\\
 **_NeurIPS 2025 MechInterp Workshop_ (<font color="red">Spotlight</font>)**\\
 [[pdf](https://arxiv.org/pdf/2509.03888v1)]
 
-- **Position: Agent-Specific Trustworthiness Risk as a Research Priority**\\
-**<u>Zeming Wei</u>**, Tianlin Li, Xiaojun Jia, Yang Liu, Meng Sun\\
-**_ICML 2025 R2FM Workshop_**\\
-[[pdf](https://openreview.net/pdf?id=xQI7dOlpmj)]
-
 - **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
 Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**\\
 **_ICML 2024_**\\
-[[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]  
+[[pdf](https://arxiv.org/pdf/2402.15152.pdf)] [[arxiv](https://arxiv.org/abs/2402.15152)] [[code](https://github.com/weizeming/SAM_AT)]
+
 - **CFA: Class-wise Calibrated Fair Adversarial Training**\\
 **<u>Zeming Wei</u>**, Yifei Wang, Yiwen Guo, Yisen Wang\\
 **_CVPR 2023_**\\
