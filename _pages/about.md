@@ -28,6 +28,8 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a first-year Ph.D. student
 My research focuses on the trustworthiness of AI, specifically on mechanism interpretability, adversarial robustness, and generative model safety. If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
 ## 🔥 News
+- *2026.03*: &nbsp;✨ I am invited to serve as an **Area Chair** for **NeurIPS 2026**.
+- *2026.03*: &nbsp;🌟 Our [ClawWorm](https://clawworm.github.io/) -- a fully autonomous, self-replicating attack targeting OpenClaw's LLM agent ecosystem is available online.
 - *2026.03*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Systems Architecture (JSA)**.
 - *2026.02*: &nbsp;🌟 Our [TrinityGuard](https://github.com/AI45Lab/TrinityGuard) -- a unified framework for safeguarding multi-agent systems is available online.
 - *2026.01*: &nbsp;🎉 1 Paper (as first author) accepted by **Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
@@ -143,6 +145,7 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 
 
 ## 💼 Academic Service
+- **Area Chair**: NeurIPS
 - **Reviewer (Conference)**: NeurIPS, ICLR, ICML, AISTATS, ECCV, CVPR, AAAI
 - **Reviewer (Journal)**: TIFS, TMLR
 - **Fellow**, Berkeley AI Safety Initiative for Students (BASIS), UC Berkeley
