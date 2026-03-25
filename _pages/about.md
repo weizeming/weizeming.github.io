@@ -63,7 +63,7 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 **_Transactions on Pattern Analysis and Machine Intelligence_ (<font color="red">Cited 400+ times</font>)**\\
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)]
 
-- **Rega: Representation-Guided Abstraction for Model-based Safeguarding of LLMs**\\
+- **ReGA: Representation-Guided Abstraction for Model-based Safeguarding of LLMs**\\
 **<u>Zeming Wei</u>**, Chengcan Wu, Meng Sun\\
 **_FSE 2026_**\\
 [[pdf](https://arxiv.org/pdf/2506.01770)]
