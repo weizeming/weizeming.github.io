@@ -72,6 +72,11 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 **_Journal of Systems Architecture_**\\
 [[pdf](https://doi.org/10.1016/j.sysarc.2026.103760)]
 
+- **False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize**\\
+Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Wenxuan Zhou, Muhao Chen\\
+**_ACL 2026 Findings_ (<font color="red">Oral</font>)**\\
+[[pdf](https://arxiv.org/pdf/2509.03888)]
+
 - **RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning**\\
 **<u>Zeming Wei</u>**, Qiaosheng Zhang, Xia Hu, Xingcheng Xu\\
 **_ICLR 2026 Trustworthy AI Workshop_**\\
@@ -86,11 +91,6 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 Yihao Zhang\*, **<u>Zeming Wei*${}^{\boldsymbol\dagger}$</u>**\\
 **_ICASSP 2025_ (<font color="red">Oral</font>)**\\
 [[pdf](https://ieeexplore.ieee.org/document/10888812)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
-
-- **False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize**\\
-Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Muhao Chen\\
-**_NeurIPS 2025 MechInterp Workshop_ (<font color="red">Spotlight</font>)**\\
-[[pdf](https://arxiv.org/pdf/2509.03888v1)]
 
 - **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
 Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**\\
@@ -146,7 +146,8 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 
 
 ## 💼 Academic Service
-- **Reviewer (Conference)**: NeurIPS, ICLR, ICML, AISTATS, ECCV, CVPR, AAAI
+- **Area Chair**: NeurIPS
+- **Reviewer (Conference)**: ICLR, ICML, AISTATS, ECCV, CVPR, AAAI
 - **Reviewer (Journal)**: TIFS, TMLR
 - **Fellow**, Berkeley AI Safety Initiative for Students (BASIS), UC Berkeley
 
