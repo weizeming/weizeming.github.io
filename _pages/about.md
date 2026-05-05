@@ -147,7 +147,8 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 
 
 ## 💼 Academic Service
-- **Area Chair**: NeurIPS
+- **Area Chair (Conference)**: NeurIPS
+- **Area Chair (Workshop)**: SeT-LLM@ICLR 2024
 - **Reviewer (Conference)**: ICLR, ICML, AISTATS, ECCV, CVPR, AAAI
 - **Reviewer (Journal)**: TIFS, TMLR
 - **Fellow**, Berkeley AI Safety Initiative for Students (BASIS), UC Berkeley
