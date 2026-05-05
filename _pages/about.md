@@ -28,6 +28,7 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a first-year Ph.D. student
 My research focuses on the trustworthiness of AI, specifically on mechanism interpretability, adversarial robustness, and generative model safety. If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
 ## 🔥 News
+- *2026.04*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2026**.
 - *2026.03*: &nbsp;🎉 1 Paper (as first author) accepted by **FSE 2026**.
 - *2026.03*: &nbsp;🌟 Our [ClawWorm](https://clawworm.github.io/) -- a fully autonomous, self-replicating attack targeting OpenClaw's LLM agent ecosystem is available online.
 - *2026.03*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Systems Architecture (JSA)**.
@@ -59,13 +60,18 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 
 - **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
 **<u>Zeming Wei</u>**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
-**_Transactions on Pattern Analysis and Machine Intelligence_ (<font color="red">Cited 400+ times</font>)**\\
+**_Transactions on Pattern Analysis and Machine Intelligence_ (<font color="red">Cited 500+ times</font>)**\\
 [[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)]
 
 - **ReGA: Representation-Guided Abstraction for Model-based Safeguarding of LLMs**\\
 **<u>Zeming Wei</u>**, Chengcan Wu, Meng Sun\\
 **_FSE 2026_**\\
 [[pdf](https://arxiv.org/pdf/2506.01770)]
+
+- **Monitoring LLM-based Multi-Agent Systems Against Corruptions via Node Evaluation**\\
+Chengcan Wu\*, Zhixin Zhang\*, Mingqian Xu, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**, Meng Sun${}^{\dagger}$\\
+**_ICML 2026_**\\
+[[pdf](https://arxiv.org/pdf/2510.19420)]
 
 - **On Mutation Testing of In-context Learning Systems**\\
 **<u>Zeming Wei</u>**, Guanzhang Yue, Yihao Zhang, Meng Sun\\
@@ -76,11 +82,6 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Wenxuan Zhou, Muhao Chen\\
 **_ACL 2026 Findings_ (<font color="red">Oral</font>)**\\
 [[pdf](https://arxiv.org/pdf/2509.03888)]
-
-- **RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning**\\
-**<u>Zeming Wei</u>**, Qiaosheng Zhang, Xia Hu, Xingcheng Xu\\
-**_ICLR 2026 Trustworthy AI Workshop_**\\
-[[pdf](https://arxiv.org/pdf/2602.04224)]
 
 - **Identifying and Understanding Cross-Class Features in Adversarial Training**\\
 **<u>Zeming Wei</u>**, Yiwen Guo, Yisen Wang\\
@@ -99,7 +100,7 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 
 - **CFA: Class-wise Calibrated Fair Adversarial Training**\\
 **<u>Zeming Wei</u>**, Yifei Wang, Yiwen Guo, Yisen Wang\\
-**_CVPR 2023_**\\
+**_CVPR 2023_ (<font color="red">Cited 100+ times</font>)**\\
 [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf)] [[arxiv](https://arxiv.org/abs/2303.14460)] [[code](https://github.com/PKU-ML/CFA)]
 
 - **Weighted Automata Extraction and Explanation of Recurrent Neural Networks for Natural Language Tasks**\\
