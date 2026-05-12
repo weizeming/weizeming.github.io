@@ -32,7 +32,6 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 - *2026.03*: &nbsp;🎉 1 Paper (as first author) accepted by **FSE 2026**.
 - *2026.03*: &nbsp;🌟 Our [ClawWorm](https://clawworm.github.io/) -- a fully autonomous, self-replicating attack targeting OpenClaw's LLM agent ecosystem is available online.
 - *2026.03*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Systems Architecture (JSA)**.
-- *2026.02*: &nbsp;🌟 Our [TrinityGuard](https://github.com/AI45Lab/TrinityGuard) -- a unified framework for safeguarding multi-agent systems is available online.
 - *2026.01*: &nbsp;🎉 1 Paper (as first author) accepted by **Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 - *2026.01*: &nbsp;🎉 2 Papers accepted by **ICLR 2026**.
 - *2025.10*: &nbsp;🏅 I received the **Top Reviewer Award** of NeurIPS 2025.
@@ -109,7 +108,7 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 [[pdf](https://linkinghub.elsevier.com/retrieve/pii/S2352220823000615)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
 
 
-## 💻 Grants
+## 💎 Grants
 - **Adversarial Safety Testing and Defense of AI Foundation Models**\\
 **Principal Investigator**, Beijing Natural Science Foundation (Grant No. QY24035)\\
 *2024.10 - 2026.09*
@@ -146,16 +145,8 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 - *2021.06 - 2025.06*, Undergraduate Student, School of Mathematical Sciences, Peking University
 
 
-## 💼 Academic Service
-- **Area Chair (Conference)**: NeurIPS
-- **Area Chair (Workshop)**: SeT-LLM@ICLR 2024
-- **Reviewer (Conference)**: ICLR, ICML, AISTATS, ECCV, CVPR, AAAI
-- **Reviewer (Journal)**: TIFS, TMLR
-- **Fellow**, Berkeley AI Safety Initiative for Students (BASIS), UC Berkeley
-
-
 ## 🔗 Links
 (Alphabetical Order)
 - **Ph.D. Supervisor**: [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html)
-- **Advisors & Senior Co-authors**: [Yinpeng Dong](https://dongyp13.github.io/) (THU), [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (NTU), [Jun Sun](https://sunjun.site/) (SMU), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Yisen Wang](https://yisenwang.github.io/), [Xiyue Zhang](https://zhang-xiyue.github.io/) (Bristol)
-- **Co-authors**: [Huanran Chen](https://huanranchen.github.io) (THU), [Sizhe Chen](https://sizhe-chen.github.io/) (UCB), [Hangzhou He](https://riverback.github.io/), [Xiaokun Luan](https://luan-xiaokun.github.io/), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/) (UCB), [Chawin Sitawarin](https://chawins.github.io/) (Google), [Cheng Wang](https://wangcheng0116.github.io/) (NUS), [Yifei Wang](https://yifeiwang77.com) (MIT), [Haodong Wen](https://hhhhhh-925.github.io/) (THU), [Jiaxuan Zou](https://jiaxuanzou0714.github.io/) (XJTU)
+- **Advisors & Senior Co-authors**: [Yinpeng Dong](https://dongyp13.github.io/) (THU), [Yang Liu](https://personal.ntu.edu.sg/yangliu/) (NTU), [Jialong Sun](https://chenxing-xuan.github.io/) (SUAT), [Jun Sun](https://sunjun.site/) (SMU), [David Wagner](https://people.eecs.berkeley.edu/~daw/) (UCB), [Yisen Wang](https://yisenwang.github.io/), [Xiyue Zhang](https://zhang-xiyue.github.io/) (Oxford)
+- **Co-authors**: [Huanran Chen](https://huanranchen.github.io) (THU), [Sizhe Chen](https://sizhe-chen.github.io/) (UCB), [Hangzhou He](https://riverback.github.io/), [Xiaokun Luan](https://luan-xiaokun.github.io/), [Julien Piet](https://people.eecs.berkeley.edu/~julien.piet/) (UCB), [Chawin Sitawarin](https://chawins.github.io/) (Google), [Cheng Wang](https://wangcheng0116.github.io/) (NUS), [Yifei Wang](https://yifeiwang77.com) (MIT), [Haodong Wen](https://hhhhhh-925.github.io/) (THU), [Yihao Zhang](http://zhangyihao.site/), [Jiaxuan Zou](https://jiaxuanzou0714.github.io/) (XJTU)
