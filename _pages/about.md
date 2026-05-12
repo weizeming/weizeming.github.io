@@ -41,7 +41,7 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 - *2024.12*: &nbsp;🎉 2 Papers (as corresponding author; 1 as **Oral**) accepted by **ICASSP 2025**.
 - *2024.12*: &nbsp;🏅 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide, [blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA))** by School of Computer Science, Peking University. 
 - *2024.11*: &nbsp;🏅 I received the **May 4th Scholarship (<font color="#94070A">五四奖学金</font>, [blog](https://mp.weixin.qq.com/s/wmguSvRKHZkeFbszSwM1gw))**, which is **the highest honor scholarship** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
-- *2024.10*: &nbsp;✨ My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**.
+- *2024.10*: &nbsp;💎 My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**.
 - *2024.09*: &nbsp;🎉 3 Papers accepted by **NeurIPS 2024**.
 - *2024.07*: &nbsp;🎡 I attended **ICML 2024** at Vienna and illustrated our poster.
 - *2024.05*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2024**.
@@ -54,7 +54,13 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for Undergraduates (Beijing Division), and qualified for the finals.
 
-## 📝 Selected Papers
+## 📖 Educations
+- *2025.09 - present*, Ph.D. Candidate, School of Mathematical Sciences, Peking University
+- *2023.08 - 2023.12*, Visiting Student, University of California Berkeley
+- *2021.06 - 2025.06*, Undergraduate Student, School of Mathematical Sciences, Peking University
+
+
+## ✨ Selected Publications
 ### (${}^{\boldsymbol\dagger}$: Corresponding Author; \*: Equal Contribution)
 
 - **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
@@ -138,11 +144,6 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 - **Merit Student (Top 10%)**, Peking University, *2022*
 - **Award for Contribution in Student Organizations**, Peking University, *2021*
 
-
-## 📖 Educations
-- *2025.09 - present*, Ph.D. Student, School of Mathematical Sciences, Peking University
-- *2023.08 - 2023.12*, Visiting Student, University of California Berkeley
-- *2021.06 - 2025.06*, Undergraduate Student, School of Mathematical Sciences, Peking University
 
 
 ## 🔗 Links
