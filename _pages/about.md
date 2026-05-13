@@ -122,8 +122,8 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 
 ## 🎖️ Talent Programs
 - **Somersault Cloud Talent Program** (**筋斗云人才计划**), internship track, ByteDance
-- **Elite Ph.D. Program in Mathematics**, Peking University
-- **Elite Ph.D. Program in Applied Mathematics**, Center for Machine Learning Research, Peking University
+- **Talent Program in Mathematics**, National Center for High-level Talent Development, Ministry of Education
+- **Talent Program in Applied Mathematics**, Center for Machine Learning Research, Peking University
 
 
 ## 🏅 Honors and Awards
