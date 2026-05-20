@@ -66,9 +66,9 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 - **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
 **<u>Zeming Wei</u>**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
 **_Transactions on Pattern Analysis and Machine Intelligence_ (<font color="red">Cited 500+ times</font>)**\\
-[[pdf](https://arxiv.org/pdf/2310.06387)] [[arxiv](https://arxiv.org/abs/2310.06387)]
+[[pdf](https://ieeexplore.ieee.org/document/11370531/)] [[arxiv](https://arxiv.org/abs/2310.06387)]
 
-- **ReGA: Representation-Guided Abstraction for Model-based Safeguarding of LLMs**\\
+- **ReGA: Model-Based Safeguard for LLMs via Representation-Guided Abstraction**\\
 **<u>Zeming Wei</u>**, Chengcan Wu, Meng Sun\\
 **_FSE 2026_**\\
 [[pdf](https://arxiv.org/pdf/2506.01770)]
@@ -85,7 +85,7 @@ Chengcan Wu\*, Zhixin Zhang\*, Mingqian Xu, **<u>Zeming Wei${}^{\boldsymbol\dagg
 
 - **False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize**\\
 Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Wenxuan Zhou, Muhao Chen\\
-**_ACL 2026 Findings_ (<font color="red">Oral</font>)**\\
+**_ACL 2026 Findings_**\\
 [[pdf](https://arxiv.org/pdf/2509.03888)]
 
 - **Identifying and Understanding Cross-Class Features in Adversarial Training**\\
