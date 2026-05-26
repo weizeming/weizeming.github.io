@@ -23,7 +23,7 @@ ul {
 
 <span class='anchor' id='about-me'></span>
 
-I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a first-year Ph.D. student at School of Mathematical Sciences, proudly supervised by Professor [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html). I obtained my Bachelor degree from Peking University in 2025 and visited UC Berkeley in Fall 2023, where I was also fortunate to be advised by Prof. [Yisen Wang](https://yisenwang.github.io/), Prof. [Jun Sun](https://sunjun.site/), Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/), and  Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw/). I am/was a research intern at DAS Security, Shanghai AI Lab, and ByteDance.
+I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a first-year Ph.D. student at School of Mathematical Sciences, proudly supervised by Professor [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html). I obtained my Bachelor degree from Peking University in 2025 and visited UC Berkeley in Fall 2023, where I was also fortunate to be advised by Prof. [Yisen Wang](https://yisenwang.github.io/), Prof. [Jun Sun](https://sunjun.site/), Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/), and  Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw/). I was a research intern at DAS Security, Shanghai AI Lab, and ByteDance Flow.
 
 My research focuses on the trustworthiness of AI, specifically on mechanism interpretability, adversarial robustness, and generative model safety. If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
@@ -73,7 +73,7 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 **_FSE 2026_**\\
 [[pdf](https://arxiv.org/pdf/2506.01770)]
 
-- **Monitoring LLM-based Multi-Agent Systems Against Corruptions via Node Evaluation**\\
+- **Securing Multi-Agent Systems Against Corruptions via Node Contribution Backpropagation**\\
 Chengcan Wu\*, Zhixin Zhang\*, Mingqian Xu, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**, Meng Sun${}^{\dagger}$\\
 **_ICML 2026_**\\
 [[pdf](https://arxiv.org/pdf/2510.19420)]
