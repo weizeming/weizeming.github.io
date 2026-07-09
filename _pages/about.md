@@ -65,7 +65,7 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 
 - **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations**\\
 **<u>Zeming Wei</u>**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
-<font color="blue">[CCF-A]</font>**_Transactions on Pattern Analysis and Machine Intelligence_ (<font color="red">Cited 500+ times</font>)**\\
+<font color="blue">[CCF-A]</font> **_Transactions on Pattern Analysis and Machine Intelligence_ (<font color="red">Cited 500+ times</font>)**\\
 [[pdf](https://ieeexplore.ieee.org/document/11370531/)] [[arxiv](https://arxiv.org/abs/2310.06387)]
 
 - **ReGA: Model-Based Safeguard for LLMs via Representation-Guided Abstraction**\\
