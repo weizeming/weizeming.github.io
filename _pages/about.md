@@ -78,6 +78,11 @@ Chengcan Wu\*, Zhixin Zhang\*, Mingqian Xu, **<u>Zeming Wei${}^{\boldsymbol\dagg
 **_ICML 2026_**\\
 [[pdf](https://arxiv.org/pdf/2510.19420)]
 
+- **Calibrated Adversarial Sampling: Stabilizing Multi-Attack Adversarial Training via Bandit Optimization**\\
+Rui Wang\*, **<u>Zeming Wei*</u>**, Xiyue Zhang, Meng Sun\\
+**_ACM MM 2026_**\\
+[[pdf](https://arxiv.org/pdf/2511.12265)]
+
 - **On Mutation Testing of In-context Learning Systems**\\
 **<u>Zeming Wei</u>**, Guanzhang Yue, Yihao Zhang, Meng Sun\\
 **_Journal of Systems Architecture_**\\
