@@ -28,12 +28,13 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a first-year Ph.D. student
 My research focuses on the trustworthiness of AI, specifically on mechanism interpretability, adversarial robustness, and generative model safety. If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
 ## 🔥 News
+- *2026.07*: &nbsp;🎉 1 Paper (as co-first author) accepted by **ACM MM 2026**.
+- *2026.06*: &nbsp;👨‍💻 I joined **ByteDance Seed** as a research intern.
 - *2026.04*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2026**.
+- *2026.04*: &nbsp;🎉 1 Paper (as co-first author) accepted by **ACL 2026 (Findings)**.
 - *2026.03*: &nbsp;🎉 1 Paper (as first author) accepted by **FSE 2026**.
-- *2026.03*: &nbsp;🌟 Our [ClawWorm](https://clawworm.github.io/) -- a fully autonomous, self-replicating attack targeting OpenClaw's LLM agent ecosystem is available online.
 - *2026.03*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Systems Architecture (JSA)**.
 - *2026.01*: &nbsp;🎉 1 Paper (as first author) accepted by **Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
-- *2026.01*: &nbsp;🎉 2 Papers accepted by **ICLR 2026**.
 - *2025.10*: &nbsp;🏅 I received the **Top Reviewer Award** of NeurIPS 2025.
 - *2025.06*: &nbsp;🎊 I got my Bachelor of Science degree from Peking University and will start my Ph.D. studies in September 2025. Thank you to all my advisors and collaborators!
 - *2025.06*: &nbsp;🏅 I received the **Outstanding Bachelor Dissertation Award** by Peking University (**Top 3%**, [pdf](https://openreview.net/pdf?id=p3ZN6CFx9l)).
@@ -42,12 +43,10 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 - *2024.12*: &nbsp;🏅 I received the **Academic Rising Star Award (Top 5 undergraduates university-wide, [blog](https://mp.weixin.qq.com/s/NBrVYpFV5EyVCd0BaGRMyA))** by School of Computer Science, Peking University. 
 - *2024.11*: &nbsp;🏅 I received the **May 4th Scholarship (<font color="#94070A">五四奖学金</font>, [blog](https://mp.weixin.qq.com/s/wmguSvRKHZkeFbszSwM1gw))**, which is **the highest honor scholarship** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
 - *2024.10*: &nbsp;💎 My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**.
-- *2024.09*: &nbsp;🎉 3 Papers accepted by **NeurIPS 2024**.
 - *2024.07*: &nbsp;🎡 I attended **ICML 2024** at Vienna and illustrated our poster.
 - *2024.05*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2024**.
 - *2023.12*: &nbsp;💯 I achieved a **full GPA (4.0/4.0)** during my study at UC Berkeley (with 1 **A** and 2 **A+** grades).
 - *2023.10*: &nbsp;🔗 I serve as a fellow of Berkeley AI Safety Initiative for Students (BASIS).
-- *2023.09*: &nbsp;🏅 I received the **Exceptional Award for Academic Innovation** of Peking University (only 1 undergraduate awardee in School of Mathematical Sciences, **Top 0.1%**).
 - *2023.08*: &nbsp;🎉 1 Paper (as first author) accepted by **Journal of Logical and Algebraic Methods in Programming (JLAMP)**.
 - *2023.06*: &nbsp;🍁 I attended **CVPR 2023** at Vancouver and illustrated our poster.
 - *2023.05*: &nbsp;🥈 Won **Second prize** in Chinese Mathematics Competitions for Undergraduates **(National final, Top 0.2%)**.
