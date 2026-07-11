@@ -25,7 +25,7 @@ ul {
 
 I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a first-year Ph.D. student at School of Mathematical Sciences, proudly supervised by Professor [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html). I obtained my Bachelor degree from Peking University in 2025 and visited UC Berkeley in Fall 2023, where I was also fortunate to be advised by Prof. [Yisen Wang](https://yisenwang.github.io/), Prof. [Jun Sun](https://sunjun.site/), Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/), and  Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw/). I am/was a research intern at ByteDance Seed, DAS Security, Shanghai AI Lab, and ByteDance Flow.
 
-My research focuses on the trustworthiness of AI, specifically on mechanism interpretability, adversarial robustness, and generative model safety. If you are interested in collaborating (or just chatting) with me, feel free to email me.
+My research focuses on the trustworthiness of AI, specifically on mechanism interpretability, safety alignment, and robust generalization. If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
 ## 🔥 News
 - *2026.07*: &nbsp;🎉 1 Paper (as co-first author) accepted by **ACM MM 2026**.
@@ -91,6 +91,11 @@ Rui Wang\*, **<u>Zeming Wei*</u>**, Xiyue Zhang, Meng Sun\\
 Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Wenxuan Zhou, Muhao Chen\\
 **_ACL 2026 Findings_**\\
 [[pdf](https://arxiv.org/pdf/2509.03888)]
+
+- **RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning**\\
+**<u>Zeming Wei</u>**, Qiaosheng Zhang, Xia Hu, Xingcheng Xu\\
+**_ICLR 2026 Trustworthy AI Workshop_**\\
+[[pdf](https://arxiv.org/pdf/2602.04224)]
 
 - **Identifying and Understanding Cross-Class Features in Adversarial Training**\\
 **<u>Zeming Wei</u>**, Yiwen Guo, Yisen Wang\\
