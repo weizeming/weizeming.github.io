@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zeming Wei (魏泽明)"
-description              : "Ph.D. student in School of Mathematical Sciences, Peking University"
+description              : "Trustworthy AI"
 repository               : "weizeming/weizeming.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zeming Wei"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Peking University"
+  bio              : "Peking University\\ByteDance Seed"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
