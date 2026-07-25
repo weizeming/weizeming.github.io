@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zeming Wei"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Peking University\\ByteDance Seed"
+  bio              : "Peking University <br> ByteDance Seed"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
