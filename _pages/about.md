@@ -77,7 +77,7 @@ Chengcan Wu\*, Zhixin Zhang\*, Mingqian Xu, **<u>Zeming Wei${}^{\boldsymbol\dagg
 **_ICML 2026_**\\
 [[pdf](https://arxiv.org/pdf/2510.19420)]
 
-- **Calibrated Adversarial Sampling: Stabilizing Multi-Attack Adversarial Training via Bandit Optimization**\\
+- **Stabilizing Multi-Attack Adversarial Training via Bandit Optimization**\\
 Rui Wang\*, **<u>Zeming Wei*</u>**, Xiyue Zhang, Meng Sun\\
 **_ACM MM 2026_**\\
 [[pdf](https://arxiv.org/pdf/2511.12265)]
@@ -91,11 +91,6 @@ Rui Wang\*, **<u>Zeming Wei*</u>**, Xiyue Zhang, Meng Sun\\
 Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Wenxuan Zhou, Muhao Chen\\
 **_ACL 2026 Findings_**\\
 [[pdf](https://arxiv.org/pdf/2509.03888)]
-
-- **RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning**\\
-**<u>Zeming Wei</u>**, Qiaosheng Zhang, Xia Hu, Xingcheng Xu\\
-**_ICLR 2026 Trustworthy AI Workshop_**\\
-[[pdf](https://arxiv.org/pdf/2602.04224)]
 
 - **Identifying and Understanding Cross-Class Features in Adversarial Training**\\
 **<u>Zeming Wei</u>**, Yiwen Guo, Yisen Wang\\
@@ -121,6 +116,28 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 **<u>Zeming Wei</u>**, Xiyue Zhang, Yihao Zhang, Meng Sun\\
 **_Journal of Logical and Algebraic Methods in Programming_**\\
 [[pdf](https://linkinghub.elsevier.com/retrieve/pii/S2352220823000615)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
+
+## ✨ Selected Preprints
+### (${}^{\boldsymbol\dagger}$: Corresponding Author; \*: Equal Contribution)
+- **RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning**\\
+**<u>Zeming Wei</u>**, Qiaosheng Zhang, Xia Hu, Xingcheng Xu\\
+**_ICLR 2026 Trustworthy AI Workshop_**\\
+[[pdf](https://arxiv.org/pdf/2602.04224)]
+
+- **RACC: Representation-Aware Coverage Criteria for LLM Safety Testing**\\
+**<u>Zeming Wei</u>**, Zhixin Zhang, Chengcan Wu, Yihao Zhang, Xiaokun Luan, Meng Sun\\
+**_Preprint_**\\
+[[pdf](https://arxiv.org/pdf/2602.02280)]
+
+- **AgentWorm: Self-Propagating Attacks Across LLM Agent Ecosystems**\\
+Yihao Zhang\*, **<u>Zeming Wei*</u>**, Xiaokun Luan, Chengcan Wu, Zhixin Zhang, Jiangrong Wu, Haolin Wu, Huanran Chen, Jun Sun, Meng Sun\\
+**_Preprint_**\\
+[[pdf](https://arxiv.org/pdf/2603.15727)]
+
+- **SMI: Statistical Membership Inference for Reliable Unlearned Model Auditing**\\
+Jialong Sun\*, **<u>Zeming Wei*</u>**, Jiaxuan Zou\*, Jiacheng Gong, Chengyang Dong, Jie Fu, Heng Xu, Jialong Li, Bo Liu\\
+**_Preprint_**\\
+[[pdf](https://arxiv.org/pdf/2602.01150)]
 
 
 ## 💎 Grants
