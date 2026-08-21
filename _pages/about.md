@@ -114,7 +114,7 @@ Yihao Zhang\*, **<u>Zeming Wei*${}^{\boldsymbol\dagger}$</u>**\\
 [[pdf](https://ieeexplore.ieee.org/document/10888812)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
 
 - **Exploring the Robustness of In-Context Learning with Noisy Labels**\\
-Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jinsong Sun, Guanzhang Yue, Yihao Zhang,, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**\\
+Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jinsong Sun, Guanzhang Yue, Yihao Zhang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**\\
 **_ICASSP 2025_**\\
 [pdf]
 
