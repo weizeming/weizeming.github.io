@@ -28,6 +28,7 @@ I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a Ph.D. candidate at Schoo
 My research focuses on the trustworthiness of AI, specifically on mechanism interpretability, safety alignment, and robust generalization. If you are interested in collaborating (or just chatting) with me, feel free to email me.
 
 ## 🔥 News
+- *2026.08*: &nbsp;🎉 3 Papers (1 as corresponding author, 1 as co-first author) accepted by **EMNLP 2026 (Main)**.
 - *2026.07*: &nbsp;🎉 1 Paper (as co-first author) accepted by **ACM MM 2026**.
 - *2026.06*: &nbsp;👨‍💻 I joined **ByteDance Seed** as a research intern.
 - *2026.04*: &nbsp;🎉 1 Paper (as corresponding author) accepted by **ICML 2026**.
@@ -67,6 +68,11 @@ My research focuses on the trustworthiness of AI, specifically on mechanism inte
 **_Transactions on Pattern Analysis and Machine Intelligence_ (<font color="red">Cited 500+ times</font>)**\\
 [[pdf](https://ieeexplore.ieee.org/document/11370531/)] [[arxiv](https://arxiv.org/abs/2310.06387)]
 
+- **On Mutation Testing of In-context Learning Systems**\\
+**<u>Zeming Wei</u>**, Guanzhang Yue, Yihao Zhang, Meng Sun\\
+**_Journal of Systems Architecture_**\\
+[[pdf](https://doi.org/10.1016/j.sysarc.2026.103760)]
+
 - **ReGA: Model-Based Safeguard for LLMs via Representation-Guided Abstraction**\\
 **<u>Zeming Wei</u>**, Chengcan Wu, Meng Sun\\
 **_FSE 2026_**\\
@@ -82,10 +88,15 @@ Rui Wang\*, **<u>Zeming Wei*</u>**, Xiyue Zhang, Meng Sun\\
 **_ACM MM 2026_**\\
 [[pdf](https://arxiv.org/pdf/2511.12265)]
 
-- **On Mutation Testing of In-context Learning Systems**\\
-**<u>Zeming Wei</u>**, Guanzhang Yue, Yihao Zhang, Meng Sun\\
-**_Journal of Systems Architecture_**\\
-[[pdf](https://doi.org/10.1016/j.sysarc.2026.103760)]
+- **Symbolic-Neural Soft-Logic Reasoning: Towards Robust and Verifiable Thinking Chains via Cooperative Evolution**\\
+Rui Wang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**, Yihao Zhang, Xiaokun Luan\\
+**_EMNLP 2026_**\\
+[pdf]
+
+- **SkillSafetyBench: Evaluating Agent Safety under Skill-Facing Attack Surfaces**\\
+Chang Jin\*, An Wang\*, **<u>Zeming Wei*</u>**, Kai Wang, Biaojie Zeng, Qiaosheng Zhang, Chao Yang, Jingjing Qu, Xia Hu, Xingcheng Xu\\
+**_EMNLP 2026_**\\
+[pdf]
 
 - **False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize**\\
 Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Wenxuan Zhou, Muhao Chen\\
@@ -101,6 +112,11 @@ Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Wenxuan Zhou, Muhao Chen\\
 Yihao Zhang\*, **<u>Zeming Wei*${}^{\boldsymbol\dagger}$</u>**\\
 **_ICASSP 2025_ (<font color="red">Oral</font>)**\\
 [[pdf](https://ieeexplore.ieee.org/document/10888812)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
+
+- **Exploring the Robustness of In-Context Learning with Noisy Labels**\\
+Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jinsong Sun, Guanzhang Yue, Yihao Zhang,, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**\\
+**_ICASSP 2025_**\\
+[pdf]
 
 - **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
 Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**\\
