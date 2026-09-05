@@ -23,11 +23,12 @@ ul {
 
 <span class='anchor' id='about-me'></span>
 
-I'm Zeming Wei (<font face=STKaiti>魏泽明</font>), a Ph.D. candidate at School of Mathematical Sciences @ Peking University, proudly supervised by Professor [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html). Currently, I'm a research intern at ByteDance Seed, working on model safety and alignment. I obtained my Bachelor degree from Peking University in 2025 and visited UC Berkeley in Fall 2023, where I was also fortunate to be advised by Prof. [Yisen Wang](https://yisenwang.github.io/), Prof. [Jun Sun](https://sunjun.site/), Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/), and  Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw/). I was a research intern at DAS Security, Shanghai AI Lab, and ByteDance Flow.
+I'm **Zeming Wei** (<font face=STKaiti>魏泽明</font>), a **Ph.D. candidate at School of Mathematical Sciences @ Peking University**, proudly supervised by Prof. [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html), focusing on **AI Safety and Interpretability** research. I obtained my Bachelor's degree from Peking University in 2025 and visited UC Berkeley in Fall 2023, where I was also fortunate to be advised by Prof. [Yisen Wang](https://yisenwang.github.io/) and  Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw/). Currently, I'm a research intern at **ByteDance Seed**, working on foundation model safety and alignment. 
 
-My research focuses on the trustworthiness of AI, specifically on mechanism interpretability, safety alignment, and robust generalization. If you are interested in collaborating (or just chatting) with me, feel free to email me.
+> I'm on the job market in 2027 Summer. Feel free to reach out for any industry or academia opportunities.
 
 ## 🔥 News
+- *2026.08*: &nbsp;💼 I serve as an **Area Chair (Senior Program Committee)** for AAAI 2027 AI Alignment Track.
 - *2026.08*: &nbsp;🎉 3 Papers (1 as corresponding author, 1 as co-first author) accepted by **EMNLP 2026 (Main)**.
 - *2026.07*: &nbsp;🎉 1 Paper (as co-first author) accepted by **ACM MM 2026**.
 - *2026.06*: &nbsp;👨‍💻 I joined **ByteDance Seed** as a research intern.
@@ -132,28 +133,6 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 **<u>Zeming Wei</u>**, Xiyue Zhang, Yihao Zhang, Meng Sun\\
 **_Journal of Logical and Algebraic Methods in Programming_**\\
 [[pdf](https://linkinghub.elsevier.com/retrieve/pii/S2352220823000615)] [[arxiv](https://arxiv.org/abs/2306.14040)] [[code](https://github.com/weizeming/Extract_WFA_from_RNN_for_NL)]  
-
-## ✨ Selected Preprints
-### (${}^{\boldsymbol\dagger}$: Corresponding Author; \*: Equal Contribution)
-- **RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning**\\
-**<u>Zeming Wei</u>**, Qiaosheng Zhang, Xia Hu, Xingcheng Xu\\
-**_ICLR 2026 Trustworthy AI Workshop_**\\
-[[pdf](https://arxiv.org/pdf/2602.04224)]
-
-- **RACC: Representation-Aware Coverage Criteria for LLM Safety Testing**\\
-**<u>Zeming Wei</u>**, Zhixin Zhang, Chengcan Wu, Yihao Zhang, Xiaokun Luan, Meng Sun\\
-**_Preprint_**\\
-[[pdf](https://arxiv.org/pdf/2602.02280)]
-
-- **AgentWorm: Self-Propagating Attacks Across LLM Agent Ecosystems**\\
-Yihao Zhang\*, **<u>Zeming Wei*</u>**, Xiaokun Luan, Chengcan Wu, Zhixin Zhang, Jiangrong Wu, Haolin Wu, Huanran Chen, Jun Sun, Meng Sun\\
-**_Preprint_**\\
-[[pdf](https://arxiv.org/pdf/2603.15727)]
-
-- **SMI: Statistical Membership Inference for Reliable Unlearned Model Auditing**\\
-Jialong Sun\*, **<u>Zeming Wei*</u>**, Jiaxuan Zou\*, Jiacheng Gong, Chengyang Dong, Jie Fu, Heng Xu, Jialong Li, Bo Liu\\
-**_Preprint_**\\
-[[pdf](https://arxiv.org/pdf/2602.01150)]
 
 
 ## 💎 Grants
