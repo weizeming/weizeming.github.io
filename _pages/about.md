@@ -55,8 +55,11 @@ I'm **Zeming Wei** (<font face=STKaiti>魏泽明</font>), a **Ph.D. candidate at
 - *2023.02*: &nbsp;🎉 1 Paper (as first author) accepted by **CVPR 2023**.
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for Undergraduates (Beijing Division), and qualified for the finals.
 
-## 📖 Educations
-- *2025.09 - present*, Ph.D. Candidate, School of Mathematical Sciences, Peking University
+## 📖 Experiences
+- *2026.06 - present*, Research Intern, ByteDance Seed
+- *2025.11 - 2026.05*, Research Intern, Shanghai AI Lab
+- *2025.09 - 2027.06 (Expected)*, Ph.D. Candidate, School of Mathematical Sciences, Peking University
+- *2025.05 - 2025.10*, Research Intern @ **Somersault Cloud Talent Program** (**筋斗云人才计划**), ByteDance Flow
 - *2023.08 - 2023.12*, Visiting Student, University of California Berkeley
 - *2021.06 - 2025.06*, Undergraduate Student, School of Mathematical Sciences, Peking University
 
@@ -139,12 +142,6 @@ Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zemin
 - **Adversarial Safety Testing and Defense of AI Foundation Models**\\
 **Principal Investigator**, Beijing Natural Science Foundation (Grant No. QY24035)\\
 *2024.10 - 2026.09*
-
-
-## 🎖️ Talent Programs
-- **Somersault Cloud Talent Program** (**筋斗云人才计划**), internship track, ByteDance
-- **Talent Program in Mathematics**, National Center for High-level Talent Development, Ministry of Education
-- **Talent Program in Applied Mathematics**, Center for Machine Learning Research, Peking University
 
 
 ## 🏅 Honors and Awards
