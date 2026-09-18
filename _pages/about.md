@@ -28,6 +28,7 @@ I'm **Zeming Wei** (<font face=STKaiti>魏泽明</font>), a **Ph.D. candidate at
 > I'm on the job market in 2027 Summer. Feel free to reach out for any industry or academia opportunities.
 
 ## 🔥 News
+- *2026.09*: &nbsp;🎉 1 Paper (as co-first author) accepted by **NDSS 2027**.
 - *2026.08*: &nbsp;💼 I serve as an **Area Chair (Senior Program Committee)** for AAAI 2027 AI Alignment Track.
 - *2026.08*: &nbsp;🎉 3 Papers (1 as corresponding author, 1 as co-first author) accepted by **EMNLP 2026 (Main)**.
 - *2026.07*: &nbsp;🎉 1 Paper (as co-first author) accepted by **ACM MM 2026**.
@@ -69,6 +70,11 @@ I'm **Zeming Wei** (<font face=STKaiti>魏泽明</font>), a **Ph.D. candidate at
 **<u>Zeming Wei</u>**, Yifei Wang, Ang Li, Yichuan Mo, Yisen Wang\\
 **_Transactions on Pattern Analysis and Machine Intelligence_ (<font color="red">Cited 500+ times</font>)**\\
 [[pdf](https://ieeexplore.ieee.org/document/11370531/)] [[arxiv](https://arxiv.org/abs/2310.06387)]
+
+- **AgentWorm: Self-Propagating Attacks Across LLM Agent Ecosystems**\\
+Yihao Zhang\*, **<u>Zeming Wei*</u>**, Xiaokun Luan, Chengcan Wu, Zhixin Zhang, Jiangrong Wu, Haolin Wu, Huanran Chen, Jun Sun, Meng Sun\\
+**_NDSS 2027_**\\
+[[pdf](https://arxiv.org/pdf/2603.15727)] 
 
 - **On Mutation Testing of In-context Learning Systems**\\
 **<u>Zeming Wei</u>**, Guanzhang Yue, Yihao Zhang, Meng Sun\\
