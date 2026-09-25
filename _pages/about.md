@@ -28,6 +28,7 @@ I'm **Zeming Wei** (<font face=STKaiti>魏泽明</font>), a **Ph.D. candidate at
 > I'm on the job market in 2027 Summer. Feel free to reach out for any industry or academia opportunities.
 
 ## 🔥 News
+- *2026.09*: &nbsp;🎉 1 Paper (as co-first author) accepted by **NeurIPS 2026**.
 - *2026.09*: &nbsp;🎉 1 Paper (as co-first author) accepted by **NDSS 2027**.
 - *2026.08*: &nbsp;💼 I serve as an **Area Chair (Senior Program Committee)** for AAAI 2027 AI Alignment Track.
 - *2026.08*: &nbsp;🎉 3 Papers (1 as corresponding author, 1 as co-first author) accepted by **EMNLP 2026 (Main)**.
@@ -71,15 +72,20 @@ I'm **Zeming Wei** (<font face=STKaiti>魏泽明</font>), a **Ph.D. candidate at
 **_Transactions on Pattern Analysis and Machine Intelligence_ (<font color="red">Cited 500+ times</font>)**\\
 [[pdf](https://ieeexplore.ieee.org/document/11370531/)] [[arxiv](https://arxiv.org/abs/2310.06387)]
 
+- **On Mutation Testing of In-context Learning Systems**\\
+**<u>Zeming Wei</u>**, Guanzhang Yue, Yihao Zhang, Meng Sun\\
+**_Journal of Systems Architecture_**\\
+[[pdf](https://doi.org/10.1016/j.sysarc.2026.103760)]
+
 - **AgentWorm: Self-Propagating Attacks Across LLM Agent Ecosystems**\\
 Yihao Zhang\*, **<u>Zeming Wei*</u>**, Xiaokun Luan, Chengcan Wu, Zhixin Zhang, Jiangrong Wu, Haolin Wu, Huanran Chen, Jun Sun, Meng Sun\\
 **_NDSS 2027_**\\
 [[pdf](https://arxiv.org/pdf/2603.15727)] 
 
-- **On Mutation Testing of In-context Learning Systems**\\
-**<u>Zeming Wei</u>**, Guanzhang Yue, Yihao Zhang, Meng Sun\\
-**_Journal of Systems Architecture_**\\
-[[pdf](https://doi.org/10.1016/j.sysarc.2026.103760)]
+- **SMI: Statistical Membership Inference for Reliable Unlearned Model Auditing**\\
+- Jialong Sun*, **<u>Zeming Wei*</u>**, Jiaxuan Zou*, Jiacheng Gong, Jie Fu, Chengyang Dong, Heng Xu, Jialong Li, Bo Liu\\
+**_NeurIPS 2026_**\\
+[[pdf](https://arxiv.org/pdf/2602.01150)]
 
 - **ReGA: Model-Based Safeguard for LLMs via Representation-Guided Abstraction**\\
 **<u>Zeming Wei</u>**, Chengcan Wu, Meng Sun\\
@@ -98,7 +104,7 @@ Rui Wang\*, **<u>Zeming Wei*</u>**, Xiyue Zhang, Meng Sun\\
 
 - **Symbolic-Neural Soft-Logic Reasoning: Towards Robust and Verifiable Thinking Chains via Cooperative Evolution**\\
 Rui Wang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**, Yihao Zhang, Xiaokun Luan\\
-**_EMNLP 2026_**\\
+**_EMNLP 2026_ (<font color="red">Oral</font>)**\\
 [pdf]
 
 - **SkillSafetyBench: Evaluating Agent Safety under Skill-Facing Attack Surfaces**\\
