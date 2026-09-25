@@ -83,7 +83,7 @@ Yihao Zhang\*, **<u>Zeming Wei*</u>**, Xiaokun Luan, Chengcan Wu, Zhixin Zhang, 
 [[pdf](https://arxiv.org/pdf/2603.15727)] 
 
 - **SMI: Statistical Membership Inference for Reliable Unlearned Model Auditing**\\
-- Jialong Sun*, **<u>Zeming Wei*</u>**, Jiaxuan Zou*, Jiacheng Gong, Jie Fu, Chengyang Dong, Heng Xu, Jialong Li, Bo Liu\\
+Jialong Sun\*, **<u>Zeming Wei*</u>**, Jiaxuan Zou\*, Jiacheng Gong, Jie Fu, Chengyang Dong, Heng Xu, Jialong Li, Bo Liu\\
 **_NeurIPS 2026_**\\
 [[pdf](https://arxiv.org/pdf/2602.01150)]
 
