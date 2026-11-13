@@ -28,6 +28,7 @@ I'm **Zeming Wei** (<font face=STKaiti>魏泽明</font>), a **Ph.D. candidate at
 > I'm on the job market in 2027 Summer. Feel free to reach out for any industry or academia opportunities.
 
 ## 🔥 News
+- *2026.11*: &nbsp;🎉 1 Paper (as first author) accepted by **EACL 2027 (Findings)**.
 - *2026.09*: &nbsp;🎉 1 Paper (as co-first author) accepted by **NeurIPS 2026**.
 - *2026.09*: &nbsp;🎉 1 Paper (as co-first author) accepted by **NDSS 2027**.
 - *2026.08*: &nbsp;💼 I serve as an **Area Chair (Senior Program Committee)** for AAAI 2027 AI Alignment Track.
@@ -77,10 +78,16 @@ I'm **Zeming Wei** (<font face=STKaiti>魏泽明</font>), a **Ph.D. candidate at
 **_Journal of Systems Architecture_**\\
 [[pdf](https://doi.org/10.1016/j.sysarc.2026.103760)]
 
+- **RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning**\\
+**<u>Zeming Wei</u>**, An Wang, Qiaosheng Zhang, Xia Hu, Xingcheng Xu\\
+**_EACL 2027 Findings_**\\
+[[pdf](https://arxiv.org/abs/2602.04224)] 
+
 - **AgentWorm: Self-Propagating Attacks Across LLM Agent Ecosystems**\\
 Yihao Zhang\*, **<u>Zeming Wei*</u>**, Xiaokun Luan, Chengcan Wu, Zhixin Zhang, Jiangrong Wu, Haolin Wu, Huanran Chen, Jun Sun, Meng Sun\\
 **_NDSS 2027_**\\
 [[pdf](https://arxiv.org/pdf/2603.15727)] 
+
 
 - **SMI: Statistical Membership Inference for Reliable Unlearned Model Auditing**\\
 Jialong Sun\*, **<u>Zeming Wei*</u>**, Jiaxuan Zou\*, Jiacheng Gong, Jie Fu, Chengyang Dong, Heng Xu, Jialong Li, Bo Liu\\
