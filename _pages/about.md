@@ -56,7 +56,7 @@ I'm **Zeming Wei** (<font face=STKaiti>魏泽明</font>), a **Ph.D. candidate at
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for Undergraduates (Beijing Division), and qualified for the finals.
 
 ## 📖 Experiences
-- *2026.11 - 2026.present*, Full-time Research Consultant, ByteDance Seed
+- *2026.11 - present*, Full-time Research Consultant, ByteDance Seed
 - *2026.06 - 2026.11*, Research Intern, ByteDance Seed
 - *2025.11 - 2026.05*, Research Intern, Shanghai AI Lab
 - *2025.09 - 2027.06 (Expected)*, Ph.D. Candidate, School of Mathematical Sciences, Peking University
