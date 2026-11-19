@@ -23,9 +23,8 @@ ul {
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Zeming Wei** (<font face=STKaiti>魏泽明</font>), a **Ph.D. candidate at School of Mathematical Sciences @ Peking University**, proudly supervised by Prof. [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html), focusing on **AI Safety and Interpretability** research. I obtained my Bachelor's degree from Peking University in 2025 and visited UC Berkeley in Fall 2023, where I was also fortunate to be advised by Prof. [Yisen Wang](https://yisenwang.github.io/) and  Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw/). Currently, I'm a research intern at **ByteDance Seed**, working on foundation model safety and alignment. 
+I'm **Zeming Wei** (<font face=STKaiti>魏泽明</font>), a **Ph.D. candidate at School of Mathematical Sciences @ Peking University**, proudly supervised by Prof. [Meng Sun](https://www.math.pku.edu.cn/teachers/sunm/index.html), focusing on AI Safety and Interpretability research. I'm also a **Full-time Research Consultant @ ByteDance Seed**, working on foundation model safety and alignment. I obtained my Bachelor's degree from Peking University in 2025 and visited UC Berkeley in Fall 2023, where I was also fortunate to be advised by Prof. [Yisen Wang](https://yisenwang.github.io/) and  Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw/). 
 
-> I'm on the job market in 2027 Summer. Feel free to reach out for any industry or academia opportunities.
 
 ## 🔥 News
 - *2026.11*: &nbsp;🎉 1 Paper (as first author) accepted by **EACL 2027 (Findings)**.
@@ -57,7 +56,8 @@ I'm **Zeming Wei** (<font face=STKaiti>魏泽明</font>), a **Ph.D. candidate at
 - *2022.12*: &nbsp;🥇 Won **First prize** in Chinese Mathematics Competitions for Undergraduates (Beijing Division), and qualified for the finals.
 
 ## 📖 Experiences
-- *2026.06 - present*, Research Intern, ByteDance Seed
+- *2026.11 - 2026.present*, Full-time Research Consultant, ByteDance Seed
+- *2026.06 - 2026.11*, Research Intern, ByteDance Seed
 - *2025.11 - 2026.05*, Research Intern, Shanghai AI Lab
 - *2025.09 - 2027.06 (Expected)*, Ph.D. Candidate, School of Mathematical Sciences, Peking University
 - *2025.05 - 2025.10*, Research Intern @ **Somersault Cloud Talent Program** (**筋斗云人才计划**), ByteDance Flow
@@ -83,26 +83,20 @@ I'm **Zeming Wei** (<font face=STKaiti>魏泽明</font>), a **Ph.D. candidate at
 **_EACL 2027 Findings_**\\
 [[pdf](https://arxiv.org/abs/2602.04224)] 
 
-- **AgentWorm: Self-Propagating Attacks Across LLM Agent Ecosystems**\\
-Yihao Zhang\*, **<u>Zeming Wei*</u>**, Xiaokun Luan, Chengcan Wu, Zhixin Zhang, Jiangrong Wu, Haolin Wu, Huanran Chen, Jun Sun, Meng Sun\\
-**_NDSS 2027_**\\
-[[pdf](https://arxiv.org/pdf/2603.15727)] 
-
-
-- **SMI: Statistical Membership Inference for Reliable Unlearned Model Auditing**\\
-Jialong Sun\*, **<u>Zeming Wei*</u>**, Jiaxuan Zou\*, Jiacheng Gong, Jie Fu, Chengyang Dong, Heng Xu, Jialong Li, Bo Liu\\
-**_NeurIPS 2026_**\\
-[[pdf](https://arxiv.org/pdf/2602.01150)]
-
 - **ReGA: Model-Based Safeguard for LLMs via Representation-Guided Abstraction**\\
 **<u>Zeming Wei</u>**, Chengcan Wu, Meng Sun\\
 **_FSE 2026_**\\
 [[pdf](https://arxiv.org/pdf/2506.01770)]
 
-- **Securing Multi-Agent Systems Against Corruptions via Node Contribution Backpropagation**\\
-Chengcan Wu\*, Zhixin Zhang\*, Mingqian Xu, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**, Meng Sun${}^{\dagger}$\\
-**_ICML 2026_**\\
-[[pdf](https://arxiv.org/pdf/2510.19420)]
+- **AgentWorm: Self-Propagating Attacks Across LLM Agent Ecosystems**\\
+Yihao Zhang\*, **<u>Zeming Wei*</u>**, Xiaokun Luan, Chengcan Wu, Zhixin Zhang, Jiangrong Wu, Haolin Wu, Huanran Chen, Jun Sun, Meng Sun\\
+**_NDSS 2027_**\\
+[[pdf](https://arxiv.org/pdf/2603.15727)] 
+
+- **SMI: Statistical Membership Inference for Reliable Unlearned Model Auditing**\\
+Jialong Sun\*, **<u>Zeming Wei*</u>**, Jiaxuan Zou\*, Jiacheng Gong, Jie Fu, Chengyang Dong, Heng Xu, Jialong Li, Bo Liu\\
+**_NeurIPS 2026_**\\
+[[pdf](https://arxiv.org/pdf/2602.01150)]
 
 - **Stabilizing Multi-Attack Adversarial Training via Bandit Optimization**\\
 Rui Wang\*, **<u>Zeming Wei*</u>**, Xiyue Zhang, Meng Sun\\
@@ -124,20 +118,21 @@ Cheng Wang\*, **<u>Zeming Wei*</u>**, Qin Liu, Wenxuan Zhou, Muhao Chen\\
 **_ACL 2026 Findings_**\\
 [[pdf](https://arxiv.org/pdf/2509.03888)]
 
-- **Identifying and Understanding Cross-Class Features in Adversarial Training**\\
-**<u>Zeming Wei</u>**, Yiwen Guo, Yisen Wang\\
-**_ICML 2025_**\\
-[[pdf](https://openreview.net/pdf?id=FvBYG5jA7k)] [[arxiv](https://arxiv.org/abs/2506.05032)] [[code](https://github.com/PKU-ML/Cross-Class-Features-AT)]
+- **Securing Multi-Agent Systems Against Corruptions via Node Contribution Backpropagation**\\
+Chengcan Wu\*, Zhixin Zhang\*, Mingqian Xu, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**, Meng Sun${}^{\dagger}$\\
+**_ICML 2026_**\\
+[[pdf](https://arxiv.org/pdf/2510.19420)]
+
 
 - **Boosting Jailbreak Attack with Momentum**\\
 Yihao Zhang\*, **<u>Zeming Wei*${}^{\boldsymbol\dagger}$</u>**\\
 **_ICASSP 2025_ (<font color="red">Oral</font>)**\\
 [[pdf](https://ieeexplore.ieee.org/document/10888812)] [[arxiv](https://arxiv.org/abs/2405.01229)] [[code](https://github.com/weizeming/momentum-attack-llm)]
 
-- **Exploring the Robustness of In-Context Learning with Noisy Labels**\\
-Chen Cheng\*, Xinzhi Yu\*, Haodong Wen\*, Jinsong Sun, Guanzhang Yue, Yihao Zhang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**\\
-**_ICASSP 2025_**\\
-[pdf]
+- **Identifying and Understanding Cross-Class Features in Adversarial Training**\\
+**<u>Zeming Wei</u>**, Yiwen Guo, Yisen Wang\\
+**_ICML 2025_**\\
+[[pdf](https://openreview.net/pdf?id=FvBYG5jA7k)] [[arxiv](https://arxiv.org/abs/2506.05032)] [[code](https://github.com/PKU-ML/Cross-Class-Features-AT)]
 
 - **On the Duality Between Sharpness-Aware Minimization and Adversarial Training**\\
 Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, **<u>Zeming Wei${}^{\boldsymbol\dagger}$</u>**\\
